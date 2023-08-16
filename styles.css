@@ -1,0 +1,119 @@
+main {
+    width: 70%;
+    margin: auto;
+}
+
+.logo {
+    width: 30%;
+}
+
+.logobox {
+    text-align: center;
+    margin: 20px 0;
+}
+
+button {
+    border: none;
+    background-color: #014f41;
+    color: white;
+    padding: 5px 8px;
+    border-radius: 5px;
+}
+
+.search, .searchtype {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.searchtype input {
+    margin-left: 10px;
+}
+
+#input {
+    width: 70%;
+    margin-right: 5px;
+}
+
+.word {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.word span {
+    margin: 3px;
+}
+
+.mean span {
+    margin: 3px 5px;
+}
+
+.phun {
+    font-size: 25px;
+    font-family: "PhunWrite", serif;
+}
+.trans {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.pron {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.speech {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.type {
+    padding: 3px 2px;
+    font-size: 12px;
+    border: 2px solid #a27b3b;
+    background-color: #e6dece;
+}
+
+.apptype {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 16px;
+}
+
+.content {
+    border: 2px solid black;
+    width: 100%;
+    margin: 20px auto;
+}
+.content>div {
+    margin: 5px 0;
+    border-bottom: 1px solid black;
+}
+
+.content>div:last-child {
+    margin: 5px 0;
+    border: none;
+}
+
+#pagebuttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pagebuttons * {
+    margin: 5px 10px;
+}
+
+.hidebutton {
+    visibility: hidden;
+}
+
+@font-face {
+    font-family: "PhunWrite";
+    src: url(./fonts/PhunWrite-Regular.woff) format("woff");
+}
