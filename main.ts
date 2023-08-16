@@ -141,6 +141,8 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
     searchBox = <HTMLInputElement> document.getElementById("input")
     searchButton = <HTMLButtonElement> document.getElementById("search")
 
+    let numberBox = document.getElementById("numberofwords")
+    let numberBoxJP = document.getElementById("numberofwordsjp")
 
     prevButton.addEventListener("click", () => {
         presentPage--
@@ -178,6 +180,9 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
         presentPage = 1
         writeDict(dict, presentPage, text, searchType)
     })
+
+    numberBox!.innerHTML = "之時 " + dict.length.toString(12) + "言"
+    numberBoxJP!.innerHTML = "現在：" + dict.length + "語"
 }
 
 function moveBottom() { //ページ最下部へ移動

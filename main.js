@@ -131,6 +131,8 @@ function writeDict(dict, page, filter = "", type = "word") {
     lastButton = document.getElementById("last");
     searchBox = document.getElementById("input");
     searchButton = document.getElementById("search");
+    let numberBox = document.getElementById("numberofwords");
+    let numberBoxJP = document.getElementById("numberofwordsjp");
     prevButton.addEventListener("click", () => {
         presentPage--;
         writeDict(dict, presentPage, filter, type);
@@ -163,6 +165,8 @@ function writeDict(dict, page, filter = "", type = "word") {
         presentPage = 1;
         writeDict(dict, presentPage, text, searchType);
     });
+    numberBox.innerHTML = "之時 " + dict.length.toString(12) + "言";
+    numberBoxJP.innerHTML = "現在：" + dict.length + "語";
 }
 function moveBottom() {
     /*
