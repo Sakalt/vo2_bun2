@@ -19,6 +19,7 @@ const typeColors = {
     "感": { bg: "#ffddfc", br: "#ec71d5" },
     "接": { bg: "#eaeaea", br: "#909090" },
     "数": { bg: "#f5d9ff", br: "#b663e7" },
+    "情": { bg: "#ffd9e8", br: "#e76386" },
     "前置": { bg: "#e6dece", br: "#a27b3b" },
 };
 let presentPage = 1;
@@ -30,6 +31,7 @@ let lastButton;
 let searchBox;
 let searchButton;
 let searchTypeList;
+let searchRuleList;
 // XMLHttpRequestを使ってjsonデータを読み込む
 let requestURL = './dict/dict.json'; //jsonへのパス
 let request = new XMLHttpRequest();
@@ -44,7 +46,20 @@ request.onload = function () {
         writeDict(data, presentPage);
     });
 };
-function writeDict(dict, page, filter = "", type = "word") {
+function searchRule(word, filter, rule) {
+    switch (rule) {
+        case "part":
+            return word.includes(filter);
+        case "start":
+            return word.startsWith(filter);
+        case "end":
+            return word.endsWith(filter);
+        case "regular":
+            const reg = new RegExp(filter);
+            return reg.test(word);
+    }
+}
+function writeDict(dict, page, filter = "", type = "word", rule = "part") {
     dict.sort((a, b) => {
         if (a.word > b.word) {
             return 1;
@@ -60,14 +75,17 @@ function writeDict(dict, page, filter = "", type = "word") {
         if (type == "mean") {
             console.log(type);
             const isMeanIncludes = w["mean"].some((m) => {
-                return m["explanation"].includes(filter);
+                return searchRule(m["explanation"], filter, rule);
+                //return m["explanation"].includes(filter)
             });
             const isAppendIncludes = w["append"].some((a) => {
-                return a["explanation"].includes(filter);
+                return searchRule(a["explanation"], filter, rule);
+                //return a["explanation"].includes(filter)
             });
             return isMeanIncludes || isAppendIncludes;
         }
-        return w[type].includes(filter); //mean以外の時はこっち
+        return searchRule(w[type], filter, rule); //mean以外の時はこっち
+        //return w[type].includes(filter) 
     });
     const totalPages = Math.ceil(filtedWords.length / wordInOnePage);
     const dictInPage = filtedWords.filter((a, idx) => {
@@ -155,15 +173,22 @@ function writeDict(dict, page, filter = "", type = "word") {
     });
     searchButton.addEventListener("click", () => {
         searchTypeList = document.getElementsByName("searchtype");
+        searchRuleList = document.getElementsByName("searchrule");
         let searchType;
         searchTypeList.forEach((a, idx) => {
             if (searchTypeList.item(idx).checked) {
                 searchType = searchTypeList.item(idx).value;
             }
         });
+        let searchRule;
+        searchRuleList.forEach((a, idx) => {
+            if (searchRuleList.item(idx).checked) {
+                searchRule = searchRuleList.item(idx).value;
+            }
+        });
         const text = searchBox.value;
         presentPage = 1;
-        writeDict(dict, presentPage, text, searchType);
+        writeDict(dict, presentPage, text, searchType, searchRule);
     });
     numberBox.innerHTML = "之時 " + dict.length.toString(12) + "言";
     numberBoxJP.innerHTML = "現在：" + dict.length + "語";

@@ -19,6 +19,13 @@
                 <input id="input" type="text">
                 <button id="search" type="button">検索</button>
             </span>
+            <span class="searchrule">
+                検索方法：
+                <input type="radio" name="searchrule" value="part" checked> 部分一致
+                <input type="radio" name="searchrule" value="start"> 前方一致
+                <input type="radio" name="searchrule" value="end"> 後方一致
+                <input type="radio" name="searchrule" value="regular"> 正規表現
+            </span>
             <span class="searchtype">
                 検索対象：
                 <input type="radio" name="searchtype" value="word" checked> 見出し語

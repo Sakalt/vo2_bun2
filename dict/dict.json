@@ -712,6 +712,22 @@
     "pron": "fua1"
   },
   {
+    "word": "目正",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "確認する。チェックする。認証する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ke fua1"
+  },
+  {
     "word": "是",
     "mean": [
       {
@@ -1157,11 +1173,27 @@
     ],
     "append": [
       {
-        "type": "類",
-        "explanation": "向。動詞で用いるときは、ある特定の場所ではなく方向に向かって進むことを表す。"
+        "type": "",
+        "explanation": ""
       }
     ],
     "pron": "yaom"
+  },
+  {
+    "word": "行元",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "戻す。戻る。バックする。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "yaom xo2"
   },
   {
     "word": "行場",
@@ -1218,6 +1250,22 @@
       }
     ],
     "pron": "kua1"
+  },
+  {
+    "word": "之時",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "現在。今の状態。"
+      }
+    ],
+    "append": [
+      {
+        "type": "類",
+        "explanation": "今。こちらは現在の時間をピンポイントに指すが、之時は時間軸をある特定の基準で区切ったときの「現在」の部分を指す。"
+      }
+    ],
+    "pron": "kua1 tua"
   },
   {
     "word": "之日",
@@ -1776,6 +1824,22 @@
     "pron": "be2"
   },
   {
+    "word": "家網",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "LAN。有線LAN。無線LAN。Wi-Fi。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "be2 mua3"
+  },
+  {
     "word": "人家",
     "mean": [
       {
@@ -1874,6 +1938,22 @@
       }
     ],
     "pron": "mam"
+  },
+  {
+    "word": "光杖",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ハンドライト。懐中電灯。たいまつ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mam qo2"
   },
   {
     "word": "白",
@@ -2180,6 +2260,22 @@
     "pron": "sua2"
   },
   {
+    "word": "書門",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "編集する。書き換える。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "sua2 fuon1"
+  },
+  {
     "word": "記",
     "mean": [
       {
@@ -2198,6 +2294,22 @@
       }
     ],
     "pron": "cuang3"
+  },
+  {
+    "word": "記盤",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "看板。標識。サイン。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "cuang3 xu3"
   },
   {
     "word": "心記",
@@ -2294,6 +2406,22 @@
       }
     ],
     "pron": "qai3"
+  },
+  {
+    "word": "歩目",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "見学する。能動的に見る。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "qai3 ke"
   },
   {
     "word": "整",
@@ -2490,6 +2618,38 @@
       }
     ],
     "pron": "mong2"
+  },
+  {
+    "word": "刈時",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "制限時間。残り時間。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mong2 tua"
+  },
+  {
+    "word": "刈終",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "期限。期日。締め切り。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mong2 ki"
   },
   {
     "word": "不刈",
@@ -2880,6 +3040,22 @@
     "pron": "main1 ye1"
   },
   {
+    "word": "紙木",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（コンピューター上の）フォルダ。ファイルをまとめる単位。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ye1 lung"
+  },
+  {
     "word": "雷脳",
     "mean": [
       {
@@ -2900,7 +3076,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "ディスプレイ。モニター。"
+        "explanation": "画面。ディスプレイなどに表示されている内容。"
       }
     ],
     "append": [
@@ -3204,6 +3380,38 @@
     "pron": "hua"
   },
   {
+    "word": "雲雨",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（降る）雪。空から降る途中の雪。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pu1 huo2"
+  },
+  {
+    "word": "氷雲",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（積もった）雪。積雪。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "hua pu1"
+  },
+  {
     "word": "雲",
     "mean": [
       {
@@ -3270,6 +3478,22 @@
       }
     ],
     "pron": "fuon1 mu3"
+  },
+  {
+    "word": "門杖",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "レバー。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "fuon1 qo2"
   },
   {
     "word": "雷門圧",
@@ -3488,6 +3712,22 @@
     "pron": "mua3"
   },
   {
+    "word": "網壁",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "柵。フェンス。網状の仕切り。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mua3 di1"
+  },
+  {
     "word": "雷網",
     "mean": [
       {
@@ -3525,6 +3765,10 @@
       {
         "partOfSpeech": "名",
         "explanation": "ハンコ。スタンプ。インクを付けて押すことで転写する筆記具。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "コピーする。転写する。"
       }
     ],
     "append": [
@@ -3924,6 +4168,22 @@
     "pron": "fuon3"
   },
   {
+    "word": "周目",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "見物する。外側から見る。観察する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "fuon3 ke"
+  },
+  {
     "word": "周隣",
     "mean": [
       {
@@ -3953,6 +4213,10 @@
       {
         "partOfSpeech": "接",
         "explanation": "逆接。しかし。が。"
+      },
+      {
+        "partOfSpeech": "副",
+        "explanation": "また。何度目かの。～回目の。"
       }
     ],
     "append": [
@@ -4724,6 +4988,22 @@
     "pron": "dao"
   },
   {
+    "word": "遊数",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（方程式における）未知数。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "dao mis2"
+  },
+  {
     "word": "遊心",
     "mean": [
       {
@@ -5173,6 +5453,10 @@
       {
         "partOfSpeech": "名",
         "explanation": "布。糸を織って作った薄い素材。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "薄く曲げることのできる物体。シート。"
       }
     ],
     "append": [
@@ -5343,6 +5627,10 @@
         "explanation": "絵。アート。絵画。図画。"
       },
       {
+        "partOfSpeech": "名",
+        "explanation": "「雷画」の略。"
+      },
+      {
         "partOfSpeech": "動",
         "explanation": "描く。えがく。図や絵を描く。"
       }
@@ -5354,6 +5642,22 @@
       }
     ],
     "pron": "xao3"
+  },
+  {
+    "word": "画機",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ディスプレイ。モニター。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "xao3 ail2"
   },
   {
     "word": "目画",
@@ -5457,6 +5761,10 @@
       {
         "partOfSpeech": "名",
         "explanation": "原子番号2(He)の略称。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "ON。スイッチが入った状態。"
       }
     ],
     "append": [
@@ -5466,6 +5774,54 @@
       }
     ],
     "pron": "mi3"
+  },
+  {
+    "word": "暁果",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ウリ類の植物。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "mi3 baon3"
+  },
+  {
+    "word": "固暁果",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "かぼちゃ。南瓜。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nail2 mi3 baon3"
+  },
+  {
+    "word": "糖暁果",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "メロン。舐瓜。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "li2 mi3 baon3"
   },
   {
     "word": "暁気",
@@ -5916,6 +6272,22 @@
     "pron": "hes3"
   },
   {
+    "word": "永印",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "保存用に複製したもの。バックアップ。レプリカ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "hes3 sua1"
+  },
+  {
     "word": "問",
     "mean": [
       {
@@ -6040,6 +6412,102 @@
     "pron": "hais1"
   },
   {
+    "word": "石炭",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "石炭。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "hais1 si2"
+  },
+  {
+    "word": "石油",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "石油。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "hais1 xu2"
+  },
+  {
+    "word": "燃石",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "溶岩。マグマ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "lus3 hais1"
+  },
+  {
+    "word": "赤粒石",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "花崗岩。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "vuos1 duol2 hais1"
+  },
+  {
+    "word": "白粒石",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "閃緑岩。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kaing1 duol2 hais1"
+  },
+  {
+    "word": "神旭石",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "安山岩。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "xo1 ju hais1"
+  },
+  {
     "word": "瑠",
     "mean": [
       {
@@ -6140,6 +6608,22 @@
     "pron": "se"
   },
   {
+    "word": "泡巾",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "スポンジ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "se ye2"
+  },
+  {
     "word": "箔",
     "mean": [
       {
@@ -6154,6 +6638,38 @@
       }
     ],
     "pron": "gu2"
+  },
+  {
+    "word": "箔筋",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "電源コード。電線。電気を伝える器具。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "gu2 las2"
+  },
+  {
+    "word": "与雷口",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "コンセント。電源口。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "qil2 main1 ge2"
   },
   {
     "word": "金",
@@ -6620,6 +7136,54 @@
     "pron": "faong2"
   },
   {
+    "word": "通日",
+    "mean": [
+      {
+        "partOfSpeech": "副",
+        "explanation": "毎日。連日。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "faong2 kuang3"
+  },
+  {
+    "word": "通月",
+    "mean": [
+      {
+        "partOfSpeech": "副",
+        "explanation": "毎月。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "faong2 vo3"
+  },
+  {
+    "word": "通年",
+    "mean": [
+      {
+        "partOfSpeech": "副",
+        "explanation": "毎年。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "faong2 vais2"
+  },
+  {
     "word": "尻",
     "mean": [
       {
@@ -6706,6 +7270,22 @@
       }
     ],
     "pron": "li2"
+  },
+  {
+    "word": "糖草",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "サトウキビ。さとうきび。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "li2 cai1"
   },
   {
     "word": "糖氷",
@@ -6844,7 +7424,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "嗅ぐ。匂いを感じる。"
+        "explanation": "嗅ぐ。匂いを感じる。香る。"
       },
       {
         "partOfSpeech": "名",
@@ -6858,6 +7438,22 @@
       }
     ],
     "pron": "guol1"
+  },
+  {
+    "word": "香杖",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "お香。線香。芳香のある煙を出す道具。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "guol1 qo2"
   },
   {
     "word": "止",
@@ -6881,6 +7477,10 @@
       {
         "partOfSpeech": "形",
         "explanation": "重い。重量の大きい。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "重量。重さ。"
       }
     ],
     "append": [
@@ -6890,6 +7490,38 @@
       }
     ],
     "pron": "an3"
+  },
+  {
+    "word": "紙重",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ファイルサイズ。コンピューターにおけるデータの大きさ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ye1 an3"
+  },
+  {
+    "word": "体重",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "体重。生物の重量。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "vao2 an3"
   },
   {
     "word": "甲",
@@ -7054,6 +7686,22 @@
       }
     ],
     "pron": "wem3"
+  },
+  {
+    "word": "粘土",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "粘土。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "wem3 ao3"
   },
   {
     "word": "粘琥",
@@ -7376,6 +8024,22 @@
     "pron": "gim3 ye"
   },
   {
+    "word": "車道",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "レール。鉄道。線路。路線。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ye gim3"
+  },
+  {
     "word": "衆車",
     "mean": [
       {
@@ -7552,11 +8216,27 @@
     "pron": "ail2 bun"
   },
   {
+    "word": "書画機",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "プリンター。印刷機。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "sua2 xao3 ail2"
+  },
+  {
     "word": "印機",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "プリンター。印刷j機。"
+        "explanation": "コピー機。転写機。"
       }
     ],
     "append": [
@@ -7958,6 +8638,22 @@
       }
     ],
     "pron": "hai"
+  },
+  {
+    "word": "整数知",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "統計。統計学。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "lao1 mis2 hai"
   },
   {
     "word": "記知",
@@ -8805,6 +9501,10 @@
       {
         "partOfSpeech": "形",
         "explanation": "暗い。明かりがない。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "OFF。スイッチを切った状態。"
       }
     ],
     "append": [
@@ -9228,13 +9928,13 @@
     "mean": [
       {
         "partOfSpeech": "接",
-        "explanation": "もし。仮に。"
+        "explanation": "ならば。もし。仮に。"
       }
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "文",
+        "explanation": "「A模B」で「AならばB」を表す。"
       }
     ],
     "pron": "muo"
@@ -9356,6 +10056,38 @@
     "pron": "he2"
   },
   {
+    "word": "違做",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "エラー。バグ。機械のよくない動き。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "he2 hil1"
+  },
+  {
+    "word": "違事",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "うそ。嘘。フェイク。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "he2 ge"
+  },
+  {
     "word": "消",
     "mean": [
       {
@@ -9394,6 +10126,22 @@
       }
     ],
     "pron": "co2"
+  },
+  {
+    "word": "岐道",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "分かれ道。Y字路。T字路。丁字路。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "co2 gim3"
   },
   {
     "word": "法",
@@ -9533,7 +10281,19 @@
       {
         "partOfSpeech": "形",
         "explanation": "本当の。確かな。確実な。"
-      },
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nim3"
+  },
+  {
+    "word": "真事",
+    "mean": [
       {
         "partOfSpeech": "名",
         "explanation": "真実。真理。"
@@ -9545,7 +10305,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nim3"
+    "pron": "nim3 ge"
   },
   {
     "word": "真言",
@@ -9852,7 +10612,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "落ちる。物が重力によって移動する。"
+        "explanation": "落とす。落ちる。物が重力によって移動する。"
       }
     ],
     "append": [
@@ -12646,5 +13406,397 @@
       }
     ],
     "pron": "naim so"
+  },
+  {
+    "word": "慶",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "うれしい。"
+      },
+      {
+        "partOfSpeech": "情",
+        "explanation": "うれしい、喜ばしいことを表現する情詞。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nu"
+  },
+  {
+    "word": "敬",
+    "mean": [
+      {
+        "partOfSpeech": "情",
+        "explanation": "相手に対する尊敬を表現する情詞。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "vung1"
+  },
+  {
+    "word": "焉",
+    "mean": [
+      {
+        "partOfSpeech": "情",
+        "explanation": "強調や強い断定を表現する情詞。ネガティブな感情表現として使われることが多い。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "del2"
+  },
+  {
+    "word": "片",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "切れ端。部分。一部。欠片。大きいものの一部分。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "雰国の補助通貨。百片=一玉。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pi1"
+  },
+  {
+    "word": "肉片",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "（肉の）部位。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nang pi1"
+  },
+  {
+    "word": "片箔",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "金属片。金属スクラップ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pi1 gu2"
+  },
+  {
+    "word": "礬箔巾",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "アルミホイル。アルミ箔。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "min2 gu2 ye2"
+  },
+  {
+    "word": "金巾",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "金箔。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "va2 ye2"
+  },
+  {
+    "word": "動",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "動く。移動する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "we2"
+  },
+  {
+    "word": "籠",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "箱。ケース。蓋つきの容器。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "duon3"
+  },
+  {
+    "word": "筆籠",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "ペンケース。筆箱。ペン立て。文房具の入れ物。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "fa duon3"
+  },
+  {
+    "word": "衣籠",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "たんす。クローゼット。服をしまうための家具。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nel3 duon3"
+  },
+  {
+    "word": "物",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "物。物体。物理的な存在。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kao"
+  },
+  {
+    "word": "居数",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "1以上の数。数のうち、物体の数として捉えられる集合。自然数。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "baim1 mis2"
+  },
+  {
+    "word": "探",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "探す。たくさんあるものの中から取り出す。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ung1"
+  },
+  {
+    "word": "探網",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "（インターネットで）検索する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ung1 mua3"
+  },
+  {
+    "word": "花",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "花。花びら。植物の色鮮やかな部分。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "xaos2"
+  },
+  {
+    "word": "算",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "計算する。算出する。数による演算を行う。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "buo1"
+  },
+  {
+    "word": "集算",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "足す。加算する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "naim buo1"
+  },
+  {
+    "word": "消算",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "引く。減算する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nao buo1"
+  },
+  {
+    "word": "多算",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "掛ける。乗算する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "jo2 buo1"
+  },
+  {
+    "word": "刃算",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "割る。除算する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "na1 buo1"
+  },
+  {
+    "word": "算数",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "統計を取る。合計する。たくさんのデータに対して演算する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "buo1 mis2"
+  },
+  {
+    "word": "平数",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "平均値。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "xem mis2"
   }
 ]
