@@ -208,7 +208,7 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
         writeDict(dict, presentPage, text, searchType, searchRule)
     })
 
-    numberBox!.innerHTML = "之時 " + dict.length.toString(12) + "言"
+    numberBox!.innerHTML = "之時 " + toPhunnum(dict.length.toString(12)) + "言"
     numberBoxJP!.innerHTML = "現在：" + dict.length + "語"
 }
 
@@ -219,4 +219,26 @@ function moveBottom() { //ページ最下部へ移動
     window.scroll(0, y);
     */
     window.scroll({top: 0});
+}
+
+function toPhunnum(num: string) {
+    const PhunNum: any = {
+        "0": "〇",
+        "1": "〡",
+        "2": "〢",
+        "3": "〣",
+        "4": "〤",
+        "5": "〥",
+        "6": "〦",
+        "7": "〧",
+        "8": "〨",
+        "9": "〩",
+        "a": "〹",
+        "b": "〺",
+        ".": "・",
+    }
+
+    return num.toString().split("").map(e => {
+        return PhunNum[e]
+    }).join("")
 }
