@@ -436,13 +436,13 @@
       },
       {
         "partOfSpeech": "名",
-        "explanation": "星。惑星や衛星、恒星などをまとめて指す言葉。"
+        "explanation": "星。天体。"
       }
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "用",
+        "explanation": "星としては惑星や衛星、恒星などをまとめて指す。"
       }
     ],
     "pron": "vas1"
@@ -1505,8 +1505,8 @@
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "用",
+        "explanation": "日時計やアナログ時計など、平たい形をした時計を指す。"
       }
     ],
     "pron": "tua2 xu1"
@@ -4285,8 +4285,8 @@
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "用",
+        "explanation": "コマのように軸を中心に回る運動を指す。"
       }
     ],
     "pron": "pel1"
@@ -4848,7 +4848,7 @@
     "mean": [
       {
         "partOfSpeech": "形",
-        "explanation": "さらさらした。サラサラした。"
+        "explanation": "粉々の。非常に細かい。"
       }
     ],
     "append": [
@@ -4858,6 +4858,22 @@
       }
     ],
     "pron": "zo2 zo2"
+  },
+  {
+    "word": "乾乾",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "さらさらした。サラサラした。湿り気のない。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "so1 so1"
   },
   {
     "word": "粒",
@@ -4969,6 +4985,10 @@
       {
         "partOfSpeech": "形",
         "explanation": "同じ。同一の。等しい。均等な。"
+      },
+      {
+        "partOfSpeech": "助",
+        "explanation": "～も。同類のものを表す。"
       }
     ],
     "append": [
@@ -5396,7 +5416,7 @@
     "pron": "suo3"
   },
   {
-    "word": "天熱",
+    "word": "気熱",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -5409,7 +5429,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 suo3"
+    "pron": "sing1 suo3"
   },
   {
     "word": "熱病",
@@ -6408,7 +6428,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "神を信じる。信仰する。"
+        "explanation": "信じる。信仰する。"
       },
       {
         "partOfSpeech": "名",
@@ -10009,8 +10029,8 @@
     ],
     "append": [
       {
-        "type": "",
-        "explanation": ""
+        "type": "文",
+        "explanation": "「A態B」で「AのようなB」を表す。"
       }
     ],
     "pron": "xos2"
@@ -13948,7 +13968,11 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "春。旭暦の1月～4月頃に当たる。立春～立夏の時期を指す。"
+        "explanation": "春。旭暦の1季～2季頃に当たる。立春～立夏の時期を指す。"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "若い。未熟な。"
       }
     ],
     "append": [
@@ -13969,6 +13993,10 @@
       {
         "partOfSpeech": "副",
         "explanation": "満足に。たっぷり。"
+      },
+      {
+        "partOfSpeech": "動",
+        "explanation": "満たす。"
       }
     ],
     "append": [
@@ -14000,7 +14028,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "夏。旭暦の5月～9月頃に当たる。立夏～立秋の時期を指す。"
+        "explanation": "夏。旭暦の3季～4季頃に当たる。立夏～立秋の時期を指す。"
       }
     ],
     "append": [
@@ -14052,7 +14080,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "秋。旭暦の10月～13月頃に当たる。立秋～立冬の時期を指す。"
+        "explanation": "秋。旭暦の5季～6季頃に当たる。立秋～立冬の時期を指す。"
       }
     ],
     "append": [
@@ -14068,7 +14096,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "冬。旭暦の14月～17月頃に当たる。立冬～立春の時期を指す。"
+        "explanation": "冬。旭暦の7季～9季頃に当たる。立冬～立春の時期を指す。"
       }
     ],
     "append": [
@@ -14156,17 +14184,17 @@
     "mean": [
       {
         "partOfSpeech": "形",
-        "explanation": "黄緑色の。黄緑の。"
+        "explanation": "葉を光に透かしたような色の。"
       },
       {
         "partOfSpeech": "名",
-        "explanation": "黄緑色。"
+        "explanation": "葉を光に透かした色。"
       }
     ],
     "append": [
       {
-        "type": "用",
-        "explanation": "葉を光に透かしたような色。"
+        "type": "世",
+        "explanation": "葉が地球のものと同じ色をしているとは限らない。"
       }
     ],
     "pron": "xao2 cai1"
@@ -14338,6 +14366,22 @@
       }
     ],
     "pron": "sai3"
+  },
+  {
+    "word": "吹弩",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "発砲する。銃撃する。撃つ。銃器を使用する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "pang3 sai3"
   },
   {
     "word": "弓弩",
@@ -14514,5 +14558,293 @@
       }
     ],
     "pron": "je3 pi1"
+  },
+  {
+    "word": "東",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "東。永球の自転方向。灼陽が昇る方角。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ka2"
+  },
+  {
+    "word": "西",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "西。東の反対方向。灼陽が沈む方角。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "vu1"
+  },
+  {
+    "word": "賜",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "もらう。貰う。頂く。受け取る。他から物品を受け取る。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "jel2"
+  },
+  {
+    "word": "南",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "南。南極点に向かう方向。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "jing3"
+  },
+  {
+    "word": "魚",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "魚。魚類。水中に生息するエラのある生き物。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "bi2"
+  },
+  {
+    "word": "揺",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "揺れる。周期的に振動する。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kuan3"
+  },
+  {
+    "word": "多乗",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "積む。積み重なる。たくさんのものが重なる。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "jo3 qang3"
+  },
+  {
+    "word": "揺糸",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "振り子。一点を固定して周期的に振動するようにした機構。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kuan3 buo3"
+  },
+  {
+    "word": "揺時機",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "振り子時計。振り子により時刻を表示する時計。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kuan3 tua2 ail2"
+  },
+  {
+    "word": "夕宇",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "夕暮れ空。灼陽が沈む時間帯の空。"
+      }
+    ],
+    "append": [
+      {
+        "type": "世",
+        "explanation": "永球の夕暮れの色は地球と同じく赤色である。"
+      }
+    ],
+    "pron": "dom2 duo1"
+  },
+  {
+    "word": "旭宇",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "朝焼け空。灼陽が出る時間帯の空。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ju1 duo1"
+  },
+  {
+    "word": "飛揺",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "電磁波。電波。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "dail2 kuan3"
+  },
+  {
+    "word": "宇",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "空。そら。天空。地面の上方の広い空間。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "duo1"
+  },
+  {
+    "word": "雷報",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "データ。電子的な情報。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "main2 vul3"
+  },
+  {
+    "word": "宇地",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "天井。部屋の上面。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "duo1 ho3"
+  },
+  {
+    "word": "返",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "裏返す。捲る。めくる。裏側が見えるようにする。"
+      }
+    ],
+    "append": [
+      {
+        "type": "用",
+        "explanation": "カードをめくるなどの動作を指す。"
+      }
+    ],
+    "pron": "vuo1"
+  },
+  {
+    "word": "返内",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "裏返す。返す。内側と外側を入れ替える。"
+      }
+    ],
+    "append": [
+      {
+        "type": "用",
+        "explanation": "内側を引きずり出す動作を指す。"
+      }
+    ],
+    "pron": "vuo1 yuo2"
+  },
+  {
+    "word": "返平",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "裏側。裏面。見えない面。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "vuo1 xem1"
   }
 ]

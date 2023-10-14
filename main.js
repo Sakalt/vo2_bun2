@@ -24,10 +24,15 @@ const typeColors = {
 };
 let presentPage = 1;
 const wordInOnePage = 30;
+let totalPages;
+let searchType = "word";
+let searchRuleValue = "part";
+let searchText = "";
 let prevButton;
 let nextButton;
 let firstButton;
 let lastButton;
+let pagesBox;
 let searchBox;
 let searchButton;
 let searchTypeList;
@@ -44,6 +49,50 @@ request.onload = function () {
         let data = request.response;
         data = JSON.parse(JSON.stringify(data));
         writeDict(data, presentPage);
+        totalPages = Math.ceil(data.length / wordInOnePage);
+        searchBox = document.getElementById("input");
+        searchButton = document.getElementById("search");
+        let numberBox = document.getElementById("numberofwords");
+        let numberBoxJP = document.getElementById("numberofwordsjp");
+        prevButton.addEventListener("click", () => {
+            presentPage--;
+            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            moveBottom();
+        });
+        nextButton.addEventListener("click", () => {
+            presentPage++;
+            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            moveBottom();
+        });
+        firstButton.addEventListener("click", () => {
+            presentPage = 1;
+            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            moveBottom();
+        });
+        lastButton.addEventListener("click", () => {
+            presentPage = totalPages;
+            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            moveBottom();
+        });
+        searchButton.addEventListener("click", () => {
+            searchTypeList = document.getElementsByName("searchtype");
+            searchRuleList = document.getElementsByName("searchrule");
+            searchTypeList.forEach((a, idx) => {
+                if (searchTypeList.item(idx).checked) {
+                    searchType = searchTypeList.item(idx).value;
+                }
+            });
+            searchRuleList.forEach((a, idx) => {
+                if (searchRuleList.item(idx).checked) {
+                    searchRuleValue = searchRuleList.item(idx).value;
+                }
+            });
+            searchText = searchBox.value;
+            presentPage = 1;
+            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+        });
+        numberBox.innerHTML = "之時 " + toPhunnum(data.length.toString(12)) + "言";
+        numberBoxJP.innerHTML = "現在：" + data.length + "語";
     });
 };
 function searchRule(word, filter, rule) {
@@ -60,6 +109,10 @@ function searchRule(word, filter, rule) {
     }
 }
 function writeDict(dict, page, filter = "", type = "word", rule = "part") {
+    prevButton = document.getElementById("prev");
+    nextButton = document.getElementById("next");
+    firstButton = document.getElementById("first");
+    lastButton = document.getElementById("last");
     dict.sort((a, b) => {
         if (a.word > b.word) {
             return 1;
@@ -73,7 +126,6 @@ function writeDict(dict, page, filter = "", type = "word", rule = "part") {
     });
     const filtedWords = dict.filter((w) => {
         if (type == "mean") {
-            console.log(type);
             const isMeanIncludes = w["mean"].some((m) => {
                 return searchRule(m["explanation"], filter, rule);
                 //return m["explanation"].includes(filter)
@@ -87,7 +139,27 @@ function writeDict(dict, page, filter = "", type = "word", rule = "part") {
         return searchRule(w[type], filter, rule); //mean以外の時はこっち
         //return w[type].includes(filter) 
     });
-    const totalPages = Math.ceil(filtedWords.length / wordInOnePage);
+    totalPages = Math.ceil(filtedWords.length / wordInOnePage);
+    pagesBox = document.getElementById("pageNum");
+    pagesBox.innerHTML = `${presentPage}/${totalPages}`;
+    const hidePrev = presentPage <= 1;
+    const hideNext = presentPage >= totalPages;
+    if (hidePrev) {
+        prevButton.classList.add("hidebutton");
+        firstButton.classList.add("hidebutton");
+    }
+    else {
+        prevButton.classList.remove("hidebutton");
+        firstButton.classList.remove("hidebutton");
+    }
+    if (hideNext) {
+        nextButton.classList.add("hidebutton");
+        lastButton.classList.add("hidebutton");
+    }
+    else {
+        nextButton.classList.remove("hidebutton");
+        lastButton.classList.remove("hidebutton");
+    }
     const dictInPage = filtedWords.filter((a, idx) => {
         return Math.floor(idx / wordInOnePage) + 1 == page;
     });
@@ -133,65 +205,6 @@ function writeDict(dict, page, filter = "", type = "word", rule = "part") {
         dictHTML += wordHTML;
     });
     contentBox.innerHTML = dictHTML;
-    const buttons = document.getElementById("pagebuttons");
-    const viewPrev = presentPage > 1 ? "" : " class='hidebutton'";
-    const viewNext = presentPage < totalPages ? "" : " class='hidebutton'";
-    buttons.innerHTML = `
-    <button type="button"${viewPrev} id="first">最初のページへ</button>
-    <button type="button"${viewPrev} id="prev">前のページへ</button>
-    <p>${presentPage}/${totalPages}</p>
-    <button type="button"${viewNext} id="next">次のページへ</button>
-    <button type="button"${viewNext} id="last">最後のページへ</button>
-    `;
-    prevButton = document.getElementById("prev");
-    nextButton = document.getElementById("next");
-    firstButton = document.getElementById("first");
-    lastButton = document.getElementById("last");
-    searchBox = document.getElementById("input");
-    searchButton = document.getElementById("search");
-    let numberBox = document.getElementById("numberofwords");
-    let numberBoxJP = document.getElementById("numberofwordsjp");
-    prevButton.addEventListener("click", () => {
-        presentPage--;
-        writeDict(dict, presentPage, filter, type);
-        moveBottom();
-    });
-    nextButton.addEventListener("click", () => {
-        presentPage++;
-        writeDict(dict, presentPage, filter, type);
-        moveBottom();
-    });
-    firstButton.addEventListener("click", () => {
-        presentPage = 1;
-        writeDict(dict, presentPage, filter, type);
-        moveBottom();
-    });
-    lastButton.addEventListener("click", () => {
-        presentPage = totalPages;
-        writeDict(dict, presentPage, filter, type);
-        moveBottom();
-    });
-    searchButton.addEventListener("click", () => {
-        searchTypeList = document.getElementsByName("searchtype");
-        searchRuleList = document.getElementsByName("searchrule");
-        let searchType;
-        searchTypeList.forEach((a, idx) => {
-            if (searchTypeList.item(idx).checked) {
-                searchType = searchTypeList.item(idx).value;
-            }
-        });
-        let searchRule;
-        searchRuleList.forEach((a, idx) => {
-            if (searchRuleList.item(idx).checked) {
-                searchRule = searchRuleList.item(idx).value;
-            }
-        });
-        const text = searchBox.value;
-        presentPage = 1;
-        writeDict(dict, presentPage, text, searchType, searchRule);
-    });
-    numberBox.innerHTML = "之時 " + toPhunnum(dict.length.toString(12)) + "言";
-    numberBoxJP.innerHTML = "現在：" + dict.length + "語";
 }
 function moveBottom() {
     /*

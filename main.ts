@@ -15,11 +15,18 @@ const typeColors: any = {
 
 let presentPage = 1
 const wordInOnePage = 30
+let totalPages: number
+
+let searchType: string = "word"
+let searchRuleValue: string = "part"
+let searchText: string = ""
 
 let prevButton: HTMLButtonElement
 let nextButton: HTMLButtonElement
 let firstButton: HTMLButtonElement
 let lastButton: HTMLButtonElement
+
+let pagesBox: HTMLElement
 
 let searchBox: HTMLInputElement
 let searchButton: HTMLButtonElement
@@ -38,7 +45,64 @@ request.onload = async function() {
     let data = request.response;
     data = JSON.parse(JSON.stringify(data));
     writeDict(data, presentPage)
+
+    totalPages = Math.ceil(data.length / wordInOnePage)
+
+    searchBox = <HTMLInputElement> document.getElementById("input")
+    searchButton = <HTMLButtonElement> document.getElementById("search")
+
+    let numberBox = document.getElementById("numberofwords")
+    let numberBoxJP = document.getElementById("numberofwordsjp")
+
+    prevButton.addEventListener("click", () => {
+        presentPage--
+        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        moveBottom()
+    })
+    nextButton.addEventListener("click", () => {
+        presentPage++
+        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        moveBottom()
+    })
+    firstButton.addEventListener("click", () => {
+        presentPage = 1
+        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        moveBottom()
+    })
+    lastButton.addEventListener("click", () => {
+        presentPage = totalPages
+        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        moveBottom()
+    })
+
+    searchButton.addEventListener("click", () => {
+        searchTypeList = <NodeListOf<HTMLInputElement>> document.getElementsByName("searchtype")
+        searchRuleList = <NodeListOf<HTMLInputElement>> document.getElementsByName("searchrule")
+
+        
+        searchTypeList.forEach((a, idx) => {
+            if(searchTypeList.item(idx).checked) {
+                searchType = searchTypeList.item(idx).value;
+            }
+        })
+
+        
+        searchRuleList.forEach((a, idx) => {
+            if(searchRuleList.item(idx).checked) {
+                searchRuleValue = searchRuleList.item(idx).value;
+            }
+        })
+
+        searchText = searchBox.value
+
+        presentPage = 1
+        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+    })
+
+    numberBox!.innerHTML = "之時 " + toPhunnum(data.length.toString(12)) + "言"
+    numberBoxJP!.innerHTML = "現在：" + data.length + "語"
 }
+
 
 function searchRule(word: string, filter: string, rule: string){
     switch(rule){
@@ -55,6 +119,11 @@ function searchRule(word: string, filter: string, rule: string){
 }
 
 function writeDict(dict: object[], page: number, filter: string = "", type: string = "word", rule: string = "part") {
+    prevButton = <HTMLButtonElement> document.getElementById("prev")
+    nextButton = <HTMLButtonElement> document.getElementById("next")
+    firstButton = <HTMLButtonElement> document.getElementById("first")
+    lastButton = <HTMLButtonElement> document.getElementById("last")
+
     dict.sort((a: any, b: any) => {
         if (a.word > b.word){
             return 1;
@@ -67,7 +136,6 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
 
     const filtedWords = dict.filter((w: any) => {
         if (type == "mean") {
-            console.log(type)
             const isMeanIncludes = w["mean"].some((m: any) => {
                 return searchRule(m["explanation"], filter, rule)
                 //return m["explanation"].includes(filter)
@@ -83,7 +151,28 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
         //return w[type].includes(filter) 
     })
 
-    const totalPages = Math.ceil(filtedWords.length / wordInOnePage)
+    totalPages = Math.ceil(filtedWords.length / wordInOnePage)
+    pagesBox = <HTMLElement> document.getElementById("pageNum")
+
+    pagesBox!.innerHTML = `${presentPage}/${totalPages}`
+        
+    const hidePrev = presentPage <= 1
+    const hideNext = presentPage >= totalPages
+
+    if (hidePrev) {
+        prevButton.classList.add("hidebutton")
+        firstButton.classList.add("hidebutton")
+    } else {
+        prevButton.classList.remove("hidebutton")
+        firstButton.classList.remove("hidebutton")
+    }
+    if (hideNext) {
+        nextButton.classList.add("hidebutton")
+        lastButton.classList.add("hidebutton")
+    } else {
+        nextButton.classList.remove("hidebutton")
+        lastButton.classList.remove("hidebutton")
+    }
 
     const dictInPage = filtedWords.filter((a, idx) => {
         return Math.floor(idx / wordInOnePage) + 1 == page
@@ -139,77 +228,6 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
     })
 
     contentBox!.innerHTML = dictHTML
-
-    const buttons = document.getElementById("pagebuttons")
-    const viewPrev = presentPage > 1? "": " class='hidebutton'"
-    const viewNext = presentPage < totalPages? "": " class='hidebutton'"
-
-    buttons!.innerHTML = `
-    <button type="button"${viewPrev} id="first">最初のページへ</button>
-    <button type="button"${viewPrev} id="prev">前のページへ</button>
-    <p>${presentPage}/${totalPages}</p>
-    <button type="button"${viewNext} id="next">次のページへ</button>
-    <button type="button"${viewNext} id="last">最後のページへ</button>
-    `
-
-    prevButton = <HTMLButtonElement> document.getElementById("prev")
-    nextButton = <HTMLButtonElement> document.getElementById("next")
-    firstButton = <HTMLButtonElement> document.getElementById("first")
-    lastButton = <HTMLButtonElement> document.getElementById("last")
-
-    searchBox = <HTMLInputElement> document.getElementById("input")
-    searchButton = <HTMLButtonElement> document.getElementById("search")
-
-    let numberBox = document.getElementById("numberofwords")
-    let numberBoxJP = document.getElementById("numberofwordsjp")
-
-    prevButton.addEventListener("click", () => {
-        presentPage--
-        writeDict(dict, presentPage, filter, type)
-        moveBottom()
-    })
-    nextButton.addEventListener("click", () => {
-        presentPage++
-        writeDict(dict, presentPage, filter, type)
-        moveBottom()
-    })
-    firstButton.addEventListener("click", () => {
-        presentPage = 1
-        writeDict(dict, presentPage, filter, type)
-        moveBottom()
-    })
-    lastButton.addEventListener("click", () => {
-        presentPage = totalPages
-        writeDict(dict, presentPage, filter, type)
-        moveBottom()
-    })
-
-    searchButton.addEventListener("click", () => {
-        searchTypeList = <NodeListOf<HTMLInputElement>> document.getElementsByName("searchtype")
-        searchRuleList = <NodeListOf<HTMLInputElement>> document.getElementsByName("searchrule")
-
-        let searchType
-        searchTypeList.forEach((a, idx) => {
-            if(searchTypeList.item(idx).checked) {
-                searchType = searchTypeList.item(idx).value;
-            }
-        })
-
-        let searchRule
-        searchRuleList.forEach((a, idx) => {
-            if(searchRuleList.item(idx).checked) {
-                searchRule = searchRuleList.item(idx).value;
-            }
-        })
-
-        const text = searchBox.value
-
-        presentPage = 1
-        writeDict(dict, presentPage, text, searchType, searchRule)
-    })
-
-    numberBox!.innerHTML = "之時 " + toPhunnum(dict.length.toString(12)) + "言"
-    numberBoxJP!.innerHTML = "現在：" + dict.length + "語"
 }
 
 function moveBottom() { //ページ最下部へ移動
