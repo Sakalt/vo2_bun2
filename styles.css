@@ -41,8 +41,8 @@ button {
     margin-bottom: 10px;
 }
 
-.searchtype input, .searchrule input {
-    margin-left: 10px;
+.searchOption select {
+    margin-right: 20px;
 }
 
 #input {
@@ -54,10 +54,7 @@ button {
     display: flex;
     justify-content: flex-start;
     align-items: flex-end;
-}
-
-.word span {
-    margin: 3px;
+    width: 100%;
 }
 
 .mean span {
@@ -71,10 +68,17 @@ button {
 .trans {
     font-size: 20px;
     font-family: sans-serif;
+    margin: 3px;
 }
 .pron {
     font-size: 15px;
     font-family: sans-serif;
+    margin: 3px;
+}
+.num {
+    font-size: 12px;
+    margin-left: auto;
+    margin-bottom: auto;
 }
 
 .speech {
@@ -86,6 +90,7 @@ button {
     padding: 3px 2px;
     font-size: 12px;
     border: 2px solid #a27b3b;
+    border-width: 0 5px 0 5px;
     background-color: #e6dece;
 }
 
@@ -100,18 +105,18 @@ button {
 }
 
 .content {
-    border: 2px solid black;
+    border-bottom: 1px solid black;
     width: 100%;
-    margin: 20px auto;
+    margin: 15px auto;
 }
 
 .content>div {
     margin: 5px 0;
-    border-bottom: 1px solid black;
+    border-bottom: 0px solid black;
 }
 
 .content>div:last-child {
-    margin: 5px 0;
+    margin: 5px 0 10px 0;
     border: none;
 }
 

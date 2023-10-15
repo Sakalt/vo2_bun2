@@ -10,6 +10,12 @@
             <div class="logobox">
                 <img class="logo" src="./assets/logo.png">
             </div>
+            <p>人工言語「
+                <a href="https://phunworld.miraheze.org/wiki/%E9%9B%B0%E8%AA%9E" target="_blank">雰語</a>
+                」のオンライン辞書です。何かあれば
+                <a href="https://twitter.com/kaeru2193" target="_blank">X</a>
+                まで。
+            </p>
             <div class="numbers">
                 <span id="numberofwords"></span>
                 <span id="numberofwordsjp"></span>
@@ -19,18 +25,22 @@
                 <input id="input" type="text">
                 <button id="search" type="button">検索</button>
             </span>
-            <span class="searchrule">
-                検索方法：
-                <input type="radio" name="searchrule" value="part" checked> 部分一致
-                <input type="radio" name="searchrule" value="start"> 前方一致
-                <input type="radio" name="searchrule" value="end"> 後方一致
-                <input type="radio" name="searchrule" value="regular"> 正規表現
-            </span>
-            <span class="searchtype">
-                検索対象：
-                <input type="radio" name="searchtype" value="word" checked> 見出し語
-                <input type="radio" name="searchtype" value="pron"> 発音
-                <input type="radio" name="searchtype" value="mean"> 意味
+            <span class="searchOption">
+                検索方法:
+                <select id="searchrule">
+                    <option value="part" selected>部分一致</option>
+                    <option value="start">前方一致</option>
+                    <option value="end">後方一致</option>
+                    <option value="perfect">完全一致</option>
+                    <option value="regular">正規表現</option>
+                </select>
+                検索対象:
+                <select id="searchtype">
+                    <option type="radio" name="searchtype" value="word" selected>見出し語</option>
+                    <option type="radio" name="searchtype" value="pron">発音</option>
+                    <option type="radio" name="searchtype" value="mean">意味</option>
+                    <option type="radio" name="searchtype" value="num">字序 (Phun.)</option>
+                </select>
             </span>
             <div id="contentbox">
                 <div class="content">

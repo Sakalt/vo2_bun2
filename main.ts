@@ -17,8 +17,11 @@ let presentPage = 1
 const wordInOnePage = 30
 let totalPages: number
 
+let searchTypeElem: HTMLSelectElement
+let searchRuleElem: HTMLSelectElement
+
 let searchType: string = "word"
-let searchRuleValue: string = "part"
+let searchRule: string = "part"
 let searchText: string = ""
 
 let prevButton: HTMLButtonElement
@@ -56,47 +59,35 @@ request.onload = async function() {
 
     prevButton.addEventListener("click", () => {
         presentPage--
-        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        writeDict(data, presentPage, searchText, searchType, searchRule)
         moveBottom()
     })
     nextButton.addEventListener("click", () => {
         presentPage++
-        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        writeDict(data, presentPage, searchText, searchType, searchRule)
         moveBottom()
     })
     firstButton.addEventListener("click", () => {
         presentPage = 1
-        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        writeDict(data, presentPage, searchText, searchType, searchRule)
         moveBottom()
     })
     lastButton.addEventListener("click", () => {
         presentPage = totalPages
-        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        writeDict(data, presentPage, searchText, searchType, searchRule)
         moveBottom()
     })
 
     searchButton.addEventListener("click", () => {
-        searchTypeList = <NodeListOf<HTMLInputElement>> document.getElementsByName("searchtype")
-        searchRuleList = <NodeListOf<HTMLInputElement>> document.getElementsByName("searchrule")
+        searchTypeElem = <HTMLSelectElement> document.getElementById("searchtype")
+        searchRuleElem = <HTMLSelectElement> document.getElementById("searchrule")
 
-        
-        searchTypeList.forEach((a, idx) => {
-            if(searchTypeList.item(idx).checked) {
-                searchType = searchTypeList.item(idx).value;
-            }
-        })
-
-        
-        searchRuleList.forEach((a, idx) => {
-            if(searchRuleList.item(idx).checked) {
-                searchRuleValue = searchRuleList.item(idx).value;
-            }
-        })
-
+        searchType = searchTypeElem.value
+        searchRule = searchRuleElem.value
         searchText = searchBox.value
 
         presentPage = 1
-        writeDict(data, presentPage, searchText, searchType, searchRuleValue)
+        writeDict(data, presentPage, searchText, searchType, searchRule)
     })
 
     numberBox!.innerHTML = "之時 " + toPhunnum(data.length.toString(12)) + "言"
@@ -104,7 +95,7 @@ request.onload = async function() {
 }
 
 
-function searchRule(word: string, filter: string, rule: string){
+function searchWithRule(word: string, filter: string, rule: string){
     switch(rule){
         case "part":
             return word.includes(filter)
@@ -112,6 +103,8 @@ function searchRule(word: string, filter: string, rule: string){
             return word.startsWith(filter)
         case "end":
             return word.endsWith(filter)
+        case "perfect":
+            return word == filter
         case "regular":
             const reg = new RegExp(filter)
             return reg.test(word)
@@ -137,18 +130,15 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
     const filtedWords = dict.filter((w: any) => {
         if (type == "mean") {
             const isMeanIncludes = w["mean"].some((m: any) => {
-                return searchRule(m["explanation"], filter, rule)
-                //return m["explanation"].includes(filter)
+                return searchWithRule(m["explanation"], filter, rule)
             })
             const isAppendIncludes = w["append"].some((a: any) => {
-                return searchRule(a["explanation"], filter, rule)
-                //return a["explanation"].includes(filter)
+                return searchWithRule(a["explanation"], filter, rule)
             })
             return isMeanIncludes || isAppendIncludes
         }
 
-        return searchRule(w[type], filter, rule) //mean以外の時はこっち
-        //return w[type].includes(filter) 
+        return searchWithRule(w[type], filter, rule) //mean以外の時はこっち
     })
 
     totalPages = Math.ceil(filtedWords.length / wordInOnePage)
@@ -210,12 +200,15 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
             appendHTML += '</div>'
         }
 
+        const numHTML = w.num == "-"? "": `#${w.num}`
+
         let wordHTML = `
         <div class="content">
             <div class="word">
                 <span class="phun">【${w.word}】</span>
                 <span class="trans">${w.word}</span>
                 <span class="pron">/${w.pron}/</span>
+                <span class="num">${numHTML}</span>
             </div>
             <div class="mean">
                 ${meanHTML}

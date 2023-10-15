@@ -13,7 +13,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ha1"
+    "pron": "ha1",
+    "num": "1"
   },
   {
     "word": "力",
@@ -29,7 +30,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nai2"
+    "pron": "nai2",
+    "num": "2"
   },
   {
     "word": "手",
@@ -45,7 +47,8 @@
         "explanation": ""
       }
     ],
-    "pron": "taos3"
+    "pron": "taos3",
+    "num": "3"
   },
   {
     "word": "開手",
@@ -61,7 +64,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ve1 taos3"
+    "pron": "ve1 taos3",
+    "num": "-"
   },
   {
     "word": "我",
@@ -77,7 +81,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xe3"
+    "pron": "xe3",
+    "num": "4"
   },
   {
     "word": "木",
@@ -97,7 +102,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2"
+    "pron": "lung2",
+    "num": "5"
   },
   {
     "word": "木耳",
@@ -113,7 +119,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 me2"
+    "pron": "lung2 me2",
+    "num": "-"
   },
   {
     "word": "水",
@@ -137,7 +144,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so3"
+    "pron": "so3",
+    "num": "6"
   },
   {
     "word": "水丸",
@@ -153,7 +161,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 luong3"
+    "pron": "so3 luong3",
+    "num": "-"
   },
   {
     "word": "口",
@@ -169,7 +178,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ge2"
+    "pron": "ge2",
+    "num": "7"
   },
   {
     "word": "食",
@@ -193,7 +203,8 @@
         "explanation": "餐。こちらは調理された料理を指す。それに対して名詞としての「食」は、調理されていない生野菜なども含む。"
       }
     ],
-    "pron": "bua1"
+    "pron": "bua1",
+    "num": "8"
   },
   {
     "word": "果",
@@ -209,7 +220,8 @@
         "explanation": ""
       }
     ],
-    "pron": "baon2"
+    "pron": "baon2",
+    "num": "9"
   },
   {
     "word": "赤果",
@@ -225,7 +237,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1 baon2"
+    "pron": "vuos1 baon2",
+    "num": "-"
   },
   {
     "word": "汝",
@@ -241,7 +254,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kus3"
+    "pron": "kus3",
+    "num": "10"
   },
   {
     "word": "大",
@@ -265,7 +279,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3"
+    "pron": "qim3",
+    "num": "11"
   },
   {
     "word": "小",
@@ -281,7 +296,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1"
+    "pron": "yao1",
+    "num": "12"
   },
   {
     "word": "衆",
@@ -305,7 +321,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2"
+    "pron": "mail2",
+    "num": "13"
   },
   {
     "word": "国",
@@ -321,7 +338,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nun2"
+    "pron": "nun2",
+    "num": "14"
   },
   {
     "word": "土",
@@ -341,7 +359,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3"
+    "pron": "ao3",
+    "num": "15"
   },
   {
     "word": "火",
@@ -365,7 +384,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2"
+    "pron": "tang2",
+    "num": "16"
   },
   {
     "word": "草",
@@ -381,7 +401,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cai1"
+    "pron": "cai1",
+    "num": "17"
   },
   {
     "word": "赤",
@@ -401,7 +422,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1"
+    "pron": "vuos1",
+    "num": "18"
   },
   {
     "word": "日",
@@ -421,7 +443,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1"
+    "pron": "kuang1",
+    "num": "19"
   },
   {
     "word": "天",
@@ -445,7 +468,8 @@
         "explanation": "星としては惑星や衛星、恒星などをまとめて指す。"
       }
     ],
-    "pron": "vas1"
+    "pron": "vas1",
+    "num": "20"
   },
   {
     "word": "日天",
@@ -461,7 +485,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1 vas1"
+    "pron": "kuang1 vas1",
+    "num": "-"
   },
   {
     "word": "月天",
@@ -477,7 +502,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2 vas1"
+    "pron": "vo2 vas1",
+    "num": "-"
   },
   {
     "word": "気天",
@@ -493,7 +519,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 vas1"
+    "pron": "sing1 vas1",
+    "num": "-"
   },
   {
     "word": "火天",
@@ -509,7 +536,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2 vas1"
+    "pron": "tang2 vas1",
+    "num": "-"
   },
   {
     "word": "大丸",
@@ -525,7 +553,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 luong3"
+    "pron": "qim3 luong3",
+    "num": "-"
   },
   {
     "word": "水天",
@@ -541,7 +570,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 vas1"
+    "pron": "so3 vas1",
+    "num": "-"
   },
   {
     "word": "土天",
@@ -557,7 +587,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3 vas1"
+    "pron": "ao3 vas1",
+    "num": "-"
   },
   {
     "word": "木天",
@@ -573,7 +604,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 vas1"
+    "pron": "lung2 vas1",
+    "num": "-"
   },
   {
     "word": "山天",
@@ -589,7 +621,8 @@
         "explanation": ""
       }
     ],
-    "pron": "das1 vas1"
+    "pron": "das1 vas1",
+    "num": "-"
   },
   {
     "word": "雲天",
@@ -605,7 +638,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 vas1"
+    "pron": "pu2 vas1",
+    "num": "-"
   },
   {
     "word": "氷天",
@@ -621,7 +655,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 vas1"
+    "pron": "hua1 vas1",
+    "num": "-"
   },
   {
     "word": "天思",
@@ -637,7 +672,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 sao2"
+    "pron": "vas1 sao2",
+    "num": "-"
   },
   {
     "word": "万天",
@@ -653,7 +689,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ao1 vas1"
+    "pron": "ao1 vas1",
+    "num": "-"
   },
   {
     "word": "天船",
@@ -669,7 +706,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 cua3"
+    "pron": "vas1 cua3",
+    "num": "-"
   },
   {
     "word": "青",
@@ -689,7 +727,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qai3"
+    "pron": "qai3",
+    "num": "21"
   },
   {
     "word": "去",
@@ -705,7 +744,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fes2"
+    "pron": "fes2",
+    "num": "22"
   },
   {
     "word": "去知",
@@ -721,7 +761,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fes2 qai2"
+    "pron": "fes2 qai2",
+    "num": "-"
   },
   {
     "word": "正",
@@ -741,7 +782,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fua3"
+    "pron": "fua3",
+    "num": "23"
   },
   {
     "word": "目正",
@@ -757,7 +799,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 fua3"
+    "pron": "ke1 fua3",
+    "num": "-"
   },
   {
     "word": "是",
@@ -773,7 +816,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xel3"
+    "pron": "xel3",
+    "num": "24"
   },
   {
     "word": "月",
@@ -789,7 +833,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2"
+    "pron": "vo2",
+    "num": "25"
   },
   {
     "word": "一",
@@ -805,7 +850,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vi1"
+    "pron": "vi1",
+    "num": "26"
   },
   {
     "word": "二",
@@ -821,7 +867,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buan3"
+    "pron": "buan3",
+    "num": "27"
   },
   {
     "word": "三",
@@ -837,7 +884,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gaol3"
+    "pron": "gaol3",
+    "num": "28"
   },
   {
     "word": "四",
@@ -853,7 +901,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fai1"
+    "pron": "fai1",
+    "num": "29"
   },
   {
     "word": "五",
@@ -869,7 +918,8 @@
         "explanation": ""
       }
     ],
-    "pron": "luong1"
+    "pron": "luong1",
+    "num": "30"
   },
   {
     "word": "言",
@@ -889,7 +939,8 @@
         "explanation": "声。こちらは一人で呟くことや意味のない声を出すことを指すのに対し、言は二人以上で意味のある会話をすることを指す。"
       }
     ],
-    "pron": "bun2"
+    "pron": "bun2",
+    "num": "31"
   },
   {
     "word": "伴言倫",
@@ -905,7 +956,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nuo2 bun2 tuo2"
+    "pron": "nuo2 bun2 tuo2",
+    "num": "-"
   },
   {
     "word": "晴",
@@ -925,7 +977,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zen3"
+    "pron": "zen3",
+    "num": "32"
   },
   {
     "word": "海",
@@ -941,7 +994,8 @@
         "explanation": ""
       }
     ],
-    "pron": "guan1"
+    "pron": "guan1",
+    "num": "33"
   },
   {
     "word": "大海",
@@ -957,7 +1011,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 guan1"
+    "pron": "qim3 guan1",
+    "num": "-"
   },
   {
     "word": "皇",
@@ -973,7 +1028,8 @@
         "explanation": ""
       }
     ],
-    "pron": "juan1"
+    "pron": "juan1",
+    "num": "34"
   },
   {
     "word": "王",
@@ -989,7 +1045,8 @@
         "explanation": ""
       }
     ],
-    "pron": "luam2"
+    "pron": "luam2",
+    "num": "35"
   },
   {
     "word": "上",
@@ -1013,7 +1070,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ling3"
+    "pron": "ling3",
+    "num": "36"
   },
   {
     "word": "下",
@@ -1033,7 +1091,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3"
+    "pron": "ya3",
+    "num": "37"
   },
   {
     "word": "下人",
@@ -1049,7 +1108,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3 ha1"
+    "pron": "ya3 ha1",
+    "num": "-"
   },
   {
     "word": "左",
@@ -1065,7 +1125,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vuo2"
+    "pron": "vuo2",
+    "num": "38"
   },
   {
     "word": "右",
@@ -1081,7 +1142,8 @@
         "explanation": ""
       }
     ],
-    "pron": "van3"
+    "pron": "van3",
+    "num": "39"
   },
   {
     "word": "広",
@@ -1105,7 +1167,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dua1"
+    "pron": "dua1",
+    "num": "40"
   },
   {
     "word": "栄",
@@ -1125,7 +1188,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1"
+    "pron": "fun1",
+    "num": "41"
   },
   {
     "word": "栄国",
@@ -1141,7 +1205,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 nun2"
+    "pron": "fun1 nun2",
+    "num": "-"
   },
   {
     "word": "栄民",
@@ -1157,7 +1222,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 zom3"
+    "pron": "fun1 zom3",
+    "num": "-"
   },
   {
     "word": "足",
@@ -1173,7 +1239,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas1"
+    "pron": "yuas1",
+    "num": "42"
   },
   {
     "word": "足下",
@@ -1189,7 +1256,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas1 ya3"
+    "pron": "yuas1 ya3",
+    "num": "-"
   },
   {
     "word": "行",
@@ -1209,7 +1277,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1"
+    "pron": "yaom1",
+    "num": "43"
   },
   {
     "word": "行元",
@@ -1225,7 +1294,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 xo3"
+    "pron": "yaom1 xo3",
+    "num": "-"
   },
   {
     "word": "行場",
@@ -1245,7 +1315,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 yai1"
+    "pron": "yaom1 yai1",
+    "num": "-"
   },
   {
     "word": "目",
@@ -1265,7 +1336,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1"
+    "pron": "ke1",
+    "num": "44"
   },
   {
     "word": "之",
@@ -1281,7 +1353,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1"
+    "pron": "kua1",
+    "num": "45"
   },
   {
     "word": "之時",
@@ -1297,7 +1370,8 @@
         "explanation": "今。こちらは現在の時間をピンポイントに指すが、之時は時間軸をある特定の基準で区切ったときの「現在」の部分を指す。"
       }
     ],
-    "pron": "kua1 tua2"
+    "pron": "kua1 tua2",
+    "num": "-"
   },
   {
     "word": "之日",
@@ -1313,7 +1387,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 kuang1"
+    "pron": "kua1 kuang1",
+    "num": "-"
   },
   {
     "word": "之夜",
@@ -1329,7 +1404,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 lai1"
+    "pron": "kua1 lai1",
+    "num": "-"
   },
   {
     "word": "之周",
@@ -1345,7 +1421,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 fuon2"
+    "pron": "kua1 fuon2",
+    "num": "-"
   },
   {
     "word": "之月",
@@ -1361,7 +1438,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 vo2"
+    "pron": "kua1 vo2",
+    "num": "-"
   },
   {
     "word": "之年",
@@ -1377,7 +1455,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 vais2"
+    "pron": "kua1 vais2",
+    "num": "-"
   },
   {
     "word": "在",
@@ -1397,7 +1476,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suo2"
+    "pron": "suo2",
+    "num": "46"
   },
   {
     "word": "居",
@@ -1413,7 +1493,8 @@
         "explanation": "目的語に存在する場所を取ることができる。"
       }
     ],
-    "pron": "baim3"
+    "pron": "baim3",
+    "num": "47"
   },
   {
     "word": "持",
@@ -1429,7 +1510,8 @@
         "explanation": ""
       }
     ],
-    "pron": "peng3"
+    "pron": "peng3",
+    "num": "48"
   },
   {
     "word": "内",
@@ -1445,7 +1527,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuo2"
+    "pron": "yuo2",
+    "num": "49"
   },
   {
     "word": "含",
@@ -1461,7 +1544,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lom2"
+    "pron": "lom2",
+    "num": "50"
   },
   {
     "word": "今",
@@ -1477,7 +1561,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gaing2"
+    "pron": "gaing2",
+    "num": "51"
   },
   {
     "word": "時",
@@ -1493,7 +1578,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tua2"
+    "pron": "tua2",
+    "num": "52"
   },
   {
     "word": "時盤",
@@ -1509,7 +1595,8 @@
         "explanation": "日時計やアナログ時計など、平たい形をした時計を指す。"
       }
     ],
-    "pron": "tua2 xu1"
+    "pron": "tua2 xu1",
+    "num": "-"
   },
   {
     "word": "握時盤",
@@ -1525,7 +1612,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suom3 tua2 xu1"
+    "pron": "suom3 tua2 xu1",
+    "num": "-"
   },
   {
     "word": "腕時盤",
@@ -1541,7 +1629,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nol2 tua2 xu1"
+    "pron": "nol2 tua2 xu1",
+    "num": "-"
   },
   {
     "word": "腕脳機",
@@ -1557,7 +1646,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nol2 ha3 ail2"
+    "pron": "nol2 ha3 ail2",
+    "num": "-"
   },
   {
     "word": "先",
@@ -1573,7 +1663,8 @@
         "explanation": ""
       }
     ],
-    "pron": "taol3"
+    "pron": "taol3",
+    "num": "53"
   },
   {
     "word": "神",
@@ -1589,7 +1680,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xo2"
+    "pron": "xo2",
+    "num": "54"
   },
   {
     "word": "雨",
@@ -1609,7 +1701,8 @@
         "explanation": ""
       }
     ],
-    "pron": "huo1"
+    "pron": "huo1",
+    "num": "55"
   },
   {
     "word": "風",
@@ -1625,7 +1718,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tem3"
+    "pron": "tem3",
+    "num": "56"
   },
   {
     "word": "風音",
@@ -1641,7 +1735,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tem3 jua1"
+    "pron": "tem3 jua1",
+    "num": "-"
   },
   {
     "word": "飛",
@@ -1657,7 +1752,8 @@
         "explanation": "跳。動詞で用いるときは、飛行ではなくジャンプ・跳躍することを指す。"
       }
     ],
-    "pron": "dail2"
+    "pron": "dail2",
+    "num": "57"
   },
   {
     "word": "場",
@@ -1677,7 +1773,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yai1"
+    "pron": "yai1",
+    "num": "58"
   },
   {
     "word": "其",
@@ -1693,7 +1790,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cen1"
+    "pron": "cen1",
+    "num": "59"
   },
   {
     "word": "彼",
@@ -1709,7 +1807,8 @@
         "explanation": ""
       }
     ],
-    "pron": "heng3"
+    "pron": "heng3",
+    "num": "60"
   },
   {
     "word": "山",
@@ -1725,7 +1824,8 @@
         "explanation": "丘。山ほど大きくない少し盛り上がった地形を指す。"
       }
     ],
-    "pron": "das1"
+    "pron": "das1",
+    "num": "61"
   },
   {
     "word": "心",
@@ -1745,7 +1845,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nes2"
+    "pron": "nes2",
+    "num": "62"
   },
   {
     "word": "声心",
@@ -1761,7 +1862,8 @@
         "explanation": ""
       }
     ],
-    "pron": "we2 nes2"
+    "pron": "we2 nes2",
+    "num": "-"
   },
   {
     "word": "思",
@@ -1781,7 +1883,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sao2"
+    "pron": "sao2",
+    "num": "63"
   },
   {
     "word": "衆思",
@@ -1801,7 +1904,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 sao2"
+    "pron": "mail2 sao2",
+    "num": "-"
   },
   {
     "word": "油",
@@ -1817,7 +1921,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xu2"
+    "pron": "xu2",
+    "num": "64"
   },
   {
     "word": "燃",
@@ -1837,7 +1942,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lus3"
+    "pron": "lus3",
+    "num": "65"
   },
   {
     "word": "家",
@@ -1853,7 +1959,8 @@
         "explanation": ""
       }
     ],
-    "pron": "be1"
+    "pron": "be1",
+    "num": "66"
   },
   {
     "word": "家網",
@@ -1869,7 +1976,8 @@
         "explanation": ""
       }
     ],
-    "pron": "be1 mua1"
+    "pron": "be1 mua1",
+    "num": "-"
   },
   {
     "word": "人家",
@@ -1885,7 +1993,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ha1 be1"
+    "pron": "ha1 be1",
+    "num": "-"
   },
   {
     "word": "衆家",
@@ -1901,7 +2010,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 be1"
+    "pron": "mail2 be1",
+    "num": "-"
   },
   {
     "word": "造家",
@@ -1917,7 +2027,8 @@
         "explanation": ""
       }
     ],
-    "pron": "him2 be1"
+    "pron": "him2 be1",
+    "num": "-"
   },
   {
     "word": "訓家",
@@ -1933,7 +2044,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xal3 be1"
+    "pron": "xal3 be1",
+    "num": "-"
   },
   {
     "word": "訓働",
@@ -1949,7 +2061,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xal3 kaing1"
+    "pron": "xal3 kaing1",
+    "num": "-"
   },
   {
     "word": "現",
@@ -1965,7 +2078,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vaim1"
+    "pron": "vaim1",
+    "num": "67"
   },
   {
     "word": "光",
@@ -1985,7 +2099,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mam3"
+    "pron": "mam3",
+    "num": "68"
   },
   {
     "word": "光杖",
@@ -2001,7 +2116,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mam3 qo1"
+    "pron": "mam3 qo1",
+    "num": "-"
   },
   {
     "word": "白",
@@ -2021,7 +2137,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kaing2"
+    "pron": "kaing2",
+    "num": "69"
   },
   {
     "word": "昼",
@@ -2037,7 +2154,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jai2"
+    "pron": "jai2",
+    "num": "70"
   },
   {
     "word": "夜",
@@ -2053,7 +2171,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lai1"
+    "pron": "lai1",
+    "num": "71"
   },
   {
     "word": "丸",
@@ -2069,7 +2188,8 @@
         "explanation": ""
       }
     ],
-    "pron": "luong3"
+    "pron": "luong3",
+    "num": "72"
   },
   {
     "word": "憤丸",
@@ -2085,7 +2205,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gua1 luong3"
+    "pron": "gua1 luong3",
+    "num": "-"
   },
   {
     "word": "粒央",
@@ -2101,7 +2222,8 @@
         "explanation": ""
       }
     ],
-    "pron": "duol2 na2"
+    "pron": "duol2 na2",
+    "num": "-"
   },
   {
     "word": "小粒憤丸",
@@ -2117,7 +2239,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1 duol2 gua1 luong3"
+    "pron": "yao1 duol2 gua1 luong3",
+    "num": "-"
   },
   {
     "word": "水材憤丸",
@@ -2133,7 +2256,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 jaim3 gua1 luong3"
+    "pron": "so3 jaim3 gua1 luong3",
+    "num": "-"
   },
   {
     "word": "気",
@@ -2157,7 +2281,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1"
+    "pron": "sing1",
+    "num": "73"
   },
   {
     "word": "気思",
@@ -2173,7 +2298,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 sao2"
+    "pron": "sing1 sao2",
+    "num": "-"
   },
   {
     "word": "気船",
@@ -2189,7 +2315,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 cua3"
+    "pron": "sing1 cua3",
+    "num": "-"
   },
   {
     "word": "気丸",
@@ -2205,7 +2332,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 luong3"
+    "pron": "sing1 luong3",
+    "num": "-"
   },
   {
     "word": "世",
@@ -2221,7 +2349,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fua1"
+    "pron": "fua1",
+    "num": "74"
   },
   {
     "word": "世画",
@@ -2237,7 +2366,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fua1 xao3"
+    "pron": "fua1 xao3",
+    "num": "-"
   },
   {
     "word": "筆",
@@ -2257,7 +2387,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fa2"
+    "pron": "fa2",
+    "num": "75"
   },
   {
     "word": "石筆",
@@ -2273,7 +2404,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hais3 fa2"
+    "pron": "hais3 fa2",
+    "num": "-"
   },
   {
     "word": "丸筆",
@@ -2289,7 +2421,8 @@
         "explanation": ""
       }
     ],
-    "pron": "luong3 fa2"
+    "pron": "luong3 fa2",
+    "num": "-"
   },
   {
     "word": "筆杯",
@@ -2305,7 +2438,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fa2 paon1"
+    "pron": "fa2 paon1",
+    "num": "-"
   },
   {
     "word": "書",
@@ -2321,7 +2455,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3"
+    "pron": "sua3",
+    "num": "76"
   },
   {
     "word": "書門",
@@ -2337,7 +2472,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3 fuon3"
+    "pron": "sua3 fuon3",
+    "num": "-"
   },
   {
     "word": "記",
@@ -2357,7 +2493,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuang2"
+    "pron": "cuang2",
+    "num": "77"
   },
   {
     "word": "記盤",
@@ -2373,7 +2510,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuang2 xu1"
+    "pron": "cuang2 xu1",
+    "num": "-"
   },
   {
     "word": "心記",
@@ -2389,7 +2527,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nes2 cuang2"
+    "pron": "nes2 cuang2",
+    "num": "-"
   },
   {
     "word": "女",
@@ -2405,7 +2544,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zi1"
+    "pron": "zi1",
+    "num": "78"
   },
   {
     "word": "侶",
@@ -2421,7 +2561,8 @@
         "explanation": ""
       }
     ],
-    "pron": "duo2"
+    "pron": "duo2",
+    "num": "79"
   },
   {
     "word": "媛",
@@ -2437,7 +2578,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lun3"
+    "pron": "lun3",
+    "num": "80"
   },
   {
     "word": "状",
@@ -2453,7 +2595,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kem1"
+    "pron": "kem1",
+    "num": "81"
   },
   {
     "word": "歩",
@@ -2469,7 +2612,8 @@
         "explanation": "走。動詞で用いるときは走る（下半身を使い早く移動する）ことを指す。"
       }
     ],
-    "pron": "qai1"
+    "pron": "qai1",
+    "num": "82"
   },
   {
     "word": "歩目",
@@ -2485,7 +2629,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qai1 ke1"
+    "pron": "qai1 ke1",
+    "num": "-"
   },
   {
     "word": "整",
@@ -2505,7 +2650,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lao1"
+    "pron": "lao1",
+    "num": "83"
   },
   {
     "word": "倫",
@@ -2525,7 +2671,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tuo2"
+    "pron": "tuo2",
+    "num": "84"
   },
   {
     "word": "民",
@@ -2541,7 +2688,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zom3"
+    "pron": "zom3",
+    "num": "85"
   },
   {
     "word": "眠",
@@ -2561,7 +2709,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3"
+    "pron": "lo3",
+    "num": "86"
   },
   {
     "word": "眠巾",
@@ -2577,7 +2726,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3 ye1"
+    "pron": "lo3 ye1",
+    "num": "-"
   },
   {
     "word": "下巾",
@@ -2593,7 +2743,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3 ye1"
+    "pron": "ya3 ye1",
+    "num": "-"
   },
   {
     "word": "眠下巾",
@@ -2609,7 +2760,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3 ya3 ye1"
+    "pron": "lo3 ya3 ye1",
+    "num": "-"
   },
   {
     "word": "頭",
@@ -2625,7 +2777,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mum2"
+    "pron": "mum2",
+    "num": "87"
   },
   {
     "word": "頭椅",
@@ -2641,7 +2794,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mum2 luo3"
+    "pron": "mum2 luo3",
+    "num": "-"
   },
   {
     "word": "向",
@@ -2661,7 +2815,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vu3"
+    "pron": "vu3",
+    "num": "88"
   },
   {
     "word": "刈",
@@ -2681,7 +2836,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mong2"
+    "pron": "mong2",
+    "num": "89"
   },
   {
     "word": "刈時",
@@ -2697,7 +2853,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mong2 tua2"
+    "pron": "mong2 tua2",
+    "num": "-"
   },
   {
     "word": "刈終",
@@ -2713,7 +2870,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mong2 ki3"
+    "pron": "mong2 ki3",
+    "num": "-"
   },
   {
     "word": "不刈",
@@ -2729,7 +2887,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ki1 mong2"
+    "pron": "ki1 mong2",
+    "num": "-"
   },
   {
     "word": "園",
@@ -2745,7 +2904,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qua3"
+    "pron": "qua3",
+    "num": "90"
   },
   {
     "word": "遊園",
@@ -2761,7 +2921,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dao1 qua3"
+    "pron": "dao1 qua3",
+    "num": "-"
   },
   {
     "word": "都",
@@ -2777,7 +2938,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cel2"
+    "pron": "cel2",
+    "num": "91"
   },
   {
     "word": "京",
@@ -2793,7 +2955,8 @@
         "explanation": ""
       }
     ],
-    "pron": "za3"
+    "pron": "za3",
+    "num": "92"
   },
   {
     "word": "喜",
@@ -2813,7 +2976,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2"
+    "pron": "hai2",
+    "num": "93"
   },
   {
     "word": "喜汝",
@@ -2829,7 +2993,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2 kus3"
+    "pron": "hai2 kus3",
+    "num": "-"
   },
   {
     "word": "喜旭",
@@ -2845,7 +3010,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2 ju1"
+    "pron": "hai2 ju1",
+    "num": "-"
   },
   {
     "word": "喜夜",
@@ -2861,7 +3027,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hai2 lai1"
+    "pron": "hai2 lai1",
+    "num": "-"
   },
   {
     "word": "来",
@@ -2881,7 +3048,8 @@
         "explanation": ""
       }
     ],
-    "pron": "huas3"
+    "pron": "huas3",
+    "num": "94"
   },
   {
     "word": "字",
@@ -2897,7 +3065,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qo3"
+    "pron": "qo3",
+    "num": "95"
   },
   {
     "word": "栄字",
@@ -2913,7 +3082,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 qo3"
+    "pron": "fun1 qo3",
+    "num": "-"
   },
   {
     "word": "字盤",
@@ -2929,7 +3099,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qo3 xu1"
+    "pron": "qo3 xu1",
+    "num": "-"
   },
   {
     "word": "欲",
@@ -2945,7 +3116,8 @@
         "explanation": ""
       }
     ],
-    "pron": "i3"
+    "pron": "i3",
+    "num": "96"
   },
   {
     "word": "要",
@@ -2961,7 +3133,8 @@
         "explanation": ""
       }
     ],
-    "pron": "peng1"
+    "pron": "peng1",
+    "num": "97"
   },
   {
     "word": "做要",
@@ -2977,7 +3150,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hil3 peng1"
+    "pron": "hil3 peng1",
+    "num": "-"
   },
   {
     "word": "刃",
@@ -3001,7 +3175,8 @@
         "explanation": ""
       }
     ],
-    "pron": "na1"
+    "pron": "na1",
+    "num": "98"
   },
   {
     "word": "刃粒央",
@@ -3017,7 +3192,8 @@
         "explanation": ""
       }
     ],
-    "pron": "na1 duol2 na2"
+    "pron": "na1 duol2 na2",
+    "num": "-"
   },
   {
     "word": "交刃",
@@ -3033,7 +3209,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wi3 na1"
+    "pron": "wi3 na1",
+    "num": "-"
   },
   {
     "word": "制",
@@ -3049,7 +3226,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bom1"
+    "pron": "bom1",
+    "num": "99"
   },
   {
     "word": "雷",
@@ -3069,7 +3247,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2"
+    "pron": "main2",
+    "num": "100"
   },
   {
     "word": "雷記",
@@ -3085,7 +3264,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 cuang2"
+    "pron": "main2 cuang2",
+    "num": "-"
   },
   {
     "word": "雷紙",
@@ -3101,7 +3281,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ye2"
+    "pron": "main2 ye2",
+    "num": "-"
   },
   {
     "word": "紙木",
@@ -3117,7 +3298,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ye2 lung2"
+    "pron": "ye2 lung2",
+    "num": "-"
   },
   {
     "word": "雷脳",
@@ -3133,7 +3315,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ha3"
+    "pron": "main2 ha3",
+    "num": "-"
   },
   {
     "word": "雷画",
@@ -3149,7 +3332,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 xao3"
+    "pron": "main2 xao3",
+    "num": "-"
   },
   {
     "word": "脳機",
@@ -3165,7 +3349,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ha3 ail2"
+    "pron": "ha3 ail2",
+    "num": "-"
   },
   {
     "word": "帳脳",
@@ -3181,7 +3366,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sus3 ha3"
+    "pron": "sus3 ha3",
+    "num": "-"
   },
   {
     "word": "机脳",
@@ -3197,7 +3383,8 @@
         "explanation": ""
       }
     ],
-    "pron": "las3 ha3"
+    "pron": "las3 ha3",
+    "num": "-"
   },
   {
     "word": "行言機",
@@ -3213,7 +3400,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 bun2 ail2"
+    "pron": "yaom1 bun2 ail2",
+    "num": "-"
   },
   {
     "word": "行言",
@@ -3229,7 +3417,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 bun2"
+    "pron": "yaom1 bun2",
+    "num": "-"
   },
   {
     "word": "手脳",
@@ -3245,7 +3434,8 @@
         "explanation": ""
       }
     ],
-    "pron": "taos3 ha3"
+    "pron": "taos3 ha3",
+    "num": "-"
   },
   {
     "word": "雷言",
@@ -3261,7 +3451,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 bun2"
+    "pron": "main2 bun2",
+    "num": "-"
   },
   {
     "word": "雷言記",
@@ -3277,7 +3468,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 bun2 cuang2"
+    "pron": "main2 bun2 cuang2",
+    "num": "-"
   },
   {
     "word": "雷機",
@@ -3293,7 +3485,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ail2"
+    "pron": "main2 ail2",
+    "num": "-"
   },
   {
     "word": "雷光",
@@ -3309,7 +3502,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 mam3"
+    "pron": "main2 mam3",
+    "num": "-"
   },
   {
     "word": "雷透",
@@ -3325,7 +3519,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 li1"
+    "pron": "main2 li1",
+    "num": "-"
   },
   {
     "word": "透雷",
@@ -3341,7 +3536,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li1 main2"
+    "pron": "li1 main2",
+    "num": "-"
   },
   {
     "word": "並透雷",
@@ -3357,7 +3553,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suol3 li1 main2"
+    "pron": "suol3 li1 main2",
+    "num": "-"
   },
   {
     "word": "雷楽",
@@ -3373,7 +3570,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 yao2"
+    "pron": "main2 yao2",
+    "num": "-"
   },
   {
     "word": "生",
@@ -3389,7 +3587,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zai3"
+    "pron": "zai3",
+    "num": "101"
   },
   {
     "word": "脳",
@@ -3405,7 +3604,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ha3"
+    "pron": "ha3",
+    "num": "102"
   },
   {
     "word": "臓",
@@ -3421,7 +3621,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dais2"
+    "pron": "dais2",
+    "num": "103"
   },
   {
     "word": "氷",
@@ -3441,7 +3642,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1"
+    "pron": "hua1",
+    "num": "104"
   },
   {
     "word": "雲雨",
@@ -3457,7 +3659,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 huo1"
+    "pron": "pu2 huo1",
+    "num": "-"
   },
   {
     "word": "氷雲",
@@ -3473,7 +3676,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 pu2"
+    "pron": "hua1 pu2",
+    "num": "-"
   },
   {
     "word": "雲",
@@ -3489,7 +3693,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2"
+    "pron": "pu2",
+    "num": "105"
   },
   {
     "word": "門",
@@ -3509,7 +3714,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3"
+    "pron": "fuon3",
+    "num": "106"
   },
   {
     "word": "門言",
@@ -3525,7 +3731,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 bun2"
+    "pron": "fuon3 bun2",
+    "num": "-"
   },
   {
     "word": "門圧",
@@ -3541,7 +3748,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 mu1"
+    "pron": "fuon3 mu1",
+    "num": "-"
   },
   {
     "word": "門杖",
@@ -3557,7 +3765,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 qo1"
+    "pron": "fuon3 qo1",
+    "num": "-"
   },
   {
     "word": "雷門圧",
@@ -3573,7 +3782,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 fuon3 mu1"
+    "pron": "main2 fuon3 mu1",
+    "num": "-"
   },
   {
     "word": "領門",
@@ -3589,7 +3799,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ba1 fuon3"
+    "pron": "ba1 fuon3",
+    "num": "-"
   },
   {
     "word": "開",
@@ -3609,7 +3820,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ve1"
+    "pron": "ve1",
+    "num": "107"
   },
   {
     "word": "領",
@@ -3629,7 +3841,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ba1"
+    "pron": "ba1",
+    "num": "108"
   },
   {
     "word": "紙",
@@ -3645,7 +3858,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ye2"
+    "pron": "ye2",
+    "num": "109"
   },
   {
     "word": "書帳",
@@ -3661,7 +3875,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3 sus3"
+    "pron": "sua3 sus3",
+    "num": "-"
   },
   {
     "word": "糸",
@@ -3677,7 +3892,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buo3"
+    "pron": "buo3",
+    "num": "110"
   },
   {
     "word": "草糸",
@@ -3693,7 +3909,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cai1 buo3"
+    "pron": "cai1 buo3",
+    "num": "-"
   },
   {
     "word": "獣糸",
@@ -3709,7 +3926,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yol1 buo3"
+    "pron": "yol1 buo3",
+    "num": "-"
   },
   {
     "word": "琥糸",
@@ -3725,7 +3943,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ai2 buo3"
+    "pron": "ai2 buo3",
+    "num": "-"
   },
   {
     "word": "石糸",
@@ -3741,7 +3960,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hais3 buo3"
+    "pron": "hais3 buo3",
+    "num": "-"
   },
   {
     "word": "終",
@@ -3757,7 +3977,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ki3"
+    "pron": "ki3",
+    "num": "111"
   },
   {
     "word": "網",
@@ -3773,7 +3994,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mua1"
+    "pron": "mua1",
+    "num": "112"
   },
   {
     "word": "網壁",
@@ -3789,7 +4011,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mua1 di2"
+    "pron": "mua1 di2",
+    "num": "-"
   },
   {
     "word": "雷網",
@@ -3805,7 +4028,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 mua1"
+    "pron": "main2 mua1",
+    "num": "-"
   },
   {
     "word": "衆網",
@@ -3821,7 +4045,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 mua1"
+    "pron": "mail2 mua1",
+    "num": "-"
   },
   {
     "word": "印",
@@ -3841,7 +4066,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sua1"
+    "pron": "sua1",
+    "num": "113"
   },
   {
     "word": "政",
@@ -3861,7 +4087,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pe2"
+    "pron": "pe2",
+    "num": "114"
   },
   {
     "word": "政人",
@@ -3877,7 +4104,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pe2 ha1"
+    "pron": "pe2 ha1",
+    "num": "-"
   },
   {
     "word": "政力",
@@ -3893,7 +4121,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pe2 nai2"
+    "pron": "pe2 nai2",
+    "num": "-"
   },
   {
     "word": "虫",
@@ -3913,7 +4142,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuo2"
+    "pron": "cuo2",
+    "num": "115"
   },
   {
     "word": "虫痘",
@@ -3929,7 +4159,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuo2 za2"
+    "pron": "cuo2 za2",
+    "num": "-"
   },
   {
     "word": "小虫",
@@ -3945,7 +4176,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1 cuo2"
+    "pron": "yao1 cuo2",
+    "num": "-"
   },
   {
     "word": "病虫",
@@ -3961,7 +4193,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cun1 cuo2"
+    "pron": "cun1 cuo2",
+    "num": "-"
   },
   {
     "word": "蛮",
@@ -3977,7 +4210,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pao2"
+    "pron": "pao2",
+    "num": "116"
   },
   {
     "word": "使",
@@ -3993,7 +4227,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hu3"
+    "pron": "hu3",
+    "num": "117"
   },
   {
     "word": "使能",
@@ -4009,7 +4244,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hu3 ail1"
+    "pron": "hu3 ail1",
+    "num": "-"
   },
   {
     "word": "不",
@@ -4029,7 +4265,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ki1"
+    "pron": "ki1",
+    "num": "118"
   },
   {
     "word": "竹",
@@ -4045,7 +4282,8 @@
         "explanation": ""
       }
     ],
-    "pron": "a2"
+    "pron": "a2",
+    "num": "119"
   },
   {
     "word": "六",
@@ -4061,7 +4299,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lis3"
+    "pron": "lis3",
+    "num": "120"
   },
   {
     "word": "好",
@@ -4077,7 +4316,8 @@
         "explanation": ""
       }
     ],
-    "pron": "e3"
+    "pron": "e3",
+    "num": "121"
   },
   {
     "word": "造",
@@ -4093,7 +4333,8 @@
         "explanation": "似たものに「創」があるが、こちらは自発的に作られることを指す。一方、「造」は能動的に作ることを指す。また、「生」は生物などが誕生することを指す。"
       }
     ],
-    "pron": "him2"
+    "pron": "him2",
+    "num": "122"
   },
   {
     "word": "思造",
@@ -4109,7 +4350,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sao2 him2"
+    "pron": "sao2 him2",
+    "num": "-"
   },
   {
     "word": "道",
@@ -4125,7 +4367,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gim1"
+    "pron": "gim1",
+    "num": "123"
   },
   {
     "word": "元",
@@ -4141,7 +4384,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xo3"
+    "pron": "xo3",
+    "num": "124"
   },
   {
     "word": "獣",
@@ -4157,7 +4401,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yol1"
+    "pron": "yol1",
+    "num": "125"
   },
   {
     "word": "獣声",
@@ -4177,7 +4422,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yol1 we2"
+    "pron": "yol1 we2",
+    "num": "-"
   },
   {
     "word": "肉",
@@ -4193,7 +4439,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nang2"
+    "pron": "nang2",
+    "num": "126"
   },
   {
     "word": "力肉",
@@ -4209,7 +4456,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nai2 nang2"
+    "pron": "nai2 nang2",
+    "num": "-"
   },
   {
     "word": "周",
@@ -4229,7 +4477,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon2"
+    "pron": "fuon2",
+    "num": "127"
   },
   {
     "word": "周目",
@@ -4245,7 +4494,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon2 ke1"
+    "pron": "fuon2 ke1",
+    "num": "-"
   },
   {
     "word": "周隣",
@@ -4265,7 +4515,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon2 mo2"
+    "pron": "fuon2 mo2",
+    "num": "-"
   },
   {
     "word": "回",
@@ -4289,7 +4540,8 @@
         "explanation": "コマのように軸を中心に回る運動を指す。"
       }
     ],
-    "pron": "pel1"
+    "pron": "pel1",
+    "num": "128"
   },
   {
     "word": "年",
@@ -4309,7 +4561,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vais2"
+    "pron": "vais2",
+    "num": "129"
   },
   {
     "word": "男",
@@ -4325,7 +4578,8 @@
         "explanation": ""
       }
     ],
-    "pron": "i1"
+    "pron": "i1",
+    "num": "130"
   },
   {
     "word": "材",
@@ -4345,7 +4599,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jaim3"
+    "pron": "jaim3",
+    "num": "131"
   },
   {
     "word": "水材",
@@ -4361,7 +4616,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 jaim3"
+    "pron": "so3 jaim3",
+    "num": "-"
   },
   {
     "word": "暁材",
@@ -4377,7 +4633,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mi1 jaim3"
+    "pron": "mi1 jaim3",
+    "num": "-"
   },
   {
     "word": "炭材",
@@ -4393,7 +4650,8 @@
         "explanation": ""
       }
     ],
-    "pron": "si3 jaim3"
+    "pron": "si3 jaim3",
+    "num": "-"
   },
   {
     "word": "気材",
@@ -4409,7 +4667,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 jaim3"
+    "pron": "sing1 jaim3",
+    "num": "-"
   },
   {
     "word": "火材",
@@ -4425,7 +4684,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2 jaim3"
+    "pron": "tang2 jaim3",
+    "num": "-"
   },
   {
     "word": "泡材",
@@ -4441,7 +4701,8 @@
         "explanation": ""
       }
     ],
-    "pron": "se3 jaim3"
+    "pron": "se3 jaim3",
+    "num": "-"
   },
   {
     "word": "礬材",
@@ -4457,7 +4718,8 @@
         "explanation": ""
       }
     ],
-    "pron": "min1 jaim3"
+    "pron": "min1 jaim3",
+    "num": "-"
   },
   {
     "word": "瑠材",
@@ -4473,7 +4735,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ja1 jaim3"
+    "pron": "ja1 jaim3",
+    "num": "-"
   },
   {
     "word": "尿材",
@@ -4489,7 +4752,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xai3 jaim3"
+    "pron": "xai3 jaim3",
+    "num": "-"
   },
   {
     "word": "硫材",
@@ -4505,7 +4769,8 @@
         "explanation": ""
       }
     ],
-    "pron": "haom3 jaim3"
+    "pron": "haom3 jaim3",
+    "num": "-"
   },
   {
     "word": "塩材",
@@ -4521,7 +4786,8 @@
         "explanation": ""
       }
     ],
-    "pron": "waos2 jaim3"
+    "pron": "waos2 jaim3",
+    "num": "-"
   },
   {
     "word": "骨材",
@@ -4537,7 +4803,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nais2 jaim3"
+    "pron": "nais2 jaim3",
+    "num": "-"
   },
   {
     "word": "鉄材",
@@ -4553,7 +4820,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hao1 jaim3"
+    "pron": "hao1 jaim3",
+    "num": "-"
   },
   {
     "word": "銅材",
@@ -4569,7 +4837,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qao2 jaim3"
+    "pron": "qao2 jaim3",
+    "num": "-"
   },
   {
     "word": "銀材",
@@ -4585,7 +4854,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tuo3 jaim3"
+    "pron": "tuo3 jaim3",
+    "num": "-"
   },
   {
     "word": "金材",
@@ -4601,7 +4871,8 @@
         "explanation": ""
       }
     ],
-    "pron": "va2 jaim3"
+    "pron": "va2 jaim3",
+    "num": "-"
   },
   {
     "word": "狩",
@@ -4617,7 +4888,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fe2"
+    "pron": "fe2",
+    "num": "132"
   },
   {
     "word": "豚",
@@ -4633,7 +4905,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xe1"
+    "pron": "xe1",
+    "num": "133"
   },
   {
     "word": "死",
@@ -4653,7 +4926,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sil3"
+    "pron": "sil3",
+    "num": "134"
   },
   {
     "word": "筋",
@@ -4669,7 +4943,8 @@
         "explanation": ""
       }
     ],
-    "pron": "las2"
+    "pron": "las2",
+    "num": "135"
   },
   {
     "word": "遠",
@@ -4689,7 +4964,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sal2"
+    "pron": "sal2",
+    "num": "136"
   },
   {
     "word": "遠立",
@@ -4705,7 +4981,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sal2 quo3"
+    "pron": "sal2 quo3",
+    "num": "-"
   },
   {
     "word": "灰",
@@ -4721,7 +4998,8 @@
         "explanation": ""
       }
     ],
-    "pron": "da3"
+    "pron": "da3",
+    "num": "137"
   },
   {
     "word": "炭",
@@ -4741,7 +5019,8 @@
         "explanation": ""
       }
     ],
-    "pron": "si3"
+    "pron": "si3",
+    "num": "138"
   },
   {
     "word": "二炭火",
@@ -4757,7 +5036,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buan3 si3 tang2"
+    "pron": "buan3 si3 tang2",
+    "num": "-"
   },
   {
     "word": "三水気",
@@ -4773,7 +5053,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gaol3 so3 sing1"
+    "pron": "gaol3 so3 sing1",
+    "num": "-"
   },
   {
     "word": "塩",
@@ -4793,7 +5074,8 @@
         "explanation": ""
       }
     ],
-    "pron": "waos2"
+    "pron": "waos2",
+    "num": "139"
   },
   {
     "word": "稲",
@@ -4809,7 +5091,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xe2"
+    "pron": "xe2",
+    "num": "140"
   },
   {
     "word": "米",
@@ -4825,7 +5108,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dao3"
+    "pron": "dao3",
+    "num": "141"
   },
   {
     "word": "粉",
@@ -4841,7 +5125,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zo2"
+    "pron": "zo2",
+    "num": "142"
   },
   {
     "word": "粉粉",
@@ -4857,7 +5142,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zo2 zo2"
+    "pron": "zo2 zo2",
+    "num": "-"
   },
   {
     "word": "乾乾",
@@ -4873,7 +5159,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so1 so1"
+    "pron": "so1 so1",
+    "num": "-"
   },
   {
     "word": "粒",
@@ -4889,7 +5176,8 @@
         "explanation": ""
       }
     ],
-    "pron": "duol2"
+    "pron": "duol2",
+    "num": "143"
   },
   {
     "word": "小粒",
@@ -4905,7 +5193,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1 duol2"
+    "pron": "yao1 duol2",
+    "num": "-"
   },
   {
     "word": "立",
@@ -4921,7 +5210,8 @@
         "explanation": ""
       }
     ],
-    "pron": "quo3"
+    "pron": "quo3",
+    "num": "144"
   },
   {
     "word": "基",
@@ -4941,7 +5231,8 @@
         "explanation": ""
       }
     ],
-    "pron": "len1"
+    "pron": "len1",
+    "num": "145"
   },
   {
     "word": "基材",
@@ -4957,7 +5248,8 @@
         "explanation": ""
       }
     ],
-    "pron": "len1 jaim3"
+    "pron": "len1 jaim3",
+    "num": "-"
   },
   {
     "word": "恨",
@@ -4977,7 +5269,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gon2"
+    "pron": "gon2",
+    "num": "146"
   },
   {
     "word": "等",
@@ -4997,7 +5290,8 @@
         "explanation": ""
       }
     ],
-    "pron": "muos3"
+    "pron": "muos3",
+    "num": "147"
   },
   {
     "word": "等言",
@@ -5013,7 +5307,8 @@
         "explanation": ""
       }
     ],
-    "pron": "muos3 bun2"
+    "pron": "muos3 bun2",
+    "num": "-"
   },
   {
     "word": "世等",
@@ -5029,7 +5324,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fua1 muos3"
+    "pron": "fua1 muos3",
+    "num": "-"
   },
   {
     "word": "伴",
@@ -5049,7 +5345,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nuo2"
+    "pron": "nuo2",
+    "num": "148"
   },
   {
     "word": "遊",
@@ -5069,7 +5366,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dao1"
+    "pron": "dao1",
+    "num": "149"
   },
   {
     "word": "遊数",
@@ -5085,7 +5383,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dao1 mis1"
+    "pron": "dao1 mis1",
+    "num": "-"
   },
   {
     "word": "遊思",
@@ -5101,7 +5400,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dao1 sao2"
+    "pron": "dao1 sao2",
+    "num": "-"
   },
   {
     "word": "長",
@@ -5121,7 +5421,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kail3"
+    "pron": "kail3",
+    "num": "150"
   },
   {
     "word": "脚",
@@ -5137,7 +5438,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wo3"
+    "pron": "wo3",
+    "num": "151"
   },
   {
     "word": "走",
@@ -5153,7 +5455,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yem2"
+    "pron": "yem2",
+    "num": "152"
   },
   {
     "word": "跳",
@@ -5173,7 +5476,8 @@
         "explanation": ""
       }
     ],
-    "pron": "go3"
+    "pron": "go3",
+    "num": "153"
   },
   {
     "word": "越",
@@ -5193,7 +5497,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vua1"
+    "pron": "vua1",
+    "num": "154"
   },
   {
     "word": "乗",
@@ -5209,7 +5514,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qang3"
+    "pron": "qang3",
+    "num": "155"
   },
   {
     "word": "兵",
@@ -5225,7 +5531,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nal3"
+    "pron": "nal3",
+    "num": "156"
   },
   {
     "word": "軍",
@@ -5241,7 +5548,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xung3"
+    "pron": "xung3",
+    "num": "157"
   },
   {
     "word": "戦",
@@ -5261,7 +5569,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bas2"
+    "pron": "bas2",
+    "num": "158"
   },
   {
     "word": "戦船",
@@ -5277,7 +5586,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bas2 cua3"
+    "pron": "bas2 cua3",
+    "num": "-"
   },
   {
     "word": "皿",
@@ -5293,7 +5603,8 @@
         "explanation": ""
       }
     ],
-    "pron": "puang1"
+    "pron": "puang1",
+    "num": "159"
   },
   {
     "word": "米皿",
@@ -5309,7 +5620,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dao3 puang1"
+    "pron": "dao3 puang1",
+    "num": "-"
   },
   {
     "word": "盤",
@@ -5329,7 +5641,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xu1"
+    "pron": "xu1",
+    "num": "160"
   },
   {
     "word": "軍盤",
@@ -5345,7 +5658,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xung3 xu1"
+    "pron": "xung3 xu1",
+    "num": "-"
   },
   {
     "word": "盤戦",
@@ -5361,7 +5675,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xu1 bas2"
+    "pron": "xu1 bas2",
+    "num": "-"
   },
   {
     "word": "数",
@@ -5377,7 +5692,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mis1"
+    "pron": "mis1",
+    "num": "161"
   },
   {
     "word": "体",
@@ -5393,7 +5709,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vao3"
+    "pron": "vao3",
+    "num": "162"
   },
   {
     "word": "熱",
@@ -5413,7 +5730,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suo3"
+    "pron": "suo3",
+    "num": "163"
   },
   {
     "word": "気熱",
@@ -5429,7 +5747,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 suo3"
+    "pron": "sing1 suo3",
+    "num": "-"
   },
   {
     "word": "熱病",
@@ -5445,7 +5764,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suo3 cun1"
+    "pron": "suo3 cun1",
+    "num": "-"
   },
   {
     "word": "川",
@@ -5461,7 +5781,8 @@
         "explanation": ""
       }
     ],
-    "pron": "huo2"
+    "pron": "huo2",
+    "num": "164"
   },
   {
     "word": "丘",
@@ -5477,7 +5798,8 @@
         "explanation": "山。こちらは丘よりも高い地形を指す。"
       }
     ],
-    "pron": "zo3"
+    "pron": "zo3",
+    "num": "165"
   },
   {
     "word": "交",
@@ -5497,7 +5819,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wi3"
+    "pron": "wi3",
+    "num": "166"
   },
   {
     "word": "天交",
@@ -5513,7 +5836,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 wi3"
+    "pron": "vas1 wi3",
+    "num": "-"
   },
   {
     "word": "画交",
@@ -5529,7 +5853,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xao3 wi3"
+    "pron": "xao3 wi3",
+    "num": "-"
   },
   {
     "word": "巾",
@@ -5549,7 +5874,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ye1"
+    "pron": "ye1",
+    "num": "167"
   },
   {
     "word": "旭",
@@ -5569,7 +5895,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ju1"
+    "pron": "ju1",
+    "num": "168"
   },
   {
     "word": "旭天",
@@ -5585,7 +5912,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ju1 vas1"
+    "pron": "ju1 vas1",
+    "num": "-"
   },
   {
     "word": "代",
@@ -5605,7 +5933,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yao3"
+    "pron": "yao3",
+    "num": "169"
   },
   {
     "word": "姉",
@@ -5621,7 +5950,8 @@
         "explanation": ""
       }
     ],
-    "pron": "guong1"
+    "pron": "guong1",
+    "num": "170"
   },
   {
     "word": "大姉",
@@ -5637,7 +5967,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 guong1"
+    "pron": "qim3 guong1",
+    "num": "-"
   },
   {
     "word": "隣",
@@ -5653,7 +5984,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mo2"
+    "pron": "mo2",
+    "num": "171"
   },
   {
     "word": "座",
@@ -5669,7 +6001,8 @@
         "explanation": "席。こちらは椅子など高さのある場所に腰を下ろすことを指す。"
       }
     ],
-    "pron": "ma3"
+    "pron": "ma3",
+    "num": "172"
   },
   {
     "word": "做",
@@ -5685,7 +6018,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hil3"
+    "pron": "hil3",
+    "num": "173"
   },
   {
     "word": "汝去做",
@@ -5701,7 +6035,8 @@
         "explanation": "字の通り「何かを成し遂げた」ときに使う語。"
       }
     ],
-    "pron": "kus3 fes2 hil3"
+    "pron": "kus3 fes2 hil3",
+    "num": "-"
   },
   {
     "word": "喜伴慶",
@@ -5717,7 +6052,8 @@
         "explanation": "相手の身に喜ばしいことがあったときに使う挨拶。目上から対等まで幅広く使える。"
       }
     ],
-    "pron": "hai2 nuo2 nu3"
+    "pron": "hai2 nuo2 nu3",
+    "num": "-"
   },
   {
     "word": "画",
@@ -5741,7 +6077,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xao3"
+    "pron": "xao3",
+    "num": "174"
   },
   {
     "word": "画機",
@@ -5757,7 +6094,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xao3 ail2"
+    "pron": "xao3 ail2",
+    "num": "-"
   },
   {
     "word": "目画",
@@ -5777,7 +6115,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 xao3"
+    "pron": "ke1 xao3",
+    "num": "-"
   },
   {
     "word": "目機",
@@ -5793,7 +6132,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 ail2"
+    "pron": "ke1 ail2",
+    "num": "-"
   },
   {
     "word": "目報",
@@ -5813,7 +6153,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 vul3"
+    "pron": "ke1 vul3",
+    "num": "-"
   },
   {
     "word": "能",
@@ -5829,7 +6170,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ail1"
+    "pron": "ail1",
+    "num": "175"
   },
   {
     "word": "透",
@@ -5849,7 +6191,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li1"
+    "pron": "li1",
+    "num": "176"
   },
   {
     "word": "暁",
@@ -5873,7 +6216,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mi1"
+    "pron": "mi1",
+    "num": "177"
   },
   {
     "word": "暁果",
@@ -5889,7 +6233,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mi1 baon2"
+    "pron": "mi1 baon2",
+    "num": "-"
   },
   {
     "word": "固暁果",
@@ -5905,7 +6250,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nail2 mi1 baon2"
+    "pron": "nail2 mi1 baon2",
+    "num": "-"
   },
   {
     "word": "糖暁果",
@@ -5921,7 +6267,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li2 mi1 baon2"
+    "pron": "li2 mi1 baon2",
+    "num": "-"
   },
   {
     "word": "暁気",
@@ -5937,7 +6284,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mi1 sing1"
+    "pron": "mi1 sing1",
+    "num": "-"
   },
   {
     "word": "拠",
@@ -5953,7 +6301,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cang2"
+    "pron": "cang2",
+    "num": "178"
   },
   {
     "word": "仁",
@@ -5973,7 +6322,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hao2"
+    "pron": "hao2",
+    "num": "179"
   },
   {
     "word": "仁大",
@@ -5989,7 +6339,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hao2 qim3"
+    "pron": "hao2 qim3",
+    "num": "-"
   },
   {
     "word": "地",
@@ -6005,7 +6356,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ho3"
+    "pron": "ho3",
+    "num": "180"
   },
   {
     "word": "大地",
@@ -6021,7 +6373,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 ho3"
+    "pron": "qim3 ho3",
+    "num": "-"
   },
   {
     "word": "昇",
@@ -6037,7 +6390,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dai2"
+    "pron": "dai2",
+    "num": "181"
   },
   {
     "word": "追",
@@ -6053,7 +6407,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuon2"
+    "pron": "yuon2",
+    "num": "182"
   },
   {
     "word": "圧",
@@ -6069,7 +6424,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mu1"
+    "pron": "mu1",
+    "num": "183"
   },
   {
     "word": "啊",
@@ -6085,7 +6441,8 @@
         "explanation": ""
       }
     ],
-    "pron": "a3"
+    "pron": "a3",
+    "num": "184"
   },
   {
     "word": "央",
@@ -6105,7 +6462,8 @@
         "explanation": ""
       }
     ],
-    "pron": "na2"
+    "pron": "na2",
+    "num": "185"
   },
   {
     "word": "静",
@@ -6121,7 +6479,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fi3"
+    "pron": "fi3",
+    "num": "186"
   },
   {
     "word": "僻",
@@ -6137,7 +6496,8 @@
         "explanation": ""
       }
     ],
-    "pron": "waing1"
+    "pron": "waing1",
+    "num": "187"
   },
   {
     "word": "森",
@@ -6153,7 +6513,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yon1"
+    "pron": "yon1",
+    "num": "188"
   },
   {
     "word": "万",
@@ -6173,7 +6534,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ao1"
+    "pron": "ao1",
+    "num": "189"
   },
   {
     "word": "七",
@@ -6189,7 +6551,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jaim1"
+    "pron": "jaim1",
+    "num": "190"
   },
   {
     "word": "八",
@@ -6205,7 +6568,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li3"
+    "pron": "li3",
+    "num": "191"
   },
   {
     "word": "九",
@@ -6221,7 +6585,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yan1"
+    "pron": "yan1",
+    "num": "192"
   },
   {
     "word": "零",
@@ -6237,7 +6602,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bao1"
+    "pron": "bao1",
+    "num": "193"
   },
   {
     "word": "十",
@@ -6253,7 +6619,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tail1"
+    "pron": "tail1",
+    "num": "194"
   },
   {
     "word": "百",
@@ -6269,7 +6636,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pai2"
+    "pron": "pai2",
+    "num": "195"
   },
   {
     "word": "千",
@@ -6285,7 +6653,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tuong2"
+    "pron": "tuong2",
+    "num": "196"
   },
   {
     "word": "刻",
@@ -6301,7 +6670,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cim1"
+    "pron": "cim1",
+    "num": "197"
   },
   {
     "word": "分",
@@ -6317,7 +6687,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gual2"
+    "pron": "gual2",
+    "num": "198"
   },
   {
     "word": "秒",
@@ -6333,7 +6704,8 @@
         "explanation": ""
       }
     ],
-    "pron": "la3"
+    "pron": "la3",
+    "num": "199"
   },
   {
     "word": "田",
@@ -6349,7 +6721,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cin2"
+    "pron": "cin2",
+    "num": "200"
   },
   {
     "word": "永",
@@ -6369,7 +6742,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hes2"
+    "pron": "hes2",
+    "num": "201"
   },
   {
     "word": "永印",
@@ -6385,7 +6759,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hes2 sua1"
+    "pron": "hes2 sua1",
+    "num": "-"
   },
   {
     "word": "問",
@@ -6405,7 +6780,8 @@
         "explanation": ""
       }
     ],
-    "pron": "naol3"
+    "pron": "naol3",
+    "num": "202"
   },
   {
     "word": "如",
@@ -6421,7 +6797,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lol1"
+    "pron": "lol1",
+    "num": "203"
   },
   {
     "word": "宗",
@@ -6441,7 +6818,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mai1"
+    "pron": "mai1",
+    "num": "204"
   },
   {
     "word": "暁宗",
@@ -6457,7 +6835,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mi1 mai1"
+    "pron": "mi1 mai1",
+    "num": "-"
   },
   {
     "word": "清",
@@ -6473,7 +6852,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jai1"
+    "pron": "jai1",
+    "num": "205"
   },
   {
     "word": "尿",
@@ -6493,7 +6873,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xai3"
+    "pron": "xai3",
+    "num": "206"
   },
   {
     "word": "石",
@@ -6509,7 +6890,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hais3"
+    "pron": "hais3",
+    "num": "207"
   },
   {
     "word": "石炭",
@@ -6525,7 +6907,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hais3 si3"
+    "pron": "hais3 si3",
+    "num": "-"
   },
   {
     "word": "石油",
@@ -6541,7 +6924,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hais3 xu2"
+    "pron": "hais3 xu2",
+    "num": "-"
   },
   {
     "word": "燃石",
@@ -6557,7 +6941,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lus3 hais3"
+    "pron": "lus3 hais3",
+    "num": "-"
   },
   {
     "word": "赤粒石",
@@ -6573,7 +6958,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1 duol2 hais3"
+    "pron": "vuos1 duol2 hais3",
+    "num": "-"
   },
   {
     "word": "白粒石",
@@ -6589,7 +6975,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kaing2 duol2 hais3"
+    "pron": "kaing2 duol2 hais3",
+    "num": "-"
   },
   {
     "word": "神旭石",
@@ -6605,7 +6992,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xo2 ju1 hais3"
+    "pron": "xo2 ju1 hais3",
+    "num": "-"
   },
   {
     "word": "瑠",
@@ -6625,7 +7013,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ja1"
+    "pron": "ja1",
+    "num": "208"
   },
   {
     "word": "瑠瓶",
@@ -6641,7 +7030,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ja1 zua2"
+    "pron": "ja1 zua2",
+    "num": "-"
   },
   {
     "word": "固瑠",
@@ -6657,7 +7047,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nail2 ja1"
+    "pron": "nail2 ja1",
+    "num": "-"
   },
   {
     "word": "瑠丸",
@@ -6673,7 +7064,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ja1 luong3"
+    "pron": "ja1 luong3",
+    "num": "-"
   },
   {
     "word": "目瑠",
@@ -6689,7 +7081,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 ja1"
+    "pron": "ke1 ja1",
+    "num": "-"
   },
   {
     "word": "泡",
@@ -6705,7 +7098,8 @@
         "explanation": ""
       }
     ],
-    "pron": "se3"
+    "pron": "se3",
+    "num": "209"
   },
   {
     "word": "泡巾",
@@ -6721,7 +7115,8 @@
         "explanation": ""
       }
     ],
-    "pron": "se3 ye1"
+    "pron": "se3 ye1",
+    "num": "-"
   },
   {
     "word": "箔",
@@ -6737,7 +7132,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gu2"
+    "pron": "gu2",
+    "num": "210"
   },
   {
     "word": "箔筋",
@@ -6753,7 +7149,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gu2 las2"
+    "pron": "gu2 las2",
+    "num": "-"
   },
   {
     "word": "与雷口",
@@ -6769,7 +7166,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qil2 main2 ge2"
+    "pron": "qil2 main2 ge2",
+    "num": "-"
   },
   {
     "word": "金",
@@ -6789,7 +7187,8 @@
         "explanation": ""
       }
     ],
-    "pron": "va2"
+    "pron": "va2",
+    "num": "211"
   },
   {
     "word": "銀",
@@ -6809,7 +7208,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tuo3"
+    "pron": "tuo3",
+    "num": "212"
   },
   {
     "word": "銅",
@@ -6829,7 +7229,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qao2"
+    "pron": "qao2",
+    "num": "213"
   },
   {
     "word": "軽",
@@ -6845,7 +7246,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xao2"
+    "pron": "xao2",
+    "num": "214"
   },
   {
     "word": "礬",
@@ -6865,7 +7267,8 @@
         "explanation": ""
       }
     ],
-    "pron": "min1"
+    "pron": "min1",
+    "num": "215"
   },
   {
     "word": "黄",
@@ -6881,7 +7284,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vao2"
+    "pron": "vao2",
+    "num": "216"
   },
   {
     "word": "硫",
@@ -6901,7 +7305,8 @@
         "explanation": ""
       }
     ],
-    "pron": "haom3"
+    "pron": "haom3",
+    "num": "217"
   },
   {
     "word": "固",
@@ -6917,7 +7322,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nail2"
+    "pron": "nail2",
+    "num": "218"
   },
   {
     "word": "固心",
@@ -6933,7 +7339,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nail2 nes2"
+    "pron": "nail2 nes2",
+    "num": "-"
   },
   {
     "word": "永固",
@@ -6949,7 +7356,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hes2 nail2"
+    "pron": "hes2 nail2",
+    "num": "-"
   },
   {
     "word": "鉄",
@@ -6969,7 +7377,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hao1"
+    "pron": "hao1",
+    "num": "219"
   },
   {
     "word": "骨",
@@ -6989,7 +7398,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nais2"
+    "pron": "nais2",
+    "num": "220"
   },
   {
     "word": "病",
@@ -7005,7 +7415,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cun1"
+    "pron": "cun1",
+    "num": "221"
   },
   {
     "word": "痛",
@@ -7021,7 +7432,8 @@
         "explanation": ""
       }
     ],
-    "pron": "uo2"
+    "pron": "uo2",
+    "num": "222"
   },
   {
     "word": "包",
@@ -7037,7 +7449,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buos1"
+    "pron": "buos1",
+    "num": "223"
   },
   {
     "word": "痘",
@@ -7053,7 +7466,8 @@
         "explanation": ""
       }
     ],
-    "pron": "za2"
+    "pron": "za2",
+    "num": "224"
   },
   {
     "word": "乳痘",
@@ -7069,7 +7483,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tai1 za2"
+    "pron": "tai1 za2",
+    "num": "-"
   },
   {
     "word": "固痘",
@@ -7085,7 +7500,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nail2 za2"
+    "pron": "nail2 za2",
+    "num": "-"
   },
   {
     "word": "創",
@@ -7105,7 +7521,8 @@
         "explanation": ""
       }
     ],
-    "pron": "les3"
+    "pron": "les3",
+    "num": "225"
   },
   {
     "word": "創人",
@@ -7121,7 +7538,8 @@
         "explanation": ""
       }
     ],
-    "pron": "les3 ha1"
+    "pron": "les3 ha1",
+    "num": "-"
   },
   {
     "word": "笑",
@@ -7141,7 +7559,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tuam2"
+    "pron": "tuam2",
+    "num": "226"
   },
   {
     "word": "穏",
@@ -7165,7 +7584,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wai1"
+    "pron": "wai1",
+    "num": "227"
   },
   {
     "word": "医",
@@ -7181,7 +7601,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gais2"
+    "pron": "gais2",
+    "num": "228"
   },
   {
     "word": "薬",
@@ -7197,7 +7618,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vain3"
+    "pron": "vain3",
+    "num": "229"
   },
   {
     "word": "糞",
@@ -7213,7 +7635,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ja3"
+    "pron": "ja3",
+    "num": "230"
   },
   {
     "word": "通",
@@ -7233,7 +7656,8 @@
         "explanation": ""
       }
     ],
-    "pron": "faong3"
+    "pron": "faong3",
+    "num": "231"
   },
   {
     "word": "通日",
@@ -7249,7 +7673,8 @@
         "explanation": ""
       }
     ],
-    "pron": "faong3 kuang1"
+    "pron": "faong3 kuang1",
+    "num": "-"
   },
   {
     "word": "通月",
@@ -7265,7 +7690,8 @@
         "explanation": ""
       }
     ],
-    "pron": "faong3 vo2"
+    "pron": "faong3 vo2",
+    "num": "-"
   },
   {
     "word": "通年",
@@ -7281,7 +7707,8 @@
         "explanation": ""
       }
     ],
-    "pron": "faong3 vais2"
+    "pron": "faong3 vais2",
+    "num": "-"
   },
   {
     "word": "尻",
@@ -7297,7 +7724,8 @@
         "explanation": ""
       }
     ],
-    "pron": "caom1"
+    "pron": "caom1",
+    "num": "232"
   },
   {
     "word": "歯",
@@ -7317,7 +7745,8 @@
         "explanation": ""
       }
     ],
-    "pron": "il3"
+    "pron": "il3",
+    "num": "233"
   },
   {
     "word": "歯肉",
@@ -7333,7 +7762,8 @@
         "explanation": ""
       }
     ],
-    "pron": "il3 nang2"
+    "pron": "il3 nang2",
+    "num": "-"
   },
   {
     "word": "食歯",
@@ -7349,7 +7779,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bua1 il3"
+    "pron": "bua1 il3",
+    "num": "-"
   },
   {
     "word": "糖",
@@ -7369,7 +7800,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li2"
+    "pron": "li2",
+    "num": "234"
   },
   {
     "word": "糖草",
@@ -7385,7 +7817,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li2 cai1"
+    "pron": "li2 cai1",
+    "num": "-"
   },
   {
     "word": "糖氷",
@@ -7401,7 +7834,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li2 hua1"
+    "pron": "li2 hua1",
+    "num": "-"
   },
   {
     "word": "糖丸",
@@ -7417,7 +7851,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li2 luong3"
+    "pron": "li2 luong3",
+    "num": "-"
   },
   {
     "word": "子",
@@ -7433,7 +7868,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gum2"
+    "pron": "gum2",
+    "num": "235"
   },
   {
     "word": "乳",
@@ -7449,7 +7885,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tai1"
+    "pron": "tai1",
+    "num": "236"
   },
   {
     "word": "乳氷",
@@ -7465,7 +7902,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tai1 hua1"
+    "pron": "tai1 hua1",
+    "num": "-"
   },
   {
     "word": "苦",
@@ -7481,7 +7919,8 @@
         "explanation": ""
       }
     ],
-    "pron": "do1"
+    "pron": "do1",
+    "num": "237"
   },
   {
     "word": "鼻",
@@ -7497,7 +7936,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suam1"
+    "pron": "suam1",
+    "num": "238"
   },
   {
     "word": "鼻圧",
@@ -7517,7 +7957,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suam1 mu1"
+    "pron": "suam1 mu1",
+    "num": "-"
   },
   {
     "word": "香",
@@ -7537,7 +7978,8 @@
         "explanation": ""
       }
     ],
-    "pron": "guol1"
+    "pron": "guol1",
+    "num": "239"
   },
   {
     "word": "香杖",
@@ -7553,7 +7995,8 @@
         "explanation": ""
       }
     ],
-    "pron": "guol1 qo1"
+    "pron": "guol1 qo1",
+    "num": "-"
   },
   {
     "word": "止",
@@ -7569,7 +8012,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zua3"
+    "pron": "zua3",
+    "num": "240"
   },
   {
     "word": "重",
@@ -7589,7 +8033,8 @@
         "explanation": ""
       }
     ],
-    "pron": "an3"
+    "pron": "an3",
+    "num": "241"
   },
   {
     "word": "重気",
@@ -7605,7 +8050,8 @@
         "explanation": ""
       }
     ],
-    "pron": "an3 sing1"
+    "pron": "an3 sing1",
+    "num": "-"
   },
   {
     "word": "紙重",
@@ -7621,7 +8067,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ye2 an3"
+    "pron": "ye2 an3",
+    "num": "-"
   },
   {
     "word": "体重",
@@ -7637,7 +8084,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vao3 an3"
+    "pron": "vao3 an3",
+    "num": "-"
   },
   {
     "word": "甲",
@@ -7653,7 +8101,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bao3"
+    "pron": "bao3",
+    "num": "242"
   },
   {
     "word": "乙",
@@ -7669,7 +8118,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vul1"
+    "pron": "vul1",
+    "num": "243"
   },
   {
     "word": "美",
@@ -7685,7 +8135,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tao2"
+    "pron": "tao2",
+    "num": "244"
   },
   {
     "word": "美人",
@@ -7701,7 +8152,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tao2 ha1"
+    "pron": "tao2 ha1",
+    "num": "-"
   },
   {
     "word": "板",
@@ -7717,7 +8169,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lai2"
+    "pron": "lai2",
+    "num": "245"
   },
   {
     "word": "板楽",
@@ -7733,7 +8186,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lai2 yao2"
+    "pron": "lai2 yao2",
+    "num": "-"
   },
   {
     "word": "琥",
@@ -7753,7 +8207,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ai2"
+    "pron": "ai2",
+    "num": "246"
   },
   {
     "word": "油琥",
@@ -7769,7 +8224,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xu2 ai2"
+    "pron": "xu2 ai2",
+    "num": "-"
   },
   {
     "word": "琥巾",
@@ -7785,7 +8241,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ai2 ye1"
+    "pron": "ai2 ye1",
+    "num": "-"
   },
   {
     "word": "粘",
@@ -7801,7 +8258,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wem1"
+    "pron": "wem1",
+    "num": "247"
   },
   {
     "word": "粘土",
@@ -7817,7 +8275,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wem1 ao3"
+    "pron": "wem1 ao3",
+    "num": "-"
   },
   {
     "word": "粘琥",
@@ -7833,7 +8292,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wem1 ai2"
+    "pron": "wem1 ai2",
+    "num": "-"
   },
   {
     "word": "粘琥丸",
@@ -7849,7 +8309,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wem1 ai2 luong3"
+    "pron": "wem1 ai2 luong3",
+    "num": "-"
   },
   {
     "word": "粘乳",
@@ -7865,7 +8326,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wem1 tai1"
+    "pron": "wem1 tai1",
+    "num": "-"
   },
   {
     "word": "消粘琥",
@@ -7881,7 +8343,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nao2 wem1 ai2"
+    "pron": "nao2 wem1 ai2",
+    "num": "-"
   },
   {
     "word": "消琥",
@@ -7897,7 +8360,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nao2 ai2"
+    "pron": "nao2 ai2",
+    "num": "-"
   },
   {
     "word": "瓶",
@@ -7913,7 +8377,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zua2"
+    "pron": "zua2",
+    "num": "248"
   },
   {
     "word": "鉄瓶",
@@ -7929,7 +8394,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hao1 zua2"
+    "pron": "hao1 zua2",
+    "num": "-"
   },
   {
     "word": "礬瓶",
@@ -7945,7 +8411,8 @@
         "explanation": ""
       }
     ],
-    "pron": "min1 zua2"
+    "pron": "min1 zua2",
+    "num": "-"
   },
   {
     "word": "琥瓶",
@@ -7961,7 +8428,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ai2 zua2"
+    "pron": "ai2 zua2",
+    "num": "-"
   },
   {
     "word": "気瓶",
@@ -7977,7 +8445,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 zua2"
+    "pron": "sing1 zua2",
+    "num": "-"
   },
   {
     "word": "雷瓶",
@@ -7993,7 +8462,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 zua2"
+    "pron": "main2 zua2",
+    "num": "-"
   },
   {
     "word": "湛雷瓶",
@@ -8009,7 +8479,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qao1 main2 zua2"
+    "pron": "qao1 main2 zua2",
+    "num": "-"
   },
   {
     "word": "湛雷",
@@ -8025,7 +8496,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qao1 main2"
+    "pron": "qao1 main2",
+    "num": "-"
   },
   {
     "word": "高",
@@ -8041,7 +8513,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wing3"
+    "pron": "wing3",
+    "num": "249"
   },
   {
     "word": "高家",
@@ -8057,7 +8530,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wing3 be1"
+    "pron": "wing3 be1",
+    "num": "-"
   },
   {
     "word": "車",
@@ -8073,7 +8547,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ye3"
+    "pron": "ye3",
+    "num": "250"
   },
   {
     "word": "力車",
@@ -8089,7 +8564,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nai2 ye3"
+    "pron": "nai2 ye3",
+    "num": "-"
   },
   {
     "word": "油力車",
@@ -8105,7 +8581,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xu2 nai2 ye3"
+    "pron": "xu2 nai2 ye3",
+    "num": "-"
   },
   {
     "word": "雷力車",
@@ -8121,7 +8598,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 nai2 ye3"
+    "pron": "main2 nai2 ye3",
+    "num": "-"
   },
   {
     "word": "道車",
@@ -8137,7 +8615,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gim1 ye3"
+    "pron": "gim1 ye3",
+    "num": "-"
   },
   {
     "word": "車道",
@@ -8153,7 +8632,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ye3 gim1"
+    "pron": "ye3 gim1",
+    "num": "-"
   },
   {
     "word": "衆車",
@@ -8169,7 +8649,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 ye3"
+    "pron": "mail2 ye3",
+    "num": "-"
   },
   {
     "word": "戦車",
@@ -8185,7 +8666,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bas2 ye3"
+    "pron": "bas2 ye3",
+    "num": "-"
   },
   {
     "word": "機",
@@ -8201,7 +8683,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ail2"
+    "pron": "ail2",
+    "num": "251"
   },
   {
     "word": "飛機",
@@ -8217,7 +8700,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dail2 ail2"
+    "pron": "dail2 ail2",
+    "num": "-"
   },
   {
     "word": "戦飛機",
@@ -8233,7 +8717,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bas2 dail2 ail2"
+    "pron": "bas2 dail2 ail2",
+    "num": "-"
   },
   {
     "word": "回飛機",
@@ -8249,7 +8734,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pel1 dail2 ail2"
+    "pron": "pel1 dail2 ail2",
+    "num": "-"
   },
   {
     "word": "熱機",
@@ -8265,7 +8751,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suo3 ail2"
+    "pron": "suo3 ail2",
+    "num": "-"
   },
   {
     "word": "燃機",
@@ -8281,7 +8768,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lus3 ail2"
+    "pron": "lus3 ail2",
+    "num": "-"
   },
   {
     "word": "整気機",
@@ -8297,7 +8785,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lao1 sing1 ail2"
+    "pron": "lao1 sing1 ail2",
+    "num": "-"
   },
   {
     "word": "言機",
@@ -8313,7 +8802,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bun2 ail2"
+    "pron": "bun2 ail2",
+    "num": "-"
   },
   {
     "word": "機言",
@@ -8329,7 +8819,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ail2 bun2"
+    "pron": "ail2 bun2",
+    "num": "-"
   },
   {
     "word": "書画機",
@@ -8345,7 +8836,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3 xao3 ail2"
+    "pron": "sua3 xao3 ail2",
+    "num": "-"
   },
   {
     "word": "印機",
@@ -8361,7 +8853,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sua1 ail2"
+    "pron": "sua1 ail2",
+    "num": "-"
   },
   {
     "word": "戦機",
@@ -8377,7 +8870,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bas2 ail2"
+    "pron": "bas2 ail2",
+    "num": "-"
   },
   {
     "word": "机",
@@ -8393,7 +8887,8 @@
         "explanation": ""
       }
     ],
-    "pron": "las3"
+    "pron": "las3",
+    "num": "252"
   },
   {
     "word": "椅",
@@ -8409,7 +8904,8 @@
         "explanation": ""
       }
     ],
-    "pron": "luo3"
+    "pron": "luo3",
+    "num": "253"
   },
   {
     "word": "席",
@@ -8425,7 +8921,8 @@
         "explanation": ""
       }
     ],
-    "pron": "os3"
+    "pron": "os3",
+    "num": "254"
   },
   {
     "word": "求",
@@ -8445,7 +8942,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vao1"
+    "pron": "vao1",
+    "num": "255"
   },
   {
     "word": "帳",
@@ -8461,7 +8959,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sus3"
+    "pron": "sus3",
+    "num": "256"
   },
   {
     "word": "内帳",
@@ -8477,7 +8976,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuo2 sus3"
+    "pron": "yuo2 sus3",
+    "num": "-"
   },
   {
     "word": "字帳",
@@ -8493,7 +8993,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qo3 sus3"
+    "pron": "qo3 sus3",
+    "num": "-"
   },
   {
     "word": "言帳",
@@ -8509,7 +9010,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bun2 sus3"
+    "pron": "bun2 sus3",
+    "num": "-"
   },
   {
     "word": "楽",
@@ -8533,7 +9035,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yao2"
+    "pron": "yao2",
+    "num": "257"
   },
   {
     "word": "杯",
@@ -8549,7 +9052,8 @@
         "explanation": ""
       }
     ],
-    "pron": "paon1"
+    "pron": "paon1",
+    "num": "258"
   },
   {
     "word": "杖",
@@ -8569,7 +9073,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qo1"
+    "pron": "qo1",
+    "num": "259"
   },
   {
     "word": "温",
@@ -8589,7 +9094,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qain1"
+    "pron": "qain1",
+    "num": "260"
   },
   {
     "word": "温杯",
@@ -8605,7 +9111,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qain1 paon1"
+    "pron": "qain1 paon1",
+    "num": "-"
   },
   {
     "word": "海杯",
@@ -8621,7 +9128,8 @@
         "explanation": ""
       }
     ],
-    "pron": "guan1 paon1"
+    "pron": "guan1 paon1",
+    "num": "-"
   },
   {
     "word": "浄場",
@@ -8641,7 +9149,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xai1 yai1"
+    "pron": "xai1 yai1",
+    "num": "-"
   },
   {
     "word": "音",
@@ -8661,7 +9170,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jua1"
+    "pron": "jua1",
+    "num": "261"
   },
   {
     "word": "音板",
@@ -8677,7 +9187,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jua1 lai2"
+    "pron": "jua1 lai2",
+    "num": "-"
   },
   {
     "word": "声",
@@ -8697,7 +9208,8 @@
         "explanation": ""
       }
     ],
-    "pron": "we2"
+    "pron": "we2",
+    "num": "262"
   },
   {
     "word": "声報",
@@ -8717,7 +9229,8 @@
         "explanation": ""
       }
     ],
-    "pron": "we2 vul3"
+    "pron": "we2 vul3",
+    "num": "-"
   },
   {
     "word": "啊声",
@@ -8733,7 +9246,8 @@
         "explanation": ""
       }
     ],
-    "pron": "a3 we2"
+    "pron": "a3 we2",
+    "num": "-"
   },
   {
     "word": "知",
@@ -8749,7 +9263,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qai2"
+    "pron": "qai2",
+    "num": "263"
   },
   {
     "word": "整数知",
@@ -8765,7 +9280,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lao1 mis1 qai2"
+    "pron": "lao1 mis1 qai2",
+    "num": "-"
   },
   {
     "word": "記知",
@@ -8781,7 +9297,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuang2 qai2"
+    "pron": "cuang2 qai2",
+    "num": "-"
   },
   {
     "word": "知人",
@@ -8797,7 +9314,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qai2 ha1"
+    "pron": "qai2 ha1",
+    "num": "-"
   },
   {
     "word": "数知",
@@ -8813,7 +9331,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mis1 qai2"
+    "pron": "mis1 qai2",
+    "num": "-"
   },
   {
     "word": "言知",
@@ -8829,7 +9348,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bun2 qai2"
+    "pron": "bun2 qai2",
+    "num": "-"
   },
   {
     "word": "思知",
@@ -8845,7 +9365,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sao2 qai2"
+    "pron": "sao2 qai2",
+    "num": "-"
   },
   {
     "word": "則知",
@@ -8861,7 +9382,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cua2 qai2"
+    "pron": "cua2 qai2",
+    "num": "-"
   },
   {
     "word": "衆知",
@@ -8877,7 +9399,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 qai2"
+    "pron": "mail2 qai2",
+    "num": "-"
   },
   {
     "word": "知思",
@@ -8893,7 +9416,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qai2 sao2"
+    "pron": "qai2 sao2",
+    "num": "-"
   },
   {
     "word": "報",
@@ -8909,7 +9433,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vul3"
+    "pron": "vul3",
+    "num": "264"
   },
   {
     "word": "報紙",
@@ -8925,7 +9450,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vul3 ye2"
+    "pron": "vul3 ye2",
+    "num": "-"
   },
   {
     "word": "報言",
@@ -8941,7 +9467,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vul3 bun2"
+    "pron": "vul3 bun2",
+    "num": "-"
   },
   {
     "word": "世報",
@@ -8957,7 +9484,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fua1 vul3"
+    "pron": "fua1 vul3",
+    "num": "-"
   },
   {
     "word": "報世人",
@@ -8973,7 +9501,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vul3 fua1 ha1"
+    "pron": "vul3 fua1 ha1",
+    "num": "-"
   },
   {
     "word": "広報",
@@ -8989,7 +9518,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dua1 vul3"
+    "pron": "dua1 vul3",
+    "num": "-"
   },
   {
     "word": "船",
@@ -9005,7 +9535,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cua3"
+    "pron": "cua3",
+    "num": "265"
   },
   {
     "word": "衣",
@@ -9025,7 +9556,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nel1"
+    "pron": "nel1",
+    "num": "266"
   },
   {
     "word": "脚衣",
@@ -9041,7 +9573,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wo3 nel1"
+    "pron": "wo3 nel1",
+    "num": "-"
   },
   {
     "word": "通衣",
@@ -9057,7 +9590,8 @@
         "explanation": ""
       }
     ],
-    "pron": "faong3 nel1"
+    "pron": "faong3 nel1",
+    "num": "-"
   },
   {
     "word": "団",
@@ -9073,7 +9607,8 @@
         "explanation": ""
       }
     ],
-    "pron": "puo3"
+    "pron": "puo3",
+    "num": "267"
   },
   {
     "word": "働",
@@ -9089,7 +9624,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kaing1"
+    "pron": "kaing1",
+    "num": "268"
   },
   {
     "word": "技",
@@ -9105,7 +9641,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fe1"
+    "pron": "fe1",
+    "num": "269"
   },
   {
     "word": "宝",
@@ -9125,7 +9662,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kao2"
+    "pron": "kao2",
+    "num": "270"
   },
   {
     "word": "信",
@@ -9141,7 +9679,8 @@
         "explanation": ""
       }
     ],
-    "pron": "guo1"
+    "pron": "guo1",
+    "num": "271"
   },
   {
     "word": "結",
@@ -9157,7 +9696,8 @@
         "explanation": ""
       }
     ],
-    "pron": "juo1"
+    "pron": "juo1",
+    "num": "272"
   },
   {
     "word": "結糸",
@@ -9173,7 +9713,8 @@
         "explanation": ""
       }
     ],
-    "pron": "juo1 buo3"
+    "pron": "juo1 buo3",
+    "num": "-"
   },
   {
     "word": "衆結",
@@ -9189,7 +9730,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 juo1"
+    "pron": "mail2 juo1",
+    "num": "-"
   },
   {
     "word": "与",
@@ -9205,7 +9747,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qil2"
+    "pron": "qil2",
+    "num": "273"
   },
   {
     "word": "湛",
@@ -9225,7 +9768,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qao1"
+    "pron": "qao1",
+    "num": "274"
   },
   {
     "word": "多",
@@ -9241,7 +9785,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jo3"
+    "pron": "jo3",
+    "num": "275"
   },
   {
     "word": "貨",
@@ -9257,7 +9802,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ku1"
+    "pron": "ku1",
+    "num": "276"
   },
   {
     "word": "箔貨",
@@ -9273,7 +9819,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gu2 ku1"
+    "pron": "gu2 ku1",
+    "num": "-"
   },
   {
     "word": "紙貨",
@@ -9289,7 +9836,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ye2 ku1"
+    "pron": "ye2 ku1",
+    "num": "-"
   },
   {
     "word": "雷貨",
@@ -9305,7 +9853,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ku1"
+    "pron": "main2 ku1",
+    "num": "-"
   },
   {
     "word": "雷貨板",
@@ -9321,7 +9870,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ku1 lai2"
+    "pron": "main2 ku1 lai2",
+    "num": "-"
   },
   {
     "word": "貨衆",
@@ -9337,7 +9887,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ku1 mail2"
+    "pron": "ku1 mail2",
+    "num": "-"
   },
   {
     "word": "貨王",
@@ -9353,7 +9904,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ku1 luam2"
+    "pron": "ku1 luam2",
+    "num": "-"
   },
   {
     "word": "湛貨",
@@ -9369,7 +9921,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qao1 ku1"
+    "pron": "qao1 ku1",
+    "num": "-"
   },
   {
     "word": "働衆",
@@ -9385,7 +9938,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kaing1 mail2"
+    "pron": "kaing1 mail2",
+    "num": "-"
   },
   {
     "word": "楽衆",
@@ -9401,7 +9955,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yao2 mail2"
+    "pron": "yao2 mail2",
+    "num": "-"
   },
   {
     "word": "音機",
@@ -9417,7 +9972,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jua1 ail2"
+    "pron": "jua1 ail2",
+    "num": "-"
   },
   {
     "word": "奏",
@@ -9437,7 +9993,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cail1"
+    "pron": "cail1",
+    "num": "277"
   },
   {
     "word": "奏機",
@@ -9453,7 +10010,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cail1 ail2"
+    "pron": "cail1 ail2",
+    "num": "-"
   },
   {
     "word": "危",
@@ -9469,7 +10027,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pais2"
+    "pron": "pais2",
+    "num": "278"
   },
   {
     "word": "危音",
@@ -9485,7 +10044,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pais2 jua1"
+    "pron": "pais2 jua1",
+    "num": "-"
   },
   {
     "word": "危音機",
@@ -9501,7 +10061,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pais2 jua1 ail2"
+    "pron": "pais2 jua1 ail2",
+    "num": "-"
   },
   {
     "word": "危報",
@@ -9521,7 +10082,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pais2 vul3"
+    "pron": "pais2 vul3",
+    "num": "-"
   },
   {
     "word": "憤",
@@ -9537,7 +10099,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gua1"
+    "pron": "gua1",
+    "num": "279"
   },
   {
     "word": "地憤",
@@ -9553,7 +10116,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ho3 gua1"
+    "pron": "ho3 gua1",
+    "num": "-"
   },
   {
     "word": "山憤",
@@ -9573,7 +10137,8 @@
         "explanation": ""
       }
     ],
-    "pron": "das1 gua1"
+    "pron": "das1 gua1",
+    "num": "-"
   },
   {
     "word": "憤山",
@@ -9589,7 +10154,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gua1 das1"
+    "pron": "gua1 das1",
+    "num": "-"
   },
   {
     "word": "火憤",
@@ -9605,7 +10171,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2 gua1"
+    "pron": "tang2 gua1",
+    "num": "-"
   },
   {
     "word": "暗",
@@ -9625,7 +10192,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tu2"
+    "pron": "tu2",
+    "num": "280"
   },
   {
     "word": "暗心",
@@ -9641,7 +10209,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tu2 nes2"
+    "pron": "tu2 nes2",
+    "num": "-"
   },
   {
     "word": "隠",
@@ -9661,7 +10230,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qua1"
+    "pron": "qua1",
+    "num": "281"
   },
   {
     "word": "故隠",
@@ -9677,7 +10247,8 @@
         "explanation": ""
       }
     ],
-    "pron": "don2 qua1"
+    "pron": "don2 qua1",
+    "num": "-"
   },
   {
     "word": "隠報",
@@ -9693,7 +10264,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qua1 vul3"
+    "pron": "qua1 vul3",
+    "num": "-"
   },
   {
     "word": "隠報人",
@@ -9709,7 +10281,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qua1 vul3 ha1"
+    "pron": "qua1 vul3 ha1",
+    "num": "-"
   },
   {
     "word": "隠言",
@@ -9725,7 +10298,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qua1 bun2"
+    "pron": "qua1 bun2",
+    "num": "-"
   },
   {
     "word": "訓",
@@ -9741,7 +10315,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xal3"
+    "pron": "xal3",
+    "num": "282"
   },
   {
     "word": "訓人",
@@ -9757,7 +10332,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xal3 ha1"
+    "pron": "xal3 ha1",
+    "num": "-"
   },
   {
     "word": "守",
@@ -9773,7 +10349,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pa3"
+    "pron": "pa3",
+    "num": "283"
   },
   {
     "word": "守言人",
@@ -9789,7 +10366,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pa3 bun2 ha1"
+    "pron": "pa3 bun2 ha1",
+    "num": "-"
   },
   {
     "word": "守丸",
@@ -9805,7 +10383,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pa3 luong3"
+    "pron": "pa3 luong3",
+    "num": "-"
   },
   {
     "word": "母",
@@ -9821,7 +10400,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bua2"
+    "pron": "bua2",
+    "num": "284"
   },
   {
     "word": "夫",
@@ -9837,7 +10417,8 @@
         "explanation": ""
       }
     ],
-    "pron": "paong2"
+    "pron": "paong2",
+    "num": "285"
   },
   {
     "word": "古",
@@ -9861,7 +10442,8 @@
         "explanation": ""
       }
     ],
-    "pron": "puon2"
+    "pron": "puon2",
+    "num": "286"
   },
   {
     "word": "古事",
@@ -9877,7 +10459,8 @@
         "explanation": ""
       }
     ],
-    "pron": "puon2 ge3"
+    "pron": "puon2 ge3",
+    "num": "-"
   },
   {
     "word": "架",
@@ -9901,7 +10484,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lim1"
+    "pron": "lim1",
+    "num": "287"
   },
   {
     "word": "架人",
@@ -9917,7 +10501,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lim1 ha1"
+    "pron": "lim1 ha1",
+    "num": "-"
   },
   {
     "word": "壁",
@@ -9937,7 +10522,8 @@
         "explanation": ""
       }
     ],
-    "pron": "di2"
+    "pron": "di2",
+    "num": "288"
   },
   {
     "word": "等壁",
@@ -9953,7 +10539,8 @@
         "explanation": ""
       }
     ],
-    "pron": "muos3 di2"
+    "pron": "muos3 di2",
+    "num": "-"
   },
   {
     "word": "帝",
@@ -9969,7 +10556,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lua2"
+    "pron": "lua2",
+    "num": "289"
   },
   {
     "word": "帝国",
@@ -9985,7 +10573,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lua2 nun2"
+    "pron": "lua2 nun2",
+    "num": "-"
   },
   {
     "word": "民国",
@@ -10001,7 +10590,8 @@
         "explanation": ""
       }
     ],
-    "pron": "zom3 nun2"
+    "pron": "zom3 nun2",
+    "num": "-"
   },
   {
     "word": "衆国",
@@ -10017,7 +10607,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 nun2"
+    "pron": "mail2 nun2",
+    "num": "-"
   },
   {
     "word": "態",
@@ -10033,7 +10624,8 @@
         "explanation": "「A態B」で「AのようなB」を表す。"
       }
     ],
-    "pron": "xos2"
+    "pron": "xos2",
+    "num": "290"
   },
   {
     "word": "事",
@@ -10049,7 +10641,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ge3"
+    "pron": "ge3",
+    "num": "291"
   },
   {
     "word": "模",
@@ -10065,7 +10658,8 @@
         "explanation": "「A模B」で「AならばB」を表す。"
       }
     ],
-    "pron": "muo1"
+    "pron": "muo1",
+    "num": "292"
   },
   {
     "word": "由",
@@ -10081,7 +10675,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pis3"
+    "pron": "pis3",
+    "num": "293"
   },
   {
     "word": "遍",
@@ -10097,7 +10692,8 @@
         "explanation": ""
       }
     ],
-    "pron": "quom2"
+    "pron": "quom2",
+    "num": "294"
   },
   {
     "word": "遍思",
@@ -10113,7 +10709,8 @@
         "explanation": ""
       }
     ],
-    "pron": "quom2 sao2"
+    "pron": "quom2 sao2",
+    "num": "-"
   },
   {
     "word": "遍人",
@@ -10129,7 +10726,8 @@
         "explanation": ""
       }
     ],
-    "pron": "quom2 ha1"
+    "pron": "quom2 ha1",
+    "num": "-"
   },
   {
     "word": "福",
@@ -10149,7 +10747,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hai1"
+    "pron": "hai1",
+    "num": "295"
   },
   {
     "word": "被",
@@ -10165,7 +10764,8 @@
         "explanation": ""
       }
     ],
-    "pron": "je1"
+    "pron": "je1",
+    "num": "296"
   },
   {
     "word": "違",
@@ -10181,7 +10781,8 @@
         "explanation": ""
       }
     ],
-    "pron": "he2"
+    "pron": "he2",
+    "num": "297"
   },
   {
     "word": "違做",
@@ -10197,7 +10798,8 @@
         "explanation": ""
       }
     ],
-    "pron": "he2 hil3"
+    "pron": "he2 hil3",
+    "num": "-"
   },
   {
     "word": "違事",
@@ -10213,7 +10815,8 @@
         "explanation": ""
       }
     ],
-    "pron": "he2 ge3"
+    "pron": "he2 ge3",
+    "num": "-"
   },
   {
     "word": "消",
@@ -10233,7 +10836,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nao2"
+    "pron": "nao2",
+    "num": "298"
   },
   {
     "word": "岐",
@@ -10253,7 +10857,8 @@
         "explanation": ""
       }
     ],
-    "pron": "co3"
+    "pron": "co3",
+    "num": "299"
   },
   {
     "word": "岐道",
@@ -10269,7 +10874,8 @@
         "explanation": ""
       }
     ],
-    "pron": "co3 gim1"
+    "pron": "co3 gim1",
+    "num": "-"
   },
   {
     "word": "法",
@@ -10285,7 +10891,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wel2"
+    "pron": "wel2",
+    "num": "300"
   },
   {
     "word": "則",
@@ -10301,7 +10908,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cua2"
+    "pron": "cua2",
+    "num": "301"
   },
   {
     "word": "国則",
@@ -10317,7 +10925,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nun2 cua2"
+    "pron": "nun2 cua2",
+    "num": "-"
   },
   {
     "word": "違国",
@@ -10333,7 +10942,8 @@
         "explanation": ""
       }
     ],
-    "pron": "he2 nun2"
+    "pron": "he2 nun2",
+    "num": "-"
   },
   {
     "word": "帝則",
@@ -10349,7 +10959,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lua2 cua2"
+    "pron": "lua2 cua2",
+    "num": "-"
   },
   {
     "word": "歌",
@@ -10365,7 +10976,8 @@
         "explanation": ""
       }
     ],
-    "pron": "we3"
+    "pron": "we3",
+    "num": "302"
   },
   {
     "word": "歌人",
@@ -10381,7 +10993,8 @@
         "explanation": ""
       }
     ],
-    "pron": "we3 ha1"
+    "pron": "we3 ha1",
+    "num": "-"
   },
   {
     "word": "陰",
@@ -10401,7 +11014,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuam1"
+    "pron": "cuam1",
+    "num": "303"
   },
   {
     "word": "真",
@@ -10417,7 +11031,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nim3"
+    "pron": "nim3",
+    "num": "304"
   },
   {
     "word": "真事",
@@ -10433,7 +11048,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nim3 ge3"
+    "pron": "nim3 ge3",
+    "num": "-"
   },
   {
     "word": "真言",
@@ -10449,7 +11065,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nim3 bun2"
+    "pron": "nim3 bun2",
+    "num": "-"
   },
   {
     "word": "血",
@@ -10465,7 +11082,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cung2"
+    "pron": "cung2",
+    "num": "305"
   },
   {
     "word": "血果",
@@ -10481,7 +11099,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cung2 baon2"
+    "pron": "cung2 baon2",
+    "num": "-"
   },
   {
     "word": "崩",
@@ -10497,7 +11116,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xes2"
+    "pron": "xes2",
+    "num": "306"
   },
   {
     "word": "崩消",
@@ -10513,7 +11133,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xes2 nao2"
+    "pron": "xes2 nao2",
+    "num": "-"
   },
   {
     "word": "奪",
@@ -10529,7 +11150,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mai2"
+    "pron": "mai2",
+    "num": "307"
   },
   {
     "word": "奪人",
@@ -10545,7 +11167,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mai2 ha1"
+    "pron": "mai2 ha1",
+    "num": "-"
   },
   {
     "word": "為",
@@ -10561,7 +11184,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuo1"
+    "pron": "cuo1",
+    "num": "308"
   },
   {
     "word": "後",
@@ -10581,7 +11205,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas3"
+    "pron": "yuas3",
+    "num": "309"
   },
   {
     "word": "新",
@@ -10601,7 +11226,8 @@
         "explanation": ""
       }
     ],
-    "pron": "val2"
+    "pron": "val2",
+    "num": "310"
   },
   {
     "word": "肌",
@@ -10617,7 +11243,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fua2"
+    "pron": "fua2",
+    "num": "311"
   },
   {
     "word": "話肌",
@@ -10633,7 +11260,8 @@
         "explanation": "主に話の前に置かれるものを指し、最後に示される結論やまとめは含まない。"
       }
     ],
-    "pron": "cai2 fua2"
+    "pron": "cai2 fua2",
+    "num": "-"
   },
   {
     "word": "顔",
@@ -10649,7 +11277,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ka1"
+    "pron": "ka1",
+    "num": "312"
   },
   {
     "word": "燃顔",
@@ -10669,7 +11298,8 @@
         "explanation": "「燃顔」は体裁悪く感じる様を指す。照れくさく感じる様は「燃頬」で表す。"
       }
     ],
-    "pron": "lus3 ka1"
+    "pron": "lus3 ka1",
+    "num": "-"
   },
   {
     "word": "眉",
@@ -10685,7 +11315,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kal2"
+    "pron": "kal2",
+    "num": "313"
   },
   {
     "word": "目包",
@@ -10701,7 +11332,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 buos1"
+    "pron": "ke1 buos1",
+    "num": "-"
   },
   {
     "word": "包目",
@@ -10717,7 +11349,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buos1 ke1"
+    "pron": "buos1 ke1",
+    "num": "-"
   },
   {
     "word": "流",
@@ -10733,7 +11366,8 @@
         "explanation": ""
       }
     ],
-    "pron": "caos1"
+    "pron": "caos1",
+    "num": "314"
   },
   {
     "word": "落",
@@ -10749,7 +11383,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jua3"
+    "pron": "jua3",
+    "num": "315"
   },
   {
     "word": "跳目",
@@ -10765,7 +11400,8 @@
         "explanation": ""
       }
     ],
-    "pron": "go3 ke1"
+    "pron": "go3 ke1",
+    "num": "-"
   },
   {
     "word": "目跳",
@@ -10781,7 +11417,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 go3"
+    "pron": "ke1 go3",
+    "num": "-"
   },
   {
     "word": "睫",
@@ -10797,7 +11434,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ve3"
+    "pron": "ve3",
+    "num": "316"
   },
   {
     "word": "耳",
@@ -10817,7 +11455,8 @@
         "explanation": "音。こちらは単純に音が聞こえることを指し、耳は言葉や音をじっくりと注意深く聴くことを指す。"
       }
     ],
-    "pron": "me2"
+    "pron": "me2",
+    "num": "317"
   },
   {
     "word": "頬",
@@ -10833,7 +11472,8 @@
         "explanation": ""
       }
     ],
-    "pron": "do2"
+    "pron": "do2",
+    "num": "318"
   },
   {
     "word": "唇",
@@ -10849,7 +11489,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fail1"
+    "pron": "fail1",
+    "num": "319"
   },
   {
     "word": "燃頬",
@@ -10869,7 +11510,8 @@
         "explanation": "「燃頬」は照れくさく感じる様を指す。失態を自覚して体裁悪く感じる様は「燃顔」で表す。"
       }
     ],
-    "pron": "lus3 do2"
+    "pron": "lus3 do2",
+    "num": "-"
   },
   {
     "word": "舌",
@@ -10885,7 +11527,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nua1"
+    "pron": "nua1",
+    "num": "320"
   },
   {
     "word": "結舌",
@@ -10901,7 +11544,8 @@
         "explanation": ""
       }
     ],
-    "pron": "juo1 nua1"
+    "pron": "juo1 nua1",
+    "num": "-"
   },
   {
     "word": "結舌人",
@@ -10917,7 +11561,8 @@
         "explanation": "少し悪いニュアンスが含まれるので注意。"
       }
     ],
-    "pron": "juo1 nua1 ha1"
+    "pron": "juo1 nua1 ha1",
+    "num": "-"
   },
   {
     "word": "話",
@@ -10933,7 +11578,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cai2"
+    "pron": "cai2",
+    "num": "321"
   },
   {
     "word": "造話",
@@ -10949,7 +11595,8 @@
         "explanation": "ノンフィクションや随筆は「思話」で表す。"
       }
     ],
-    "pron": "him2 cai2"
+    "pron": "him2 cai2",
+    "num": "-"
   },
   {
     "word": "思話",
@@ -10965,7 +11612,8 @@
         "explanation": "小説やフィクションは「造話」で表す。"
       }
     ],
-    "pron": "sao2 cai2"
+    "pron": "sao2 cai2",
+    "num": "-"
   },
   {
     "word": "書話人",
@@ -10981,7 +11629,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3 cai2 ha1"
+    "pron": "sua3 cai2 ha1",
+    "num": "-"
   },
   {
     "word": "頤",
@@ -10997,7 +11646,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ji3"
+    "pron": "ji3",
+    "num": "322"
   },
   {
     "word": "顎",
@@ -11013,7 +11663,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fao2"
+    "pron": "fao2",
+    "num": "323"
   },
   {
     "word": "額",
@@ -11029,7 +11680,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kua2"
+    "pron": "kua2",
+    "num": "324"
   },
   {
     "word": "喉",
@@ -11049,7 +11701,8 @@
         "explanation": "食。動詞としては「噛み砕いてから飲み込む」ことを指すため、液体でも噛んで飲む場合はこれが使われる。固体でも丸呑みする場合は「喉」を使う。"
       }
     ],
-    "pron": "sas2"
+    "pron": "sas2",
+    "num": "325"
   },
   {
     "word": "喉丸",
@@ -11065,7 +11718,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sas2 luong3"
+    "pron": "sas2 luong3",
+    "num": "-"
   },
   {
     "word": "毛",
@@ -11081,7 +11735,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bais3"
+    "pron": "bais3",
+    "num": "326"
   },
   {
     "word": "毛毛",
@@ -11097,7 +11752,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bais3 bais3"
+    "pron": "bais3 bais3",
+    "num": "-"
   },
   {
     "word": "髪",
@@ -11113,7 +11769,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wao3"
+    "pron": "wao3",
+    "num": "327"
   },
   {
     "word": "髭",
@@ -11129,7 +11786,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pail1"
+    "pron": "pail1",
+    "num": "328"
   },
   {
     "word": "鬚",
@@ -11145,7 +11803,8 @@
         "explanation": "雰国など楼岑地域では、このひげが男性の象徴とされる。よって、ひげ脱毛などもってのほかである。"
       }
     ],
-    "pron": "sa1"
+    "pron": "sa1",
+    "num": "329"
   },
   {
     "word": "根",
@@ -11165,7 +11824,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kaim1"
+    "pron": "kaim1",
+    "num": "330"
   },
   {
     "word": "手根",
@@ -11181,7 +11841,8 @@
         "explanation": ""
       }
     ],
-    "pron": "taos3 kaim1"
+    "pron": "taos3 kaim1",
+    "num": "-"
   },
   {
     "word": "足根",
@@ -11197,7 +11858,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas1 kaim1"
+    "pron": "yuas1 kaim1",
+    "num": "-"
   },
   {
     "word": "茎",
@@ -11213,7 +11875,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yo3"
+    "pron": "yo3",
+    "num": "331"
   },
   {
     "word": "首",
@@ -11229,7 +11892,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cum2"
+    "pron": "cum2",
+    "num": "332"
   },
   {
     "word": "肩",
@@ -11245,7 +11909,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuol1"
+    "pron": "kuol1",
+    "num": "333"
   },
   {
     "word": "胸",
@@ -11261,7 +11926,8 @@
         "explanation": ""
       }
     ],
-    "pron": "huon3"
+    "pron": "huon3",
+    "num": "334"
   },
   {
     "word": "奶",
@@ -11277,7 +11943,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qe3"
+    "pron": "qe3",
+    "num": "335"
   },
   {
     "word": "腹",
@@ -11293,7 +11960,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qais1"
+    "pron": "qais1",
+    "num": "336"
   },
   {
     "word": "背",
@@ -11309,7 +11977,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cao3"
+    "pron": "cao3",
+    "num": "337"
   },
   {
     "word": "腕",
@@ -11329,7 +11998,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nol2"
+    "pron": "nol2",
+    "num": "338"
   },
   {
     "word": "機腕",
@@ -11345,7 +12015,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ail2 nol2"
+    "pron": "ail2 nol2",
+    "num": "-"
   },
   {
     "word": "腕機",
@@ -11361,7 +12032,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nol2 ail2"
+    "pron": "nol2 ail2",
+    "num": "-"
   },
   {
     "word": "腕車",
@@ -11377,7 +12049,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nol2 ye3"
+    "pron": "nol2 ye3",
+    "num": "-"
   },
   {
     "word": "並",
@@ -11397,7 +12070,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suol3"
+    "pron": "suol3",
+    "num": "339"
   },
   {
     "word": "脇",
@@ -11413,7 +12087,8 @@
         "explanation": ""
       }
     ],
-    "pron": "guo2"
+    "pron": "guo2",
+    "num": "340"
   },
   {
     "word": "肘",
@@ -11429,7 +12104,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tim2"
+    "pron": "tim2",
+    "num": "341"
   },
   {
     "word": "掌",
@@ -11445,7 +12121,8 @@
         "explanation": "石や拳など、固いもので殴ることは指さない。"
       }
     ],
-    "pron": "hu2"
+    "pron": "hu2",
+    "num": "342"
   },
   {
     "word": "指",
@@ -11461,7 +12138,8 @@
         "explanation": "永球人も地球人と同じく一般的には手足ともに5本である。"
       }
     ],
-    "pron": "yuo1"
+    "pron": "yuo1",
+    "num": "343"
   },
   {
     "word": "指言",
@@ -11481,7 +12159,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yuo1 bun2"
+    "pron": "yuo1 bun2",
+    "num": "-"
   },
   {
     "word": "爪",
@@ -11501,7 +12180,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sin1"
+    "pron": "sin1",
+    "num": "344"
   },
   {
     "word": "故",
@@ -11517,7 +12197,8 @@
         "explanation": ""
       }
     ],
-    "pron": "don2"
+    "pron": "don2",
+    "num": "345"
   },
   {
     "word": "膝",
@@ -11533,7 +12214,8 @@
         "explanation": ""
       }
     ],
-    "pron": "taim1"
+    "pron": "taim1",
+    "num": "346"
   },
   {
     "word": "踵",
@@ -11549,7 +12231,8 @@
         "explanation": ""
       }
     ],
-    "pron": "laol1"
+    "pron": "laol1",
+    "num": "347"
   },
   {
     "word": "跂",
@@ -11565,7 +12248,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mua3"
+    "pron": "mua3",
+    "num": "348"
   },
   {
     "word": "息",
@@ -11589,7 +12273,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xua3"
+    "pron": "xua3",
+    "num": "349"
   },
   {
     "word": "涙",
@@ -11609,7 +12294,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ke2"
+    "pron": "ke2",
+    "num": "350"
   },
   {
     "word": "整鼻",
@@ -11625,7 +12311,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lao1 suam1"
+    "pron": "lao1 suam1",
+    "num": "-"
   },
   {
     "word": "眠食",
@@ -11645,7 +12332,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3 bua1"
+    "pron": "lo3 bua1",
+    "num": "-"
   },
   {
     "word": "餐",
@@ -11661,7 +12349,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dol3"
+    "pron": "dol3",
+    "num": "351"
   },
   {
     "word": "造餐",
@@ -11677,7 +12366,8 @@
         "explanation": ""
       }
     ],
-    "pron": "him2 dol3"
+    "pron": "him2 dol3",
+    "num": "-"
   },
   {
     "word": "旭餐",
@@ -11693,7 +12383,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ju1 dol3"
+    "pron": "ju1 dol3",
+    "num": "-"
   },
   {
     "word": "昼餐",
@@ -11709,7 +12400,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jai2 dol3"
+    "pron": "jai2 dol3",
+    "num": "-"
   },
   {
     "word": "夕餐",
@@ -11725,7 +12417,8 @@
         "explanation": "夕方、つまり八～九雰時ごろに食べる食事を指す。これより遅いものは夜餐となる。"
       }
     ],
-    "pron": "dom2 dol3"
+    "pron": "dom2 dol3",
+    "num": "-"
   },
   {
     "word": "夜餐",
@@ -11741,7 +12434,8 @@
         "explanation": "完全に日が沈んだ甲雰時～翌一雰時の食事を指す。これより早いものは夕餐となる。"
       }
     ],
-    "pron": "lai1 dol3"
+    "pron": "lai1 dol3",
+    "num": "-"
   },
   {
     "word": "夕",
@@ -11761,7 +12455,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dom2"
+    "pron": "dom2",
+    "num": "352"
   },
   {
     "word": "眠獣",
@@ -11777,7 +12472,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lo3 yol1"
+    "pron": "lo3 yol1",
+    "num": "-"
   },
   {
     "word": "吹",
@@ -11793,7 +12489,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pang3"
+    "pron": "pang3",
+    "num": "353"
   },
   {
     "word": "悪",
@@ -11809,7 +12506,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qon1"
+    "pron": "qon1",
+    "num": "354"
   },
   {
     "word": "魔",
@@ -11829,7 +12527,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xaing1"
+    "pron": "xaing1",
+    "num": "355"
   },
   {
     "word": "天魔",
@@ -11845,7 +12544,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 xaing1"
+    "pron": "vas1 xaing1",
+    "num": "-"
   },
   {
     "word": "病魔",
@@ -11861,7 +12561,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cun1 xaing1"
+    "pron": "cun1 xaing1",
+    "num": "-"
   },
   {
     "word": "鬼",
@@ -11881,7 +12582,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lao2"
+    "pron": "lao2",
+    "num": "356"
   },
   {
     "word": "出",
@@ -11897,7 +12599,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kong3"
+    "pron": "kong3",
+    "num": "357"
   },
   {
     "word": "入",
@@ -11913,7 +12616,8 @@
         "explanation": ""
       }
     ],
-    "pron": "juom1"
+    "pron": "juom1",
+    "num": "358"
   },
   {
     "word": "吐",
@@ -11933,7 +12637,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ne2"
+    "pron": "ne2",
+    "num": "359"
   },
   {
     "word": "嘔",
@@ -11949,7 +12654,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bai2"
+    "pron": "bai2",
+    "num": "360"
   },
   {
     "word": "吸",
@@ -11969,7 +12675,8 @@
         "explanation": ""
       }
     ],
-    "pron": "o3"
+    "pron": "o3",
+    "num": "361"
   },
   {
     "word": "絞",
@@ -11985,7 +12692,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hai3"
+    "pron": "hai3",
+    "num": "362"
   },
   {
     "word": "絞結",
@@ -12001,7 +12709,8 @@
         "explanation": ""
       }
     ],
-    "pron": "hai3 juo1"
+    "pron": "hai3 juo1",
+    "num": "-"
   },
   {
     "word": "経",
@@ -12017,7 +12726,8 @@
         "explanation": ""
       }
     ],
-    "pron": "duo3"
+    "pron": "duo3",
+    "num": "363"
   },
   {
     "word": "店",
@@ -12033,7 +12743,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buom1"
+    "pron": "buom1",
+    "num": "364"
   },
   {
     "word": "整髪店",
@@ -12049,7 +12760,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lao1 wao3 buom1"
+    "pron": "lao1 wao3 buom1",
+    "num": "-"
   },
   {
     "word": "餐店",
@@ -12065,7 +12777,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dol3 buom1"
+    "pron": "dol3 buom1",
+    "num": "-"
   },
   {
     "word": "貨店",
@@ -12081,7 +12794,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ku1 buom1"
+    "pron": "ku1 buom1",
+    "num": "-"
   },
   {
     "word": "貨店機",
@@ -12097,7 +12811,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ku1 buom1 ail2"
+    "pron": "ku1 buom1 ail2",
+    "num": "-"
   },
   {
     "word": "庵",
@@ -12113,7 +12828,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xing1"
+    "pron": "xing1",
+    "num": "365"
   },
   {
     "word": "夜庵",
@@ -12129,7 +12845,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lai1 xing1"
+    "pron": "lai1 xing1",
+    "num": "-"
   },
   {
     "word": "行庵",
@@ -12145,7 +12862,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 xing1"
+    "pron": "yaom1 xing1",
+    "num": "-"
   },
   {
     "word": "活",
@@ -12161,7 +12879,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vu2"
+    "pron": "vu2",
+    "num": "366"
   },
   {
     "word": "求活穏",
@@ -12177,7 +12896,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vao1 vu2 wai1"
+    "pron": "vao1 vu2 wai1",
+    "num": "-"
   },
   {
     "word": "伴活穏",
@@ -12193,7 +12913,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nuo2 vu2 wai1"
+    "pron": "nuo2 vu2 wai1",
+    "num": "-"
   },
   {
     "word": "妹",
@@ -12209,7 +12930,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ga1"
+    "pron": "ga1",
+    "num": "367"
   },
   {
     "word": "大妹",
@@ -12225,7 +12947,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 ga1"
+    "pron": "qim3 ga1",
+    "num": "-"
   },
   {
     "word": "弟",
@@ -12241,7 +12964,8 @@
         "explanation": ""
       }
     ],
-    "pron": "i2"
+    "pron": "i2",
+    "num": "368"
   },
   {
     "word": "大弟",
@@ -12257,7 +12981,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 i2"
+    "pron": "qim3 i2",
+    "num": "-"
   },
   {
     "word": "兄",
@@ -12273,7 +12998,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wes2"
+    "pron": "wes2",
+    "num": "369"
   },
   {
     "word": "大兄",
@@ -12289,7 +13015,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 wes2"
+    "pron": "qim3 wes2",
+    "num": "-"
   },
   {
     "word": "父",
@@ -12305,7 +13032,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yaos3"
+    "pron": "yaos3",
+    "num": "370"
   },
   {
     "word": "測",
@@ -12321,7 +13049,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vai2"
+    "pron": "vai2",
+    "num": "371"
   },
   {
     "word": "測熱",
@@ -12337,7 +13066,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vai2 suo3"
+    "pron": "vai2 suo3",
+    "num": "-"
   },
   {
     "word": "測木",
@@ -12353,7 +13083,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vai2 lung2"
+    "pron": "vai2 lung2",
+    "num": "-"
   },
   {
     "word": "測重",
@@ -12369,7 +13100,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vai2 an3"
+    "pron": "vai2 an3",
+    "num": "-"
   },
   {
     "word": "測杯",
@@ -12385,7 +13117,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vai2 paon1"
+    "pron": "vai2 paon1",
+    "num": "-"
   },
   {
     "word": "巻",
@@ -12401,7 +13134,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so2"
+    "pron": "so2",
+    "num": "372"
   },
   {
     "word": "巻測",
@@ -12417,7 +13151,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so2 vai2"
+    "pron": "so2 vai2",
+    "num": "-"
   },
   {
     "word": "巻針",
@@ -12433,7 +13168,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so2 vo1"
+    "pron": "so2 vo1",
+    "num": "-"
   },
   {
     "word": "平巻針",
@@ -12449,7 +13185,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xem1 so2 vo1"
+    "pron": "xem1 so2 vo1",
+    "num": "-"
   },
   {
     "word": "麺",
@@ -12465,7 +13202,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xuam2"
+    "pron": "xuam2",
+    "num": "373"
   },
   {
     "word": "餅",
@@ -12481,7 +13219,8 @@
         "explanation": "雰国は古来より列州からパンを輸入しているため、国民にとって身近な食べ物である。"
       }
     ],
-    "pron": "wai3"
+    "pron": "wai3",
+    "num": "374"
   },
   {
     "word": "果餅",
@@ -12497,7 +13236,8 @@
         "explanation": ""
       }
     ],
-    "pron": "baon2 wai3"
+    "pron": "baon2 wai3",
+    "num": "-"
   },
   {
     "word": "焼",
@@ -12513,7 +13253,8 @@
         "explanation": "燃。こちらは炎を上げて燃えることを指し、焼は単純に物体の加熱を指す。"
       }
     ],
-    "pron": "qa1"
+    "pron": "qa1",
+    "num": "375"
   },
   {
     "word": "焼餅",
@@ -12529,7 +13270,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qa1 wai3"
+    "pron": "qa1 wai3",
+    "num": "-"
   },
   {
     "word": "汁",
@@ -12545,7 +13287,8 @@
         "explanation": ""
       }
     ],
-    "pron": "puo1"
+    "pron": "puo1",
+    "num": "376"
   },
   {
     "word": "糖汁",
@@ -12561,7 +13304,8 @@
         "explanation": ""
       }
     ],
-    "pron": "li2 puo1"
+    "pron": "li2 puo1",
+    "num": "-"
   },
   {
     "word": "果汁",
@@ -12577,7 +13321,8 @@
         "explanation": ""
       }
     ],
-    "pron": "baon2 puo1"
+    "pron": "baon2 puo1",
+    "num": "-"
   },
   {
     "word": "乳油",
@@ -12593,7 +13338,8 @@
         "explanation": "本来は動物由来の油脂成分を指すが、近年ではマーガリンなどバターに類するものも含まれるようになっている。"
       }
     ],
-    "pron": "tai1 xu2"
+    "pron": "tai1 xu2",
+    "num": "-"
   },
   {
     "word": "油焼餅",
@@ -12609,7 +13355,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xu2 qa1 wai3"
+    "pron": "xu2 qa1 wai3",
+    "num": "-"
   },
   {
     "word": "乳泡",
@@ -12625,7 +13372,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tai1 se3"
+    "pron": "tai1 se3",
+    "num": "-"
   },
   {
     "word": "汁麺",
@@ -12641,7 +13389,8 @@
         "explanation": ""
       }
     ],
-    "pron": "puo1 xuam2"
+    "pron": "puo1 xuam2",
+    "num": "-"
   },
   {
     "word": "包餅",
@@ -12657,7 +13406,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buos1 wai3"
+    "pron": "buos1 wai3",
+    "num": "-"
   },
   {
     "word": "焼機",
@@ -12673,7 +13423,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qa1 ail2"
+    "pron": "qa1 ail2",
+    "num": "-"
   },
   {
     "word": "雷焼",
@@ -12689,7 +13440,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 qa1"
+    "pron": "main2 qa1",
+    "num": "-"
   },
   {
     "word": "鏡",
@@ -12705,7 +13457,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fun3"
+    "pron": "fun3",
+    "num": "377"
   },
   {
     "word": "鏡瑠",
@@ -12721,7 +13474,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fun3 ja1"
+    "pron": "fun3 ja1",
+    "num": "-"
   },
   {
     "word": "拡",
@@ -12741,7 +13495,8 @@
         "explanation": ""
       }
     ],
-    "pron": "caon3"
+    "pron": "caon3",
+    "num": "378"
   },
   {
     "word": "拡瑠",
@@ -12757,7 +13512,8 @@
         "explanation": ""
       }
     ],
-    "pron": "caon3 ja1"
+    "pron": "caon3 ja1",
+    "num": "-"
   },
   {
     "word": "遠目瑠",
@@ -12773,7 +13529,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sal2 ke1 ja1"
+    "pron": "sal2 ke1 ja1",
+    "num": "-"
   },
   {
     "word": "雷目",
@@ -12789,7 +13546,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 ke1"
+    "pron": "main2 ke1",
+    "num": "-"
   },
   {
     "word": "針",
@@ -12805,7 +13563,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vo1"
+    "pron": "vo1",
+    "num": "379"
   },
   {
     "word": "向針",
@@ -12821,7 +13580,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vu3 vo1"
+    "pron": "vu3 vo1",
+    "num": "-"
   },
   {
     "word": "針薬",
@@ -12837,7 +13597,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vo1 vain3"
+    "pron": "vo1 vain3",
+    "num": "-"
   },
   {
     "word": "虫目瑠",
@@ -12853,7 +13614,8 @@
         "explanation": "拡瑠。こちらは文字の拡大など日常分野で使う物を指すのに対し、虫目瑠は微生物など肉眼で見えない対象に使う物を指す。"
       }
     ],
-    "pron": "cuo2 ke1 ja1"
+    "pron": "cuo2 ke1 ja1",
+    "num": "-"
   },
   {
     "word": "卵",
@@ -12869,7 +13631,8 @@
         "explanation": ""
       }
     ],
-    "pron": "muong1"
+    "pron": "muong1",
+    "num": "380"
   },
   {
     "word": "乳包餅",
@@ -12885,7 +13648,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tai1 buos1 wai3"
+    "pron": "tai1 buos1 wai3",
+    "num": "-"
   },
   {
     "word": "上父",
@@ -12901,7 +13665,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ling3 yaos3"
+    "pron": "ling3 yaos3",
+    "num": "-"
   },
   {
     "word": "上母",
@@ -12917,7 +13682,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ling3 bua2"
+    "pron": "ling3 bua2",
+    "num": "-"
   },
   {
     "word": "鳥",
@@ -12933,7 +13699,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dao2"
+    "pron": "dao2",
+    "num": "381"
   },
   {
     "word": "犬",
@@ -12949,7 +13716,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ba3"
+    "pron": "ba3",
+    "num": "382"
   },
   {
     "word": "猫",
@@ -12965,7 +13733,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cuom2"
+    "pron": "cuom2",
+    "num": "383"
   },
   {
     "word": "卵周",
@@ -12981,7 +13750,8 @@
         "explanation": ""
       }
     ],
-    "pron": "muong1 fuon2"
+    "pron": "muong1 fuon2",
+    "num": "-"
   },
   {
     "word": "卵央",
@@ -12997,7 +13767,8 @@
         "explanation": ""
       }
     ],
-    "pron": "muong1 na2"
+    "pron": "muong1 na2",
+    "num": "-"
   },
   {
     "word": "平",
@@ -13013,7 +13784,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xem1"
+    "pron": "xem1",
+    "num": "384"
   },
   {
     "word": "平刃",
@@ -13029,7 +13801,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xem1 na1"
+    "pron": "xem1 na1",
+    "num": "-"
   },
   {
     "word": "浄",
@@ -13045,7 +13818,8 @@
         "explanation": "整。こちらは「不揃いなものを整える」ニュアンスなのに対し、浄は「汚れを落とす・洗う」ニュアンスで使われる。"
       }
     ],
-    "pron": "xai1"
+    "pron": "xai1",
+    "num": "385"
   },
   {
     "word": "浄衣",
@@ -13061,7 +13835,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xai1 nel1"
+    "pron": "xai1 nel1",
+    "num": "-"
   },
   {
     "word": "衣浄",
@@ -13077,7 +13852,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nel1 xai1"
+    "pron": "nel1 xai1",
+    "num": "-"
   },
   {
     "word": "衣浄機",
@@ -13093,7 +13869,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nel1 xai1 ail2"
+    "pron": "nel1 xai1 ail2",
+    "num": "-"
   },
   {
     "word": "乾",
@@ -13113,7 +13890,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so1"
+    "pron": "so1",
+    "num": "386"
   },
   {
     "word": "乾乳",
@@ -13129,7 +13907,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so1 tai1"
+    "pron": "so1 tai1",
+    "num": "-"
   },
   {
     "word": "乾衣",
@@ -13145,7 +13924,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so1 nel1"
+    "pron": "so1 nel1",
+    "num": "-"
   },
   {
     "word": "乾餅",
@@ -13161,7 +13941,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so1 wai3"
+    "pron": "so1 wai3",
+    "num": "-"
   },
   {
     "word": "平丸",
@@ -13177,7 +13958,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xem1 luong3"
+    "pron": "xem1 luong3",
+    "num": "-"
   },
   {
     "word": "日乾",
@@ -13193,7 +13975,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1 so1"
+    "pron": "kuang1 so1",
+    "num": "-"
   },
   {
     "word": "乾魔",
@@ -13209,7 +13992,8 @@
         "explanation": ""
       }
     ],
-    "pron": "so1 xaing1"
+    "pron": "so1 xaing1",
+    "num": "-"
   },
   {
     "word": "浄手",
@@ -13225,7 +14009,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xai1 taos3"
+    "pron": "xai1 taos3",
+    "num": "-"
   },
   {
     "word": "浄虫",
@@ -13241,7 +14026,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xai1 cuo2"
+    "pron": "xai1 cuo2",
+    "num": "-"
   },
   {
     "word": "玉",
@@ -13257,7 +14043,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuon3"
+    "pron": "kuon3",
+    "num": "387"
   },
   {
     "word": "果油",
@@ -13273,7 +14060,8 @@
         "explanation": ""
       }
     ],
-    "pron": "baon2 xu2"
+    "pron": "baon2 xu2",
+    "num": "-"
   },
   {
     "word": "油餐",
@@ -13289,7 +14077,8 @@
         "explanation": "おいしい。"
       }
     ],
-    "pron": "xu2 dol3"
+    "pron": "xu2 dol3",
+    "num": "-"
   },
   {
     "word": "酒",
@@ -13305,7 +14094,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ais1"
+    "pron": "ais1",
+    "num": "388"
   },
   {
     "word": "血酒",
@@ -13321,7 +14111,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cung2 ais1"
+    "pron": "cung2 ais1",
+    "num": "-"
   },
   {
     "word": "握",
@@ -13337,7 +14128,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suom3"
+    "pron": "suom3",
+    "num": "389"
   },
   {
     "word": "握絞",
@@ -13353,7 +14145,8 @@
         "explanation": ""
       }
     ],
-    "pron": "suom3 hai3"
+    "pron": "suom3 hai3",
+    "num": "-"
   },
   {
     "word": "掃",
@@ -13369,7 +14162,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dua3"
+    "pron": "dua3",
+    "num": "390"
   },
   {
     "word": "浄掃",
@@ -13385,7 +14179,8 @@
         "explanation": "「対象の全体をきれいにする」という意味で使う。一部を洗ったり磨いたりする動作は指さない。"
       }
     ],
-    "pron": "xai1 dua3"
+    "pron": "xai1 dua3",
+    "num": "-"
   },
   {
     "word": "整爪",
@@ -13401,7 +14196,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lao1 sin1"
+    "pron": "lao1 sin1",
+    "num": "-"
   },
   {
     "word": "雨掃",
@@ -13417,7 +14213,8 @@
         "explanation": ""
       }
     ],
-    "pron": "huo1 dua3"
+    "pron": "huo1 dua3",
+    "num": "-"
   },
   {
     "word": "味",
@@ -13437,7 +14234,8 @@
         "explanation": ""
       }
     ],
-    "pron": "uo3"
+    "pron": "uo3",
+    "num": "391"
   },
   {
     "word": "倫味",
@@ -13453,7 +14251,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tuo2 uo3"
+    "pron": "tuo2 uo3",
+    "num": "-"
   },
   {
     "word": "悪味",
@@ -13469,7 +14268,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qon1 uo3"
+    "pron": "qon1 uo3",
+    "num": "-"
   },
   {
     "word": "消味",
@@ -13485,7 +14285,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nao2 uo3"
+    "pron": "nao2 uo3",
+    "num": "-"
   },
   {
     "word": "大味人",
@@ -13501,7 +14302,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 uo3 ha1"
+    "pron": "qim3 uo3 ha1",
+    "num": "-"
   },
   {
     "word": "集",
@@ -13517,7 +14319,8 @@
         "explanation": ""
       }
     ],
-    "pron": "naim2"
+    "pron": "naim2",
+    "num": "392"
   },
   {
     "word": "集巻",
@@ -13533,7 +14336,8 @@
         "explanation": ""
       }
     ],
-    "pron": "naim2 so2"
+    "pron": "naim2 so2",
+    "num": "-"
   },
   {
     "word": "慶",
@@ -13553,7 +14357,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nu3"
+    "pron": "nu3",
+    "num": "393"
   },
   {
     "word": "敬",
@@ -13569,7 +14374,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vung3"
+    "pron": "vung3",
+    "num": "394"
   },
   {
     "word": "焉",
@@ -13585,7 +14391,8 @@
         "explanation": ""
       }
     ],
-    "pron": "del1"
+    "pron": "del1",
+    "num": "395"
   },
   {
     "word": "片",
@@ -13605,7 +14412,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pi1"
+    "pron": "pi1",
+    "num": "396"
   },
   {
     "word": "肉片",
@@ -13621,7 +14429,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nang2 pi1"
+    "pron": "nang2 pi1",
+    "num": "-"
   },
   {
     "word": "片箔",
@@ -13637,7 +14446,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pi1 gu2"
+    "pron": "pi1 gu2",
+    "num": "-"
   },
   {
     "word": "礬箔巾",
@@ -13653,7 +14463,8 @@
         "explanation": ""
       }
     ],
-    "pron": "min1 gu2 ye1"
+    "pron": "min1 gu2 ye1",
+    "num": "-"
   },
   {
     "word": "金巾",
@@ -13669,7 +14480,8 @@
         "explanation": ""
       }
     ],
-    "pron": "va2 ye1"
+    "pron": "va2 ye1",
+    "num": "-"
   },
   {
     "word": "動",
@@ -13685,7 +14497,8 @@
         "explanation": ""
       }
     ],
-    "pron": "we1"
+    "pron": "we1",
+    "num": "397"
   },
   {
     "word": "籠",
@@ -13701,7 +14514,8 @@
         "explanation": ""
       }
     ],
-    "pron": "duon3"
+    "pron": "duon3",
+    "num": "398"
   },
   {
     "word": "筆籠",
@@ -13717,7 +14531,8 @@
         "explanation": ""
       }
     ],
-    "pron": "fa2 duon3"
+    "pron": "fa2 duon3",
+    "num": "-"
   },
   {
     "word": "衣籠",
@@ -13733,7 +14548,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nel1 duon3"
+    "pron": "nel1 duon3",
+    "num": "-"
   },
   {
     "word": "物",
@@ -13749,7 +14565,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kao1"
+    "pron": "kao1",
+    "num": "399"
   },
   {
     "word": "居数",
@@ -13765,7 +14582,8 @@
         "explanation": ""
       }
     ],
-    "pron": "baim3 mis1"
+    "pron": "baim3 mis1",
+    "num": "-"
   },
   {
     "word": "探",
@@ -13781,7 +14599,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ung1"
+    "pron": "ung1",
+    "num": "400"
   },
   {
     "word": "探網",
@@ -13797,7 +14616,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ung1 mua1"
+    "pron": "ung1 mua1",
+    "num": "-"
   },
   {
     "word": "花",
@@ -13813,7 +14633,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xaos1"
+    "pron": "xaos1",
+    "num": "401"
   },
   {
     "word": "算",
@@ -13829,7 +14650,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buo2"
+    "pron": "buo2",
+    "num": "402"
   },
   {
     "word": "集算",
@@ -13845,7 +14667,8 @@
         "explanation": ""
       }
     ],
-    "pron": "naim2 buo2"
+    "pron": "naim2 buo2",
+    "num": "-"
   },
   {
     "word": "消算",
@@ -13861,7 +14684,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nao2 buo2"
+    "pron": "nao2 buo2",
+    "num": "-"
   },
   {
     "word": "多算",
@@ -13877,7 +14701,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jo3 buo2"
+    "pron": "jo3 buo2",
+    "num": "-"
   },
   {
     "word": "刃算",
@@ -13893,7 +14718,8 @@
         "explanation": ""
       }
     ],
-    "pron": "na1 buo2"
+    "pron": "na1 buo2",
+    "num": "-"
   },
   {
     "word": "算数",
@@ -13909,7 +14735,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buo2 mis1"
+    "pron": "buo2 mis1",
+    "num": "-"
   },
   {
     "word": "平数",
@@ -13925,7 +14752,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xem1 mis1"
+    "pron": "xem1 mis1",
+    "num": "-"
   },
   {
     "word": "穏眠",
@@ -13941,7 +14769,8 @@
         "explanation": ""
       }
     ],
-    "pron": "wai1 lo3"
+    "pron": "wai1 lo3",
+    "num": "-"
   },
   {
     "word": "蒼",
@@ -13961,7 +14790,8 @@
         "explanation": ""
       }
     ],
-    "pron": "co2"
+    "pron": "co2",
+    "num": "403"
   },
   {
     "word": "春",
@@ -13981,7 +14811,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tao1"
+    "pron": "tao1",
+    "num": "404"
   },
   {
     "word": "豊",
@@ -14005,7 +14836,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nua3"
+    "pron": "nua3",
+    "num": "405"
   },
   {
     "word": "豊月",
@@ -14021,7 +14853,8 @@
         "explanation": ""
       }
     ],
-    "pron": "nua3 vo2"
+    "pron": "nua3 vo2",
+    "num": "-"
   },
   {
     "word": "夏",
@@ -14037,7 +14870,8 @@
         "explanation": ""
       }
     ],
-    "pron": "cis3"
+    "pron": "cis3",
+    "num": "406"
   },
   {
     "word": "葉",
@@ -14057,7 +14891,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pua3"
+    "pron": "pua3",
+    "num": "407"
   },
   {
     "word": "葉人",
@@ -14073,7 +14908,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pua3 ha1"
+    "pron": "pua3 ha1",
+    "num": "-"
   },
   {
     "word": "秋",
@@ -14089,7 +14925,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mel1"
+    "pron": "mel1",
+    "num": "408"
   },
   {
     "word": "冬",
@@ -14105,7 +14942,8 @@
         "explanation": ""
       }
     ],
-    "pron": "xon2"
+    "pron": "xon2",
+    "num": "409"
   },
   {
     "word": "名",
@@ -14125,7 +14963,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jual1"
+    "pron": "jual1",
+    "num": "410"
   },
   {
     "word": "事言",
@@ -14141,7 +14980,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ge3 bun2"
+    "pron": "ge3 bun2",
+    "num": "-"
   },
   {
     "word": "跳入",
@@ -14157,7 +14997,8 @@
         "explanation": ""
       }
     ],
-    "pron": "go3 juom1"
+    "pron": "go3 juom1",
+    "num": "-"
   },
   {
     "word": "緑",
@@ -14177,7 +15018,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dual1"
+    "pron": "dual1",
+    "num": "411"
   },
   {
     "word": "軽草",
@@ -14197,7 +15039,8 @@
         "explanation": "葉が地球のものと同じ色をしているとは限らない。"
       }
     ],
-    "pron": "xao2 cai1"
+    "pron": "xao2 cai1",
+    "num": "-"
   },
   {
     "word": "定",
@@ -14217,7 +15060,8 @@
         "explanation": ""
       }
     ],
-    "pron": "lua3"
+    "pron": "lua3",
+    "num": "412"
   },
   {
     "word": "測定",
@@ -14233,7 +15077,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vai2 lua3"
+    "pron": "vai2 lua3",
+    "num": "-"
   },
   {
     "word": "珠周定",
@@ -14249,7 +15094,8 @@
         "explanation": ""
       }
     ],
-    "pron": "juan2 fuon2 lua3"
+    "pron": "juan2 fuon2 lua3",
+    "num": "-"
   },
   {
     "word": "湛則",
@@ -14265,7 +15111,8 @@
         "explanation": ""
       }
     ],
-    "pron": "qao1 cua2"
+    "pron": "qao1 cua2",
+    "num": "-"
   },
   {
     "word": "十湛則",
@@ -14281,7 +15128,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tail1 qao1 cua2"
+    "pron": "tail1 qao1 cua2",
+    "num": "-"
   },
   {
     "word": "十四湛則",
@@ -14297,7 +15145,8 @@
         "explanation": ""
       }
     ],
-    "pron": "tail1 fai1 qao1 cua2"
+    "pron": "tail1 fai1 qao1 cua2",
+    "num": "-"
   },
   {
     "word": "二湛則",
@@ -14313,7 +15162,8 @@
         "explanation": ""
       }
     ],
-    "pron": "buan3 qao1 cua2"
+    "pron": "buan3 qao1 cua2",
+    "num": "-"
   },
   {
     "word": "甲湛則",
@@ -14329,7 +15179,8 @@
         "explanation": "中途半端であり、永球人にとっては使いづらい進数である。"
       }
     ],
-    "pron": "bao3 qao1 cua2"
+    "pron": "bao3 qao1 cua2",
+    "num": "-"
   },
   {
     "word": "弓",
@@ -14349,7 +15200,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yos2"
+    "pron": "yos2",
+    "num": "413"
   },
   {
     "word": "弩",
@@ -14365,7 +15217,8 @@
         "explanation": "本来はクロスボウを指すが、現代では銃を意味する。前者を表す場合は「弓弩」とするのが一般的。"
       }
     ],
-    "pron": "sai3"
+    "pron": "sai3",
+    "num": "414"
   },
   {
     "word": "吹弩",
@@ -14381,7 +15234,8 @@
         "explanation": ""
       }
     ],
-    "pron": "pang3 sai3"
+    "pron": "pang3 sai3",
+    "num": "-"
   },
   {
     "word": "弓弩",
@@ -14397,7 +15251,8 @@
         "explanation": ""
       }
     ],
-    "pron": "yos2 sai3"
+    "pron": "yos2 sai3",
+    "num": "-"
   },
   {
     "word": "据",
@@ -14413,7 +15268,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mo1"
+    "pron": "mo1",
+    "num": "415"
   },
   {
     "word": "立火",
@@ -14429,7 +15285,8 @@
         "explanation": ""
       }
     ],
-    "pron": "quo3 tang2"
+    "pron": "quo3 tang2",
+    "num": "-"
   },
   {
     "word": "据火弩",
@@ -14445,7 +15302,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mo1 tang2 sai3"
+    "pron": "mo1 tang2 sai3",
+    "num": "-"
   },
   {
     "word": "弩丸",
@@ -14461,7 +15319,8 @@
         "explanation": ""
       }
     ],
-    "pron": "sai3 luong3"
+    "pron": "sai3 luong3",
+    "num": "-"
   },
   {
     "word": "据隣",
@@ -14477,7 +15336,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mo1 mo2"
+    "pron": "mo1 mo2",
+    "num": "-"
   },
   {
     "word": "珠",
@@ -14493,7 +15353,8 @@
         "explanation": ""
       }
     ],
-    "pron": "juan2"
+    "pron": "juan2",
+    "num": "416"
   },
   {
     "word": "羅",
@@ -14509,7 +15370,8 @@
         "explanation": ""
       }
     ],
-    "pron": "gan2"
+    "pron": "gan2",
+    "num": "417"
   },
   {
     "word": "衆羅",
@@ -14525,7 +15387,8 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2 gan2"
+    "pron": "mail2 gan2",
+    "num": "-"
   },
   {
     "word": "取",
@@ -14541,7 +15404,8 @@
         "explanation": ""
       }
     ],
-    "pron": "je3"
+    "pron": "je3",
+    "num": "418"
   },
   {
     "word": "取片",
@@ -14557,7 +15421,8 @@
         "explanation": ""
       }
     ],
-    "pron": "je3 pi1"
+    "pron": "je3 pi1",
+    "num": "-"
   },
   {
     "word": "東",
@@ -14573,7 +15438,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ka2"
+    "pron": "ka2",
+    "num": "419"
   },
   {
     "word": "西",
@@ -14589,7 +15455,8 @@
         "explanation": ""
       }
     ],
-    "pron": "vu1"
+    "pron": "vu1",
+    "num": "420"
   },
   {
     "word": "賜",
@@ -14605,7 +15472,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jel2"
+    "pron": "jel2",
+    "num": "421"
   },
   {
     "word": "南",
@@ -14621,7 +15489,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jing3"
+    "pron": "jing3",
+    "num": "422"
   },
   {
     "word": "魚",
@@ -14637,7 +15506,8 @@
         "explanation": ""
       }
     ],
-    "pron": "bi2"
+    "pron": "bi2",
+    "num": "423"
   },
   {
     "word": "揺",
@@ -14653,7 +15523,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuan3"
+    "pron": "kuan3",
+    "num": "424"
   },
   {
     "word": "多乗",
@@ -14669,7 +15540,8 @@
         "explanation": ""
       }
     ],
-    "pron": "jo3 qang3"
+    "pron": "jo3 qang3",
+    "num": "-"
   },
   {
     "word": "揺糸",
@@ -14685,7 +15557,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuan3 buo3"
+    "pron": "kuan3 buo3",
+    "num": "-"
   },
   {
     "word": "揺時機",
@@ -14701,7 +15574,8 @@
         "explanation": ""
       }
     ],
-    "pron": "kuan3 tua2 ail2"
+    "pron": "kuan3 tua2 ail2",
+    "num": "-"
   },
   {
     "word": "夕宇",
@@ -14717,7 +15591,8 @@
         "explanation": "永球の夕暮れの色は地球と同じく赤色である。"
       }
     ],
-    "pron": "dom2 duo1"
+    "pron": "dom2 duo1",
+    "num": "-"
   },
   {
     "word": "旭宇",
@@ -14733,7 +15608,8 @@
         "explanation": ""
       }
     ],
-    "pron": "ju1 duo1"
+    "pron": "ju1 duo1",
+    "num": "-"
   },
   {
     "word": "飛揺",
@@ -14749,7 +15625,8 @@
         "explanation": ""
       }
     ],
-    "pron": "dail2 kuan3"
+    "pron": "dail2 kuan3",
+    "num": "-"
   },
   {
     "word": "宇",
@@ -14765,7 +15642,8 @@
         "explanation": ""
       }
     ],
-    "pron": "duo1"
+    "pron": "duo1",
+    "num": "425"
   },
   {
     "word": "雷報",
@@ -14781,7 +15659,8 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 vul3"
+    "pron": "main2 vul3",
+    "num": "-"
   },
   {
     "word": "宇地",
@@ -14797,7 +15676,8 @@
         "explanation": ""
       }
     ],
-    "pron": "duo1 ho3"
+    "pron": "duo1 ho3",
+    "num": "-"
   },
   {
     "word": "返",
@@ -14813,7 +15693,8 @@
         "explanation": "カードをめくるなどの動作を指す。"
       }
     ],
-    "pron": "vuo1"
+    "pron": "vuo1",
+    "num": "426"
   },
   {
     "word": "返内",
@@ -14829,7 +15710,8 @@
         "explanation": "内側を引きずり出す動作を指す。"
       }
     ],
-    "pron": "vuo1 yuo2"
+    "pron": "vuo1 yuo2",
+    "num": "-"
   },
   {
     "word": "返平",
@@ -14845,6 +15727,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuo1 xem1"
+    "pron": "vuo1 xem1",
+    "num": "-"
   }
 ]

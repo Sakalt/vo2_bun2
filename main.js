@@ -25,8 +25,10 @@ const typeColors = {
 let presentPage = 1;
 const wordInOnePage = 30;
 let totalPages;
+let searchTypeElem;
+let searchRuleElem;
 let searchType = "word";
-let searchRuleValue = "part";
+let searchRule = "part";
 let searchText = "";
 let prevButton;
 let nextButton;
@@ -56,46 +58,38 @@ request.onload = function () {
         let numberBoxJP = document.getElementById("numberofwordsjp");
         prevButton.addEventListener("click", () => {
             presentPage--;
-            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            writeDict(data, presentPage, searchText, searchType, searchRule);
             moveBottom();
         });
         nextButton.addEventListener("click", () => {
             presentPage++;
-            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            writeDict(data, presentPage, searchText, searchType, searchRule);
             moveBottom();
         });
         firstButton.addEventListener("click", () => {
             presentPage = 1;
-            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            writeDict(data, presentPage, searchText, searchType, searchRule);
             moveBottom();
         });
         lastButton.addEventListener("click", () => {
             presentPage = totalPages;
-            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            writeDict(data, presentPage, searchText, searchType, searchRule);
             moveBottom();
         });
         searchButton.addEventListener("click", () => {
-            searchTypeList = document.getElementsByName("searchtype");
-            searchRuleList = document.getElementsByName("searchrule");
-            searchTypeList.forEach((a, idx) => {
-                if (searchTypeList.item(idx).checked) {
-                    searchType = searchTypeList.item(idx).value;
-                }
-            });
-            searchRuleList.forEach((a, idx) => {
-                if (searchRuleList.item(idx).checked) {
-                    searchRuleValue = searchRuleList.item(idx).value;
-                }
-            });
+            searchTypeElem = document.getElementById("searchtype");
+            searchRuleElem = document.getElementById("searchrule");
+            searchType = searchTypeElem.value;
+            searchRule = searchRuleElem.value;
             searchText = searchBox.value;
             presentPage = 1;
-            writeDict(data, presentPage, searchText, searchType, searchRuleValue);
+            writeDict(data, presentPage, searchText, searchType, searchRule);
         });
         numberBox.innerHTML = "之時 " + toPhunnum(data.length.toString(12)) + "言";
         numberBoxJP.innerHTML = "現在：" + data.length + "語";
     });
 };
-function searchRule(word, filter, rule) {
+function searchWithRule(word, filter, rule) {
     switch (rule) {
         case "part":
             return word.includes(filter);
@@ -103,6 +97,8 @@ function searchRule(word, filter, rule) {
             return word.startsWith(filter);
         case "end":
             return word.endsWith(filter);
+        case "perfect":
+            return word == filter;
         case "regular":
             const reg = new RegExp(filter);
             return reg.test(word);
@@ -127,17 +123,14 @@ function writeDict(dict, page, filter = "", type = "word", rule = "part") {
     const filtedWords = dict.filter((w) => {
         if (type == "mean") {
             const isMeanIncludes = w["mean"].some((m) => {
-                return searchRule(m["explanation"], filter, rule);
-                //return m["explanation"].includes(filter)
+                return searchWithRule(m["explanation"], filter, rule);
             });
             const isAppendIncludes = w["append"].some((a) => {
-                return searchRule(a["explanation"], filter, rule);
-                //return a["explanation"].includes(filter)
+                return searchWithRule(a["explanation"], filter, rule);
             });
             return isMeanIncludes || isAppendIncludes;
         }
-        return searchRule(w[type], filter, rule); //mean以外の時はこっち
-        //return w[type].includes(filter) 
+        return searchWithRule(w[type], filter, rule); //mean以外の時はこっち
     });
     totalPages = Math.ceil(filtedWords.length / wordInOnePage);
     pagesBox = document.getElementById("pageNum");
@@ -189,12 +182,14 @@ function writeDict(dict, page, filter = "", type = "word", rule = "part") {
             });
             appendHTML += '</div>';
         }
+        const numHTML = w.num == "-" ? "" : `#${w.num}`;
         let wordHTML = `
         <div class="content">
             <div class="word">
                 <span class="phun">【${w.word}】</span>
                 <span class="trans">${w.word}</span>
                 <span class="pron">/${w.pron}/</span>
+                <span class="num">${numHTML}</span>
             </div>
             <div class="mean">
                 ${meanHTML}
