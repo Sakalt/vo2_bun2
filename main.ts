@@ -1,16 +1,16 @@
 const typeColors: any = {
-    "名": {bg: "#ffeeee", br: "#ff9090"},
-    "代名": {bg: "#ffeeee", br: "#ff9090"},
-    "動": {bg: "#fff0ee", br: "#ffbb90"},
-    "形": {bg: "#e7ffdc", br: "#9bed5c"},
-    "副": {bg: "#d3ffd9", br: "#4ed264"},
-    "助": {bg: "#d3fff8", br: "#58edcd"},
-    "助動": {bg: "#d7edff", br: "#5099e8"},
-    "感": {bg: "#ffddfc", br: "#ec71d5"},
-    "接": {bg: "#eaeaea", br: "#909090"},
-    "数": {bg: "#f5d9ff", br: "#b663e7"},
-    "情": {bg: "#ffd9e8", br: "#e76386"},
-    "前置": {bg: "#e6dece", br: "#a27b3b"},
+    "名": "#8a1a12",
+    "代名": "#8a1a12",
+    "動": "#8a6612",
+    "形": "#568a12",
+    "副": "#128a34",
+    "助": "#12788a",
+    "助動": "#123c8a",
+    "感": "#8A1288",
+    "接": "#303030",
+    "数": "#5a128a",
+    "情": "#8A5112",
+    "前置": "#3F2508",
 }
 
 let presentPage = 1
@@ -32,9 +32,6 @@ let lastButton: HTMLButtonElement
 let pagesBox: HTMLElement
 
 let searchBox: HTMLInputElement
-let searchButton: HTMLButtonElement
-let searchTypeList: NodeListOf<HTMLInputElement>
-let searchRuleList: NodeListOf<HTMLInputElement>
 
 // XMLHttpRequestを使ってjsonデータを読み込む
 let requestURL = './dict/dict.json';//jsonへのパス
@@ -52,7 +49,6 @@ request.onload = async function() {
     totalPages = Math.ceil(data.length / wordInOnePage)
 
     searchBox = <HTMLInputElement> document.getElementById("input")
-    searchButton = <HTMLButtonElement> document.getElementById("search")
 
     let numberBox = document.getElementById("numberofwords")
     let numberBoxJP = document.getElementById("numberofwordsjp")
@@ -78,22 +74,31 @@ request.onload = async function() {
         moveBottom()
     })
 
-    searchButton.addEventListener("click", () => {
-        searchTypeElem = <HTMLSelectElement> document.getElementById("searchtype")
-        searchRuleElem = <HTMLSelectElement> document.getElementById("searchrule")
+    searchTypeElem = <HTMLSelectElement> document.getElementById("searchtype")
+    searchRuleElem = <HTMLSelectElement> document.getElementById("searchrule")
 
-        searchType = searchTypeElem.value
-        searchRule = searchRuleElem.value
-        searchText = searchBox.value
-
-        presentPage = 1
-        writeDict(data, presentPage, searchText, searchType, searchRule)
+    searchBox.addEventListener("input", () => {
+        searchDict(data)
+    })
+    searchTypeElem.addEventListener("input", () => {
+        searchDict(data)
+    })
+    searchRuleElem.addEventListener("input", () => {
+        searchDict(data)
     })
 
     numberBox!.innerHTML = "之時 " + toPhunnum(data.length.toString(12)) + "言"
     numberBoxJP!.innerHTML = "現在：" + data.length + "語"
 }
 
+function searchDict(data: any){
+    searchType = searchTypeElem.value
+    searchRule = searchRuleElem.value
+    searchText = searchBox.value
+
+    presentPage = 1
+    writeDict(data, presentPage, searchText, searchType, searchRule)
+}
 
 function searchWithRule(word: string, filter: string, rule: string){
     switch(rule){
@@ -112,6 +117,7 @@ function searchWithRule(word: string, filter: string, rule: string){
 }
 
 function writeDict(dict: object[], page: number, filter: string = "", type: string = "word", rule: string = "part") {
+    console.log("pop!")
     prevButton = <HTMLButtonElement> document.getElementById("prev")
     nextButton = <HTMLButtonElement> document.getElementById("next")
     firstButton = <HTMLButtonElement> document.getElementById("first")
@@ -144,7 +150,7 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
     totalPages = Math.ceil(filtedWords.length / wordInOnePage)
     pagesBox = <HTMLElement> document.getElementById("pageNum")
 
-    pagesBox!.innerHTML = `${presentPage}/${totalPages}`
+    pagesBox!.innerHTML = totalPages < 1? "No results": `${presentPage}/${totalPages}`
         
     const hidePrev = presentPage <= 1
     const hideNext = presentPage >= totalPages
@@ -179,7 +185,9 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
             const type: string = m.partOfSpeech //品詞
             meanHTML += `
             <div class="speech">
-                <span class="type" style="border-color:${typeColors[type].br}; background-color:${typeColors[type].bg};">${type}</span>
+                <span class="type" style="background-color: ${typeColors[type]}">
+                    ${type}
+                </span>
                 <span class="text">${m.explanation}</span>
             </div>
             `
@@ -205,9 +213,10 @@ function writeDict(dict: object[], page: number, filter: string = "", type: stri
         let wordHTML = `
         <div class="content">
             <div class="word">
-                <span class="phun">【${w.word}】</span>
+                <span class="phun">${w.word}</span>
                 <span class="trans">${w.word}</span>
                 <span class="pron">/${w.pron}/</span>
+                <span class="weqo">${w.pron}</span>
                 <span class="num">${numHTML}</span>
             </div>
             <div class="mean">
