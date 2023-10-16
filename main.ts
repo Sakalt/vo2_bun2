@@ -117,7 +117,6 @@ function searchWithRule(word: string, filter: string, rule: string){
 }
 
 function writeDict(dict: object[], page: number, filter: string = "", type: string = "word", rule: string = "part") {
-    console.log("pop!")
     prevButton = <HTMLButtonElement> document.getElementById("prev")
     nextButton = <HTMLButtonElement> document.getElementById("next")
     firstButton = <HTMLButtonElement> document.getElementById("first")

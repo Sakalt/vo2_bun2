@@ -110,7 +110,6 @@ function searchWithRule(word, filter, rule) {
     }
 }
 function writeDict(dict, page, filter = "", type = "word", rule = "part") {
-    console.log("pop!");
     prevButton = document.getElementById("prev");
     nextButton = document.getElementById("next");
     firstButton = document.getElementById("first");
