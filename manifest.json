@@ -1,0 +1,20 @@
+{
+  "short_name": "雰和辞典",
+  "name": "雰和辞典",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#014f41",
+  "background_color": "#014f41"
+}
